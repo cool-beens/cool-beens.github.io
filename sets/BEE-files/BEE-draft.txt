@@ -3004,7 +3004,7 @@
 			"name": "Automatic Inspector",
 			"rarity": "rare",
 			"mana_cost": "{W}",
-			"type": "Artifact Creature — Construct ",
+			"type": "Artifact Creature — Gnome ",
 			"collector_number": "6",
 			"image_uris": {
 				"en": "https://cool-beens.github.io/sets/BEE-files/img/6_Automatic Inspector.png"
@@ -3554,7 +3554,7 @@
 			"name": "Master of the Silent Hunt",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Tiefling Druid ",
+			"type": "Creature — Azra Druid ",
 			"collector_number": "212",
 			"image_uris": {
 				"en": "https://cool-beens.github.io/sets/BEE-files/img/212_Master of the Silent Hunt.png"
