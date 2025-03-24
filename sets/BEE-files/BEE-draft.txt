@@ -2461,16 +2461,6 @@
 			}
 		},
 		{
-			"name": "Wartorn Theater",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "358",
-			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/358_Wartorn Theater.png"
-			}
-		},
-		{
 			"name": "Perennial Festivities",
 			"rarity": "rare",
 			"mana_cost": "{W}",
@@ -3599,6 +3589,16 @@
 			"image_uris": {
 				"en": "https://cool-beens.github.io/sets/BEE-files/img/343_Reflective Matrix.png"
 			}
+		},
+		{
+			"name": "Wartorn Theater",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "358",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/358_Wartorn Theater.png"
+			}
 		}
 	]
 [RareSlot(15)]
@@ -3848,7 +3848,6 @@
 2 Sulfuric Volcano
 2 Sundried Savannah
 2 Vault of the Guardians
-2 Wartorn Theater
 2 Perennial Festivities
 2 LANCELOT Mk. II
 2 Seamus, Stalwart Medium
@@ -3962,3 +3961,4 @@
 2 Collector of Curios
 2 Healer's Harness
 2 Reflective Matrix
+2 Wartorn Theater
