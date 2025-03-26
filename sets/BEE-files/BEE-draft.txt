@@ -201,13 +201,13 @@
 			}
 		},
 		{
-			"name": "Territiorial Felidar",
+			"name": "Territorial Felidar",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Cat Beast ",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/38_Territiorial Felidar.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/38_Territorial Felidar.png"
 			}
 		},
 		{
@@ -1571,13 +1571,13 @@
 			}
 		},
 		{
-			"name": "Terraformer Frog",
+			"name": "Terraformer Toad",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Frog ",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/225_Terraformer Frog.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/225_Terraformer Toad.png"
 			}
 		},
 		{
@@ -2464,7 +2464,7 @@
 			"name": "Perennial Festivities",
 			"rarity": "rare",
 			"mana_cost": "{W}",
-			"type": "Enchantments",
+			"type": "Enchantment",
 			"collector_number": "28",
 			"image_uris": {
 				"en": "https://cool-beens.github.io/sets/BEE-files/img/28_Perennial Festivities.png"
@@ -3622,7 +3622,7 @@
 2 Starsworn Canonist
 2 Supernova
 2 Swiftblade Gladiator
-2 Territiorial Felidar
+2 Territorial Felidar
 2 Tobias, Forefront Steward
 2 Triumphant Trio
 2 Vanish
@@ -3759,7 +3759,7 @@
 2 Rogbin, Plucker of Wings
 2 Rootpath Wanderer
 2 Sage of Restoration
-2 Terraformer Frog
+2 Terraformer Toad
 2 Tidal Hierarch
 2 Transformation Sage
 2 Abrasive Tamer
