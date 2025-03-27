@@ -1051,16 +1051,6 @@
 			}
 		},
 		{
-			"name": "Draconic Aspirant",
-			"rarity": "rare",
-			"mana_cost": "{R}",
-			"type": "Creature — Human Shaman ",
-			"collector_number": "150",
-			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/150_Draconic Aspirant.png"
-			}
-		},
-		{
 			"name": "Dustblade Khenra",
 			"rarity": "rare",
 			"mana_cost": "{R}",
@@ -3599,6 +3589,16 @@
 			"image_uris": {
 				"en": "https://cool-beens.github.io/sets/BEE-files/img/358_Wartorn Theater.png"
 			}
+		},
+		{
+			"name": "Draconic Aspirant",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/150_Draconic Aspirant.png"
+			}
 		}
 	]
 [RareSlot(15)]
@@ -3707,7 +3707,6 @@
 2 Chromatic Assailant
 2 Dance of the Crimson Veil
 2 Defiant Torch
-2 Draconic Aspirant
 2 Dustblade Khenra
 2 Fiery Distraction
 2 Final Sunset
@@ -3962,3 +3961,4 @@
 2 Healer's Harness
 2 Reflective Matrix
 2 Wartorn Theater
+2 Draconic Aspirant
