@@ -965,9 +965,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact Creature — Insect ",
-			"collector_number": "149",
+			"collector_number": "148",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/149_Detonator Drones.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/148_Detonator Drones.png"
 			}
 		},
 		{
@@ -1011,23 +1011,13 @@
 			}
 		},
 		{
-			"name": "Carve",
-			"rarity": "rare",
-			"mana_cost": "{R}",
-			"type": "Instant",
-			"collector_number": "145",
-			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/145_Carve.png"
-			}
-		},
-		{
 			"name": "Chromatic Assailant",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Dragon Warrior ",
-			"collector_number": "146",
+			"collector_number": "145",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/146_Chromatic Assailant.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/145_Chromatic Assailant.png"
 			}
 		},
 		{
@@ -1035,9 +1025,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "147",
+			"collector_number": "146",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/147_Dance of the Crimson Veil.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/146_Dance of the Crimson Veil.png"
 			}
 		},
 		{
@@ -1045,9 +1035,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "148",
+			"collector_number": "147",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/148_Defiant Torch.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/147_Defiant Torch.png"
 			}
 		},
 		{
@@ -1141,13 +1131,13 @@
 			}
 		},
 		{
-			"name": "Knight of Spring",
+			"name": "Knight of Summer",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Human Knight ",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/165_Knight of Spring.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/165_Knight of Summer.png"
 			}
 		},
 		{
@@ -1433,8 +1423,8 @@
 		{
 			"name": "Lingering Lhurgoyfs",
 			"rarity": "rare",
-			"mana_cost": "{5}{G}",
-			"type": "Sorcery",
+			"mana_cost": "{6}{G}",
+			"type": "Kindred Sorcery — Lhurgoyf ",
 			"collector_number": "208",
 			"image_uris": {
 				"en": "https://cool-beens.github.io/sets/BEE-files/img/208_Lingering Lhurgoyfs.png"
@@ -2281,16 +2271,6 @@
 			}
 		},
 		{
-			"name": "Sanctum of Battle",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "346",
-			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/346_Sanctum of Battle.png"
-			}
-		},
-		{
 			"name": "Sunfirth Settlement",
 			"rarity": "rare",
 			"mana_cost": "",
@@ -2305,9 +2285,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Island Mountain ",
-			"collector_number": "318",
+			"collector_number": "319",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/318_Concealed Roost.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/319_Concealed Roost.png"
 			}
 		},
 		{
@@ -2315,9 +2295,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Plains Island ",
-			"collector_number": "339",
+			"collector_number": "340",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/339_Moonlit Lakefront.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/340_Moonlit Lakefront.png"
 			}
 		},
 		{
@@ -2325,9 +2305,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "322",
+			"collector_number": "323",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/322_Dormant Halls.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/323_Dormant Halls.png"
 			}
 		},
 		{
@@ -2335,9 +2315,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "324",
+			"collector_number": "325",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/324_The Eternal Glade.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/325_The Eternal Glade.png"
 			}
 		},
 		{
@@ -2345,9 +2325,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "327",
+			"collector_number": "328",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/327_Forest of Beasts.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/328_Forest of Beasts.png"
 			}
 		},
 		{
@@ -2355,9 +2335,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "328",
+			"collector_number": "329",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/328_Forgotten Tomb.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/329_Forgotten Tomb.png"
 			}
 		},
 		{
@@ -2365,9 +2345,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "329",
+			"collector_number": "330",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/329_Fractured Spire.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/330_Fractured Spire.png"
 			}
 		},
 		{
@@ -2375,9 +2355,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "331",
+			"collector_number": "332",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/331_Grim Arena.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/332_Grim Arena.png"
 			}
 		},
 		{
@@ -2385,9 +2365,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "332",
+			"collector_number": "333",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/332_Hillside Wreckage.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/333_Hillside Wreckage.png"
 			}
 		},
 		{
@@ -2395,9 +2375,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "333",
+			"collector_number": "334",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/333_Hollow Bulwark.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/334_Hollow Bulwark.png"
 			}
 		},
 		{
@@ -2405,9 +2385,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "342",
+			"collector_number": "343",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/342_Plague Quarter.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/343_Plague Quarter.png"
 			}
 		},
 		{
@@ -2605,9 +2585,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "320",
+			"collector_number": "321",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/320_Dawnglade Settlement.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/321_Dawnglade Settlement.png"
 			}
 		},
 		{
@@ -2615,9 +2595,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "338",
+			"collector_number": "339",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/338_Mistmire Settlement.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/339_Mistmire Settlement.png"
 			}
 		},
 		{
@@ -2625,9 +2605,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "316",
+			"collector_number": "317",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/316_Cloudpeak Settlement.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/317_Cloudpeak Settlement.png"
 			}
 		},
 		{
@@ -2645,9 +2625,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "315",
+			"collector_number": "316",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/315_Cliffside Settlement.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/316_Cliffside Settlement.png"
 			}
 		},
 		{
@@ -2655,9 +2635,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "325",
+			"collector_number": "326",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/325_Floodcove Settlement.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/326_Floodcove Settlement.png"
 			}
 		},
 		{
@@ -2675,9 +2655,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Plains Swamp ",
-			"collector_number": "330",
+			"collector_number": "331",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/330_Golden Grotto.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/331_Golden Grotto.png"
 			}
 		},
 		{
@@ -2685,9 +2665,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Mountain Forest ",
-			"collector_number": "345",
+			"collector_number": "346",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/345_Resplendent Glade.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/346_Resplendent Glade.png"
 			}
 		},
 		{
@@ -2705,9 +2685,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Plains Island ",
-			"collector_number": "344",
+			"collector_number": "345",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/344_Remote Beach.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/345_Remote Beach.png"
 			}
 		},
 		{
@@ -2715,9 +2695,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Swamp Forest ",
-			"collector_number": "319",
+			"collector_number": "320",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/319_Crocodile Haven.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/320_Crocodile Haven.png"
 			}
 		},
 		{
@@ -2725,9 +2705,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Mountain Plains ",
-			"collector_number": "341",
+			"collector_number": "342",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/341_Otherworldly Vista.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/342_Otherworldly Vista.png"
 			}
 		},
 		{
@@ -2735,9 +2715,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Forest Island ",
-			"collector_number": "334",
+			"collector_number": "335",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/334_Idyllic Lakeside.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/335_Idyllic Lakeside.png"
 			}
 		},
 		{
@@ -2745,9 +2725,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Island Swamp ",
-			"collector_number": "317",
+			"collector_number": "318",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/317_Coastal Archway.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/318_Coastal Archway.png"
 			}
 		},
 		{
@@ -2825,9 +2805,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "336",
+			"collector_number": "337",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/336_Limits of Imagination.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/337_Limits of Imagination.png"
 			}
 		},
 		{
@@ -2835,9 +2815,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "335",
+			"collector_number": "336",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/335_Jade Palace.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/336_Jade Palace.png"
 			}
 		},
 		{
@@ -3015,9 +2995,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Forest Island ",
-			"collector_number": "337",
+			"collector_number": "338",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/337_Midmorning Meadow.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/338_Midmorning Meadow.png"
 			}
 		},
 		{
@@ -3045,9 +3025,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Island Mountain ",
-			"collector_number": "321",
+			"collector_number": "322",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/321_Distant Monoliths.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/322_Distant Monoliths.png"
 			}
 		},
 		{
@@ -3055,9 +3035,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Plains Swamp ",
-			"collector_number": "340",
+			"collector_number": "341",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/340_Nocturnal Blossom.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/341_Nocturnal Blossom.png"
 			}
 		},
 		{
@@ -3085,9 +3065,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Swamp Mountain ",
-			"collector_number": "326",
+			"collector_number": "327",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/326_Foreboding Monuments.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/327_Foreboding Monuments.png"
 			}
 		},
 		{
@@ -3095,9 +3075,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Island Swamp ",
-			"collector_number": "323",
+			"collector_number": "324",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/323_Duskbank Shores.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/324_Duskbank Shores.png"
 			}
 		},
 		{
@@ -3575,9 +3555,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Artifact Land — Fortification ",
-			"collector_number": "343",
+			"collector_number": "344",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/343_Reflective Matrix.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/344_Reflective Matrix.png"
 			}
 		},
 		{
@@ -3595,9 +3575,29 @@
 			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Shaman ",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/149_Draconic Aspirant.png"
+			}
+		},
+		{
+			"name": "Citadel of the Banished",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "315",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/315_Citadel of the Banished.png"
+			}
+		},
+		{
+			"name": "Dragon-Tongue Technique",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Enchantment",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/150_Draconic Aspirant.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/150_Dragon-Tongue Technique.png"
 			}
 		}
 	]
@@ -3703,7 +3703,6 @@
 2 Ancestral Gambit
 2 Brazen Burglar
 2 Capricious Pyromancer
-2 Carve
 2 Chromatic Assailant
 2 Dance of the Crimson Veil
 2 Defiant Torch
@@ -3716,7 +3715,7 @@
 2 Harvest Reaper
 2 Horus, Apex Captain
 2 Invoke Flame
-2 Knight of Spring
+2 Knight of Summer
 2 Magmatic Transfiguration
 2 Tyrant's Roar
 2 Rage of the Calamity
@@ -3830,7 +3829,6 @@
 2 Battered Shipwreck
 2 Bustling Market
 2 Cavern of Threads
-2 Sanctum of Battle
 2 Sunfirth Settlement
 2 Concealed Roost
 2 Moonlit Lakefront
@@ -3962,3 +3960,5 @@
 2 Reflective Matrix
 2 Wartorn Theater
 2 Draconic Aspirant
+2 Citadel of the Banished
+2 Dragon-Tongue Technique
