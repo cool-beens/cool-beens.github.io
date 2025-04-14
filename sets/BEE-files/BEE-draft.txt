@@ -7,7 +7,7 @@
 			"type": "Legendary Planeswalker — C ",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/1_Centennial, Time Keeper.png"
+				"en": "https:///sets/BEE-files/img/1_Centennial, Time Keeper.png"
 			}
 		},
 		{
@@ -17,7 +17,7 @@
 			"type": "Legendary Planeswalker — Alarez ",
 			"collector_number": "234",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/234_Alarez, Milita Crier.png"
+				"en": "https:///sets/BEE-files/img/234_Alarez, Milita Crier.png"
 			}
 		},
 		{
@@ -27,7 +27,7 @@
 			"type": "Creature — Human Artificer ",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/8_Cogwork Virtuoso.png"
+				"en": "https:///sets/BEE-files/img/8_Cogwork Virtuoso.png"
 			}
 		},
 		{
@@ -37,7 +37,7 @@
 			"type": "Creature — Human Knight ",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/11_Danitha's Steward.png"
+				"en": "https:///sets/BEE-files/img/11_Danitha's Steward.png"
 			}
 		},
 		{
@@ -47,7 +47,7 @@
 			"type": "Instant",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/16_Evanesce.png"
+				"en": "https:///sets/BEE-files/img/16_Evanesce.png"
 			}
 		},
 		{
@@ -57,7 +57,7 @@
 			"type": "Creature — Human Cleric ",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/12_Divine Wardwielders.png"
+				"en": "https:///sets/BEE-files/img/12_Divine Wardwielders.png"
 			}
 		},
 		{
@@ -67,7 +67,7 @@
 			"type": "Sorcery",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/15_Empty Trenches.png"
+				"en": "https:///sets/BEE-files/img/15_Empty Trenches.png"
 			}
 		},
 		{
@@ -77,7 +77,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/17_Forswear Violence.png"
+				"en": "https:///sets/BEE-files/img/17_Forswear Violence.png"
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 			"type": "Enchantment",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/18_Frozen Over.png"
+				"en": "https:///sets/BEE-files/img/18_Frozen Over.png"
 			}
 		},
 		{
@@ -97,7 +97,7 @@
 			"type": "Enchantment",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/19_Haunting Pursuit.png"
+				"en": "https:///sets/BEE-files/img/19_Haunting Pursuit.png"
 			}
 		},
 		{
@@ -107,7 +107,7 @@
 			"type": "Creature — Giant Elemental ",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/21_Idyllic Primordial.png"
+				"en": "https:///sets/BEE-files/img/21_Idyllic Primordial.png"
 			}
 		},
 		{
@@ -117,7 +117,7 @@
 			"type": "Enchantment",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/22_In The Queen's Court.png"
+				"en": "https:///sets/BEE-files/img/22_In The Queen's Court.png"
 			}
 		},
 		{
@@ -127,7 +127,7 @@
 			"type": "Enchantment",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/23_A Kingdom Reborn.png"
+				"en": "https:///sets/BEE-files/img/23_A Kingdom Reborn.png"
 			}
 		},
 		{
@@ -137,7 +137,7 @@
 			"type": "Creature — Cat Warrior Spellshaper ",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/24_Leonin Cub.png"
+				"en": "https:///sets/BEE-files/img/24_Leonin Cub.png"
 			}
 		},
 		{
@@ -147,7 +147,7 @@
 			"type": "Creature — Human Monk ",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/25_Master of Balance.png"
+				"en": "https:///sets/BEE-files/img/25_Master of Balance.png"
 			}
 		},
 		{
@@ -157,7 +157,7 @@
 			"type": "Creature — Human Wizard ",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/27_Patron of Familiars.png"
+				"en": "https:///sets/BEE-files/img/27_Patron of Familiars.png"
 			}
 		},
 		{
@@ -167,7 +167,7 @@
 			"type": "Creature — Merfolk Rogue ",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/31_Shoreline Eggkeeper.png"
+				"en": "https:///sets/BEE-files/img/31_Shoreline Eggkeeper.png"
 			}
 		},
 		{
@@ -177,7 +177,7 @@
 			"type": "Enchantment Creature — Human Cleric ",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/33_Starsworn Canonist.png"
+				"en": "https:///sets/BEE-files/img/33_Starsworn Canonist.png"
 			}
 		},
 		{
@@ -187,7 +187,7 @@
 			"type": "Sorcery",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/35_Supernova.png"
+				"en": "https:///sets/BEE-files/img/35_Supernova.png"
 			}
 		},
 		{
@@ -197,7 +197,7 @@
 			"type": "Creature — Human Warrior ",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/36_Swiftblade Gladiator.png"
+				"en": "https:///sets/BEE-files/img/36_Swiftblade Gladiator.png"
 			}
 		},
 		{
@@ -207,7 +207,7 @@
 			"type": "Creature — Cat Beast ",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/38_Territorial Felidar.png"
+				"en": "https:///sets/BEE-files/img/38_Territorial Felidar.png"
 			}
 		},
 		{
@@ -217,7 +217,7 @@
 			"type": "Legendary Creature — Human Knight ",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/39_Tobias, Forefront Steward.png"
+				"en": "https:///sets/BEE-files/img/39_Tobias, Forefront Steward.png"
 			}
 		},
 		{
@@ -227,7 +227,7 @@
 			"type": "Creature — Cat Elephant Giraffe ",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/40_Triumphant Trio.png"
+				"en": "https:///sets/BEE-files/img/40_Triumphant Trio.png"
 			}
 		},
 		{
@@ -237,7 +237,7 @@
 			"type": "Instant",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/41_Vanish.png"
+				"en": "https:///sets/BEE-files/img/41_Vanish.png"
 			}
 		},
 		{
@@ -247,7 +247,7 @@
 			"type": "Creature — Human Knight ",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/42_Vengeant Paladin.png"
+				"en": "https:///sets/BEE-files/img/42_Vengeant Paladin.png"
 			}
 		},
 		{
@@ -257,7 +257,7 @@
 			"type": "Instant",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/45_Walk the Shattered Path.png"
+				"en": "https:///sets/BEE-files/img/45_Walk the Shattered Path.png"
 			}
 		},
 		{
@@ -267,7 +267,7 @@
 			"type": "Creature — Human Soldier ",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/46_Warborn Martyr.png"
+				"en": "https:///sets/BEE-files/img/46_Warborn Martyr.png"
 			}
 		},
 		{
@@ -277,7 +277,7 @@
 			"type": "Creature — Human Scout ",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/47_Wary Watchman.png"
+				"en": "https:///sets/BEE-files/img/47_Wary Watchman.png"
 			}
 		},
 		{
@@ -287,7 +287,7 @@
 			"type": "Artifact",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/50_Archivist's Armillary.png"
+				"en": "https:///sets/BEE-files/img/50_Archivist's Armillary.png"
 			}
 		},
 		{
@@ -297,7 +297,7 @@
 			"type": "Creature — Human Arificer ",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/51_Artificer of Eos.png"
+				"en": "https:///sets/BEE-files/img/51_Artificer of Eos.png"
 			}
 		},
 		{
@@ -307,7 +307,7 @@
 			"type": "Sorcery",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/52_Consult the Runes.png"
+				"en": "https:///sets/BEE-files/img/52_Consult the Runes.png"
 			}
 		},
 		{
@@ -317,7 +317,7 @@
 			"type": "Instant",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/53_Crack the Conduit.png"
+				"en": "https:///sets/BEE-files/img/53_Crack the Conduit.png"
 			}
 		},
 		{
@@ -327,7 +327,7 @@
 			"type": "Instant",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/54_Cry Together.png"
+				"en": "https:///sets/BEE-files/img/54_Cry Together.png"
 			}
 		},
 		{
@@ -337,7 +337,7 @@
 			"type": "Enchantment",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/55_Cthonic Arcana.png"
+				"en": "https:///sets/BEE-files/img/55_Cthonic Arcana.png"
 			}
 		},
 		{
@@ -347,7 +347,7 @@
 			"type": "Creature — Human Wizard ",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/56_Doomed Sorcerer.png"
+				"en": "https:///sets/BEE-files/img/56_Doomed Sorcerer.png"
 			}
 		},
 		{
@@ -357,7 +357,7 @@
 			"type": "Instant",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/57_Eclipse.png"
+				"en": "https:///sets/BEE-files/img/57_Eclipse.png"
 			}
 		},
 		{
@@ -367,7 +367,7 @@
 			"type": "Instant",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/58_Fantasize.png"
+				"en": "https:///sets/BEE-files/img/58_Fantasize.png"
 			}
 		},
 		{
@@ -377,7 +377,7 @@
 			"type": "Enchantment — Saga ",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/62_Journey Through Time.png"
+				"en": "https:///sets/BEE-files/img/62_Journey Through Time.png"
 			}
 		},
 		{
@@ -387,7 +387,7 @@
 			"type": "Artifact Creature — Giant Elemental ",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/63_Knowledge Primordial.png"
+				"en": "https:///sets/BEE-files/img/63_Knowledge Primordial.png"
 			}
 		},
 		{
@@ -397,7 +397,7 @@
 			"type": "Legendary Planeswalker — Kralyk ",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/64_Kralyk, Runic Terror.png"
+				"en": "https:///sets/BEE-files/img/64_Kralyk, Runic Terror.png"
 			}
 		},
 		{
@@ -407,7 +407,7 @@
 			"type": "Legendary Planeswalker — Dremae ",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/65_Lady Dremae, the Archivist.png"
+				"en": "https:///sets/BEE-files/img/65_Lady Dremae, the Archivist.png"
 			}
 		},
 		{
@@ -417,7 +417,7 @@
 			"type": "Legendary Creature — Human Detective ",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/67_Lucille, Dockhand Sleuth.png"
+				"en": "https:///sets/BEE-files/img/67_Lucille, Dockhand Sleuth.png"
 			}
 		},
 		{
@@ -427,7 +427,7 @@
 			"type": "Enchantment",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/68_Mindbent Trance.png"
+				"en": "https:///sets/BEE-files/img/68_Mindbent Trance.png"
 			}
 		},
 		{
@@ -437,7 +437,7 @@
 			"type": "Instant",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/69_Mistify.png"
+				"en": "https:///sets/BEE-files/img/69_Mistify.png"
 			}
 		},
 		{
@@ -447,7 +447,7 @@
 			"type": "Instant",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/71_Refuse Entry.png"
+				"en": "https:///sets/BEE-files/img/71_Refuse Entry.png"
 			}
 		},
 		{
@@ -457,7 +457,7 @@
 			"type": "Instant",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/72_Regent's Waltz.png"
+				"en": "https:///sets/BEE-files/img/72_Regent's Waltz.png"
 			}
 		},
 		{
@@ -467,7 +467,7 @@
 			"type": "Instant",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/74_Revelatory Contemplation.png"
+				"en": "https:///sets/BEE-files/img/74_Revelatory Contemplation.png"
 			}
 		},
 		{
@@ -477,7 +477,7 @@
 			"type": "Instant",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/76_Screeching Delusions.png"
+				"en": "https:///sets/BEE-files/img/76_Screeching Delusions.png"
 			}
 		},
 		{
@@ -487,7 +487,7 @@
 			"type": "Creature — Phyrexian Human Artificer ",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/78_Shield Splicer.png"
+				"en": "https:///sets/BEE-files/img/78_Shield Splicer.png"
 			}
 		},
 		{
@@ -497,7 +497,7 @@
 			"type": "Creature — Serpent ",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/79_Shipcrusher Serpent.png"
+				"en": "https:///sets/BEE-files/img/79_Shipcrusher Serpent.png"
 			}
 		},
 		{
@@ -507,7 +507,7 @@
 			"type": "Creature — Human Pirate Spellshaper ",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/80_Skyship Saboteur.png"
+				"en": "https:///sets/BEE-files/img/80_Skyship Saboteur.png"
 			}
 		},
 		{
@@ -517,7 +517,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/82_Spurious Curiosity.png"
+				"en": "https:///sets/BEE-files/img/82_Spurious Curiosity.png"
 			}
 		},
 		{
@@ -527,7 +527,7 @@
 			"type": "Sorcery",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/83_Swallow the Moon.png"
+				"en": "https:///sets/BEE-files/img/83_Swallow the Moon.png"
 			}
 		},
 		{
@@ -537,7 +537,7 @@
 			"type": "Instant",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/84_Sweet Dreams.png"
+				"en": "https:///sets/BEE-files/img/84_Sweet Dreams.png"
 			}
 		},
 		{
@@ -547,7 +547,7 @@
 			"type": "Creature — Drake ",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/85_Talrand's Favored.png"
+				"en": "https:///sets/BEE-files/img/85_Talrand's Favored.png"
 			}
 		},
 		{
@@ -557,7 +557,7 @@
 			"type": "Creature — Elemental ",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/59_Guardian of the Ziggurat.png"
+				"en": "https:///sets/BEE-files/img/59_Guardian of the Ziggurat.png"
 			}
 		},
 		{
@@ -567,7 +567,7 @@
 			"type": "Instant",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/87_Three Card Bluff.png"
+				"en": "https:///sets/BEE-files/img/87_Three Card Bluff.png"
 			}
 		},
 		{
@@ -577,7 +577,7 @@
 			"type": "Creature — Human Wizard ",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/88_Tireless Librarian.png"
+				"en": "https:///sets/BEE-files/img/88_Tireless Librarian.png"
 			}
 		},
 		{
@@ -587,7 +587,7 @@
 			"type": "Creature — Vampire Rogue ",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/89_Twinfang Duelist.png"
+				"en": "https:///sets/BEE-files/img/89_Twinfang Duelist.png"
 			}
 		},
 		{
@@ -597,7 +597,7 @@
 			"type": "Instant",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/93_Witness the Past.png"
+				"en": "https:///sets/BEE-files/img/93_Witness the Past.png"
 			}
 		},
 		{
@@ -607,7 +607,7 @@
 			"type": "Instant",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/94_Attack of the Killer Bees.png"
+				"en": "https:///sets/BEE-files/img/94_Attack of the Killer Bees.png"
 			}
 		},
 		{
@@ -617,7 +617,7 @@
 			"type": "Legendary Creature — Zombie Noble ",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/95_Avera, Duchess of the Dead.png"
+				"en": "https:///sets/BEE-files/img/95_Avera, Duchess of the Dead.png"
 			}
 		},
 		{
@@ -627,7 +627,7 @@
 			"type": "Instant",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/96_Blood Upon the Altar.png"
+				"en": "https:///sets/BEE-files/img/96_Blood Upon the Altar.png"
 			}
 		},
 		{
@@ -637,7 +637,7 @@
 			"type": "Creature — Human Warrior ",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/97_Bloodsoaked Warmonger.png"
+				"en": "https:///sets/BEE-files/img/97_Bloodsoaked Warmonger.png"
 			}
 		},
 		{
@@ -647,7 +647,7 @@
 			"type": "Creature — Human Warrior ",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/101_Curseblade Initiate.png"
+				"en": "https:///sets/BEE-files/img/101_Curseblade Initiate.png"
 			}
 		},
 		{
@@ -657,7 +657,7 @@
 			"type": "Enchantment — Saga ",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/102_Depths of Despair.png"
+				"en": "https:///sets/BEE-files/img/102_Depths of Despair.png"
 			}
 		},
 		{
@@ -667,7 +667,7 @@
 			"type": "Creature — Giant Elemental ",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/103_Diabolic Primordial.png"
+				"en": "https:///sets/BEE-files/img/103_Diabolic Primordial.png"
 			}
 		},
 		{
@@ -677,7 +677,7 @@
 			"type": "Enchantment",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/106_Eternal Sleep.png"
+				"en": "https:///sets/BEE-files/img/106_Eternal Sleep.png"
 			}
 		},
 		{
@@ -687,7 +687,7 @@
 			"type": "Creature — Lhurgoyf ",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/108_Feathergoyf.png"
+				"en": "https:///sets/BEE-files/img/108_Feathergoyf.png"
 			}
 		},
 		{
@@ -697,7 +697,7 @@
 			"type": "Enchantment",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/109_Flay the Mind.png"
+				"en": "https:///sets/BEE-files/img/109_Flay the Mind.png"
 			}
 		},
 		{
@@ -707,7 +707,7 @@
 			"type": "Sorcery",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/110_Forgotten Ritual.png"
+				"en": "https:///sets/BEE-files/img/110_Forgotten Ritual.png"
 			}
 		},
 		{
@@ -717,7 +717,7 @@
 			"type": "Enchantment",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/111_Gifts from Below.png"
+				"en": "https:///sets/BEE-files/img/111_Gifts from Below.png"
 			}
 		},
 		{
@@ -727,7 +727,7 @@
 			"type": "Sorcery",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/113_Hellfire Meteor.png"
+				"en": "https:///sets/BEE-files/img/113_Hellfire Meteor.png"
 			}
 		},
 		{
@@ -737,7 +737,7 @@
 			"type": "Legendary Planeswalker — Ibligm ",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/114_Ibligm, The Sporesage.png"
+				"en": "https:///sets/BEE-files/img/114_Ibligm, The Sporesage.png"
 			}
 		},
 		{
@@ -747,7 +747,7 @@
 			"type": "Sorcery",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/117_Midnight Wish.png"
+				"en": "https:///sets/BEE-files/img/117_Midnight Wish.png"
 			}
 		},
 		{
@@ -757,7 +757,7 @@
 			"type": "Instant",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/118_Murderous Intent.png"
+				"en": "https:///sets/BEE-files/img/118_Murderous Intent.png"
 			}
 		},
 		{
@@ -767,7 +767,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/119_Necrotic Dissolution.png"
+				"en": "https:///sets/BEE-files/img/119_Necrotic Dissolution.png"
 			}
 		},
 		{
@@ -777,7 +777,7 @@
 			"type": "Legendary Planeswalker — Nora ",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/120_Nora, Crimson Occultist.png"
+				"en": "https:///sets/BEE-files/img/120_Nora, Crimson Occultist.png"
 			}
 		},
 		{
@@ -787,7 +787,7 @@
 			"type": "Sorcery",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/121_Oversaturate.png"
+				"en": "https:///sets/BEE-files/img/121_Oversaturate.png"
 			}
 		},
 		{
@@ -797,7 +797,7 @@
 			"type": "Instant",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/123_Primordial Blight.png"
+				"en": "https:///sets/BEE-files/img/123_Primordial Blight.png"
 			}
 		},
 		{
@@ -807,7 +807,7 @@
 			"type": "Creature — Human Demon Warlock ",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/124_Prismatic Ritualist.png"
+				"en": "https:///sets/BEE-files/img/124_Prismatic Ritualist.png"
 			}
 		},
 		{
@@ -817,7 +817,7 @@
 			"type": "Creature — Rat ",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/125_Rabid Rat.png"
+				"en": "https:///sets/BEE-files/img/125_Rabid Rat.png"
 			}
 		},
 		{
@@ -827,7 +827,7 @@
 			"type": "Creature — Vampire  Noble Cleric ",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/126_Regent of the Eirzhari.png"
+				"en": "https:///sets/BEE-files/img/126_Regent of the Eirzhari.png"
 			}
 		},
 		{
@@ -837,7 +837,7 @@
 			"type": "Instant",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/127_Repay in Blood.png"
+				"en": "https:///sets/BEE-files/img/127_Repay in Blood.png"
 			}
 		},
 		{
@@ -847,7 +847,7 @@
 			"type": "Sorcery",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/128_Return of the Eternal.png"
+				"en": "https:///sets/BEE-files/img/128_Return of the Eternal.png"
 			}
 		},
 		{
@@ -857,7 +857,7 @@
 			"type": "Instant",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/129_Right Hook.png"
+				"en": "https:///sets/BEE-files/img/129_Right Hook.png"
 			}
 		},
 		{
@@ -867,7 +867,7 @@
 			"type": "Enchantment",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/130_Ritual Preparations.png"
+				"en": "https:///sets/BEE-files/img/130_Ritual Preparations.png"
 			}
 		},
 		{
@@ -877,7 +877,7 @@
 			"type": "Creature — Orc Warrior ",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/131_Ruthless Taskmaster.png"
+				"en": "https:///sets/BEE-files/img/131_Ruthless Taskmaster.png"
 			}
 		},
 		{
@@ -887,7 +887,7 @@
 			"type": "Instant",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/132_Sadistic Edict.png"
+				"en": "https:///sets/BEE-files/img/132_Sadistic Edict.png"
 			}
 		},
 		{
@@ -897,7 +897,7 @@
 			"type": "Sorcery",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/133_Shambling Return.png"
+				"en": "https:///sets/BEE-files/img/133_Shambling Return.png"
 			}
 		},
 		{
@@ -907,7 +907,7 @@
 			"type": "Instant",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/135_Sucker Punch.png"
+				"en": "https:///sets/BEE-files/img/135_Sucker Punch.png"
 			}
 		},
 		{
@@ -917,7 +917,7 @@
 			"type": "Creature — Thrull Beast ",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/137_Thrull Scamp.png"
+				"en": "https:///sets/BEE-files/img/137_Thrull Scamp.png"
 			}
 		},
 		{
@@ -927,7 +927,7 @@
 			"type": "Creature — Spirit Knight ",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/138_Twilight Cavalry.png"
+				"en": "https:///sets/BEE-files/img/138_Twilight Cavalry.png"
 			}
 		},
 		{
@@ -937,7 +937,7 @@
 			"type": "Enchantment Creature — Zombie Spellshaper ",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/139_Underworld Duelist.png"
+				"en": "https:///sets/BEE-files/img/139_Underworld Duelist.png"
 			}
 		},
 		{
@@ -947,7 +947,7 @@
 			"type": "Creature — Skeleton ",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/134_Subservient Skeleton.png"
+				"en": "https:///sets/BEE-files/img/134_Subservient Skeleton.png"
 			}
 		},
 		{
@@ -957,7 +957,7 @@
 			"type": "Sorcery",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/115_Lucky Find.png"
+				"en": "https:///sets/BEE-files/img/115_Lucky Find.png"
 			}
 		},
 		{
@@ -967,7 +967,7 @@
 			"type": "Artifact Creature — Insect ",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/148_Detonator Drones.png"
+				"en": "https:///sets/BEE-files/img/148_Detonator Drones.png"
 			}
 		},
 		{
@@ -977,7 +977,7 @@
 			"type": "Creature — Monkey ",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/140_Absurd Ape.png"
+				"en": "https:///sets/BEE-files/img/140_Absurd Ape.png"
 			}
 		},
 		{
@@ -987,7 +987,7 @@
 			"type": "Sorcery",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/141_Ancestral Gambit.png"
+				"en": "https:///sets/BEE-files/img/141_Ancestral Gambit.png"
 			}
 		},
 		{
@@ -997,7 +997,7 @@
 			"type": "Creature — Goblin Rogue ",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/143_Brazen Burglar.png"
+				"en": "https:///sets/BEE-files/img/143_Brazen Burglar.png"
 			}
 		},
 		{
@@ -1007,7 +1007,7 @@
 			"type": "Creature — Human Wizard ",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/144_Capricious Pyromancer.png"
+				"en": "https:///sets/BEE-files/img/144_Capricious Pyromancer.png"
 			}
 		},
 		{
@@ -1017,7 +1017,7 @@
 			"type": "Creature — Dragon Warrior ",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/145_Chromatic Assailant.png"
+				"en": "https:///sets/BEE-files/img/145_Chromatic Assailant.png"
 			}
 		},
 		{
@@ -1027,7 +1027,7 @@
 			"type": "Instant",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/146_Dance of the Crimson Veil.png"
+				"en": "https:///sets/BEE-files/img/146_Dance of the Crimson Veil.png"
 			}
 		},
 		{
@@ -1037,7 +1037,7 @@
 			"type": "Instant",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/147_Defiant Torch.png"
+				"en": "https:///sets/BEE-files/img/147_Defiant Torch.png"
 			}
 		},
 		{
@@ -1047,7 +1047,7 @@
 			"type": "Creature — Jackal Warrior Spellshaper ",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/151_Dustblade Khenra.png"
+				"en": "https:///sets/BEE-files/img/151_Dustblade Khenra.png"
 			}
 		},
 		{
@@ -1057,7 +1057,7 @@
 			"type": "Sorcery",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/152_Fiery Distraction.png"
+				"en": "https:///sets/BEE-files/img/152_Fiery Distraction.png"
 			}
 		},
 		{
@@ -1067,7 +1067,7 @@
 			"type": "Sorcery",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/153_Final Sunset.png"
+				"en": "https:///sets/BEE-files/img/153_Final Sunset.png"
 			}
 		},
 		{
@@ -1077,7 +1077,7 @@
 			"type": "Sorcery",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/157_Fracturing Impact.png"
+				"en": "https:///sets/BEE-files/img/157_Fracturing Impact.png"
 			}
 		},
 		{
@@ -1087,7 +1087,7 @@
 			"type": "Creature — Ogre Rogue ",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/159_Gluttonous Burglar.png"
+				"en": "https:///sets/BEE-files/img/159_Gluttonous Burglar.png"
 			}
 		},
 		{
@@ -1097,7 +1097,7 @@
 			"type": "Creature — Goblin Artificer ",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/160_Goblin Stoneworker.png"
+				"en": "https:///sets/BEE-files/img/160_Goblin Stoneworker.png"
 			}
 		},
 		{
@@ -1107,7 +1107,7 @@
 			"type": "Creature — Elemental Plant Spirit ",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/162_Harvest Reaper.png"
+				"en": "https:///sets/BEE-files/img/162_Harvest Reaper.png"
 			}
 		},
 		{
@@ -1117,7 +1117,7 @@
 			"type": "Legendary Creature — Human Knight ",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/163_Horus, Apex Captain.png"
+				"en": "https:///sets/BEE-files/img/163_Horus, Apex Captain.png"
 			}
 		},
 		{
@@ -1127,7 +1127,7 @@
 			"type": "Instant",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/164_Invoke Flame.png"
+				"en": "https:///sets/BEE-files/img/164_Invoke Flame.png"
 			}
 		},
 		{
@@ -1137,7 +1137,7 @@
 			"type": "Creature — Human Knight ",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/165_Knight of Summer.png"
+				"en": "https:///sets/BEE-files/img/165_Knight of Summer.png"
 			}
 		},
 		{
@@ -1147,7 +1147,7 @@
 			"type": "Enchantment — Saga ",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/167_Magmatic Transfiguration.png"
+				"en": "https:///sets/BEE-files/img/167_Magmatic Transfiguration.png"
 			}
 		},
 		{
@@ -1157,7 +1157,7 @@
 			"type": "Sorcery",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/181_Tyrant's Roar.png"
+				"en": "https:///sets/BEE-files/img/181_Tyrant's Roar.png"
 			}
 		},
 		{
@@ -1167,7 +1167,7 @@
 			"type": "Instant",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/168_Rage of the Calamity.png"
+				"en": "https:///sets/BEE-files/img/168_Rage of the Calamity.png"
 			}
 		},
 		{
@@ -1177,7 +1177,7 @@
 			"type": "Creature — Phoenix ",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/169_Rageplume Phoenix.png"
+				"en": "https:///sets/BEE-files/img/169_Rageplume Phoenix.png"
 			}
 		},
 		{
@@ -1187,7 +1187,7 @@
 			"type": "Legendary Planeswalker — Roxie ",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/170_Roxie, The Smoking Gun.png"
+				"en": "https:///sets/BEE-files/img/170_Roxie, The Smoking Gun.png"
 			}
 		},
 		{
@@ -1197,7 +1197,7 @@
 			"type": "Creature — Giant Elemental ",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/172_Seething Primordial.png"
+				"en": "https:///sets/BEE-files/img/172_Seething Primordial.png"
 			}
 		},
 		{
@@ -1207,7 +1207,7 @@
 			"type": "Sorcery",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/173_Skeletal Onslaught.png"
+				"en": "https:///sets/BEE-files/img/173_Skeletal Onslaught.png"
 			}
 		},
 		{
@@ -1217,7 +1217,7 @@
 			"type": "Creature — Human Warrior ",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/174_Solar Extinguisher.png"
+				"en": "https:///sets/BEE-files/img/174_Solar Extinguisher.png"
 			}
 		},
 		{
@@ -1227,7 +1227,7 @@
 			"type": "Enchantment Creature — Shard Elemental ",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/175_Splintering Sprinter.png"
+				"en": "https:///sets/BEE-files/img/175_Splintering Sprinter.png"
 			}
 		},
 		{
@@ -1237,7 +1237,7 @@
 			"type": "Creature — Cat Soldier ",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/176_Stray Squire.png"
+				"en": "https:///sets/BEE-files/img/176_Stray Squire.png"
 			}
 		},
 		{
@@ -1247,7 +1247,7 @@
 			"type": "Instant",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/177_Strike Twice.png"
+				"en": "https:///sets/BEE-files/img/177_Strike Twice.png"
 			}
 		},
 		{
@@ -1257,7 +1257,7 @@
 			"type": "Legendary Planeswalker — Taiyan ",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/178_Taiyan, Second Sun.png"
+				"en": "https:///sets/BEE-files/img/178_Taiyan, Second Sun.png"
 			}
 		},
 		{
@@ -1267,7 +1267,7 @@
 			"type": "Instant",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/180_Thunderous Condemnation.png"
+				"en": "https:///sets/BEE-files/img/180_Thunderous Condemnation.png"
 			}
 		},
 		{
@@ -1277,7 +1277,7 @@
 			"type": "Creature — Human Wizard ",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/182_Vengeful Stormcaster.png"
+				"en": "https:///sets/BEE-files/img/182_Vengeful Stormcaster.png"
 			}
 		},
 		{
@@ -1287,7 +1287,7 @@
 			"type": "Creature — Incarnation ",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/184_War.png"
+				"en": "https:///sets/BEE-files/img/184_War.png"
 			}
 		},
 		{
@@ -1297,7 +1297,7 @@
 			"type": "Creature — Dryad Warrior ",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/185_Wrenn's Recruiter.png"
+				"en": "https:///sets/BEE-files/img/185_Wrenn's Recruiter.png"
 			}
 		},
 		{
@@ -1307,7 +1307,7 @@
 			"type": "Creature — Insect Warrior ",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/200_Hive Sentinel.png"
+				"en": "https:///sets/BEE-files/img/200_Hive Sentinel.png"
 			}
 		},
 		{
@@ -1317,7 +1317,7 @@
 			"type": "Creature — Dryad ",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/188_Barkheart Dryad.png"
+				"en": "https:///sets/BEE-files/img/188_Barkheart Dryad.png"
 			}
 		},
 		{
@@ -1327,7 +1327,7 @@
 			"type": "Sorcery",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/189_Befriend the Tyrant.png"
+				"en": "https:///sets/BEE-files/img/189_Befriend the Tyrant.png"
 			}
 		},
 		{
@@ -1337,7 +1337,7 @@
 			"type": "Enchantment",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/190_Bond of Life.png"
+				"en": "https:///sets/BEE-files/img/190_Bond of Life.png"
 			}
 		},
 		{
@@ -1347,7 +1347,7 @@
 			"type": "Enchantment",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/191_Calamitous Pawprint.png"
+				"en": "https:///sets/BEE-files/img/191_Calamitous Pawprint.png"
 			}
 		},
 		{
@@ -1357,7 +1357,7 @@
 			"type": "Creature — Human Fox Warrior ",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/193_Canopy Werefox.png"
+				"en": "https:///sets/BEE-files/img/193_Canopy Werefox.png"
 			}
 		},
 		{
@@ -1367,7 +1367,7 @@
 			"type": "Creature — Vampire Druid ",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/198_Guul Draz Channeler.png"
+				"en": "https:///sets/BEE-files/img/198_Guul Draz Channeler.png"
 			}
 		},
 		{
@@ -1377,7 +1377,7 @@
 			"type": "Enchantment",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/199_Harvest Moon.png"
+				"en": "https:///sets/BEE-files/img/199_Harvest Moon.png"
 			}
 		},
 		{
@@ -1387,7 +1387,7 @@
 			"type": "Creature — Elf Warrior ",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/201_Hydra Tamer.png"
+				"en": "https:///sets/BEE-files/img/201_Hydra Tamer.png"
 			}
 		},
 		{
@@ -1397,7 +1397,7 @@
 			"type": "Sorcery",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/202_Imaryll's Call.png"
+				"en": "https:///sets/BEE-files/img/202_Imaryll's Call.png"
 			}
 		},
 		{
@@ -1407,7 +1407,7 @@
 			"type": "Legendary Creature — Human Druid ",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/205_Jeanne, of Untread Paths.png"
+				"en": "https:///sets/BEE-files/img/205_Jeanne, of Untread Paths.png"
 			}
 		},
 		{
@@ -1417,7 +1417,7 @@
 			"type": "Creature — Djinn Warrior ",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/206_Keeper of the City.png"
+				"en": "https:///sets/BEE-files/img/206_Keeper of the City.png"
 			}
 		},
 		{
@@ -1427,7 +1427,7 @@
 			"type": "Kindred Sorcery — Lhurgoyf ",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/208_Lingering Lhurgoyfs.png"
+				"en": "https:///sets/BEE-files/img/208_Lingering Lhurgoyfs.png"
 			}
 		},
 		{
@@ -1437,7 +1437,7 @@
 			"type": "Creature — Giant Elemental ",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/209_Loam Primordial.png"
+				"en": "https:///sets/BEE-files/img/209_Loam Primordial.png"
 			}
 		},
 		{
@@ -1447,7 +1447,7 @@
 			"type": "Instant",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/187_Ascending Growth.png"
+				"en": "https:///sets/BEE-files/img/187_Ascending Growth.png"
 			}
 		},
 		{
@@ -1457,7 +1457,7 @@
 			"type": "Creature — Cat Snake ",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/210_Lurking Serpopard.png"
+				"en": "https:///sets/BEE-files/img/210_Lurking Serpopard.png"
 			}
 		},
 		{
@@ -1467,7 +1467,7 @@
 			"type": "Creature — Human Druid ",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/213_Meditative Conduit.png"
+				"en": "https:///sets/BEE-files/img/213_Meditative Conduit.png"
 			}
 		},
 		{
@@ -1477,7 +1477,7 @@
 			"type": "Creature — Snake ",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/214_Mystic Viper.png"
+				"en": "https:///sets/BEE-files/img/214_Mystic Viper.png"
 			}
 		},
 		{
@@ -1487,7 +1487,7 @@
 			"type": "Creature — Human Cleric ",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/192_Caller of Titans.png"
+				"en": "https:///sets/BEE-files/img/192_Caller of Titans.png"
 			}
 		},
 		{
@@ -1497,7 +1497,7 @@
 			"type": "Sorcery",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/216_Perennial Harvest.png"
+				"en": "https:///sets/BEE-files/img/216_Perennial Harvest.png"
 			}
 		},
 		{
@@ -1507,7 +1507,7 @@
 			"type": "Creature — Human Druid ",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/217_Perennial Hierarch.png"
+				"en": "https:///sets/BEE-files/img/217_Perennial Hierarch.png"
 			}
 		},
 		{
@@ -1517,7 +1517,7 @@
 			"type": "Legendary Planeswalker — Dollon ",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/195_Dollon, Failed Experiment.png"
+				"en": "https:///sets/BEE-files/img/195_Dollon, Failed Experiment.png"
 			}
 		},
 		{
@@ -1527,7 +1527,7 @@
 			"type": "Legendary Planeswalker — Rogbin ",
 			"collector_number": "220",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/220_Rogbin, Plucker of Wings.png"
+				"en": "https:///sets/BEE-files/img/220_Rogbin, Plucker of Wings.png"
 			}
 		},
 		{
@@ -1537,7 +1537,7 @@
 			"type": "Creature — Human Druid ",
 			"collector_number": "221",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/221_Rootpath Wanderer.png"
+				"en": "https:///sets/BEE-files/img/221_Rootpath Wanderer.png"
 			}
 		},
 		{
@@ -1547,7 +1547,7 @@
 			"type": "Creature — Elf Cleric ",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/222_Sage of Restoration.png"
+				"en": "https:///sets/BEE-files/img/222_Sage of Restoration.png"
 			}
 		},
 		{
@@ -1557,7 +1557,7 @@
 			"type": "Creature — Frog ",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/225_Terraformer Toad.png"
+				"en": "https:///sets/BEE-files/img/225_Terraformer Toad.png"
 			}
 		},
 		{
@@ -1567,7 +1567,7 @@
 			"type": "Creature — Merfolk Druid ",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/227_Tidal Hierarch.png"
+				"en": "https:///sets/BEE-files/img/227_Tidal Hierarch.png"
 			}
 		},
 		{
@@ -1577,7 +1577,7 @@
 			"type": "Creature — Elk Druid ",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/229_Transformation Sage.png"
+				"en": "https:///sets/BEE-files/img/229_Transformation Sage.png"
 			}
 		},
 		{
@@ -1587,7 +1587,7 @@
 			"type": "Creature — Elf Shaman ",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/232_Abrasive Tamer.png"
+				"en": "https:///sets/BEE-files/img/232_Abrasive Tamer.png"
 			}
 		},
 		{
@@ -1597,7 +1597,7 @@
 			"type": "Creature — Human Warlock ",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/235_Amateur Gravedigger.png"
+				"en": "https:///sets/BEE-files/img/235_Amateur Gravedigger.png"
 			}
 		},
 		{
@@ -1607,7 +1607,7 @@
 			"type": "Creature — Human Warrior ",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/236_Angelfire Ascendant.png"
+				"en": "https:///sets/BEE-files/img/236_Angelfire Ascendant.png"
 			}
 		},
 		{
@@ -1617,7 +1617,7 @@
 			"type": "Instant",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/238_Azorius Mandate.png"
+				"en": "https:///sets/BEE-files/img/238_Azorius Mandate.png"
 			}
 		},
 		{
@@ -1627,7 +1627,7 @@
 			"type": "Instant",
 			"collector_number": "239",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/239_Bird's Eye View.png"
+				"en": "https:///sets/BEE-files/img/239_Bird's Eye View.png"
 			}
 		},
 		{
@@ -1637,7 +1637,7 @@
 			"type": "Sorcery",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/240_A Challenger Approaches.png"
+				"en": "https:///sets/BEE-files/img/240_A Challenger Approaches.png"
 			}
 		},
 		{
@@ -1647,7 +1647,7 @@
 			"type": "Instant",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/241_Cliffside Storm.png"
+				"en": "https:///sets/BEE-files/img/241_Cliffside Storm.png"
 			}
 		},
 		{
@@ -1657,7 +1657,7 @@
 			"type": "Creature — Jellyfish Beast ",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/242_Coral Witness.png"
+				"en": "https:///sets/BEE-files/img/242_Coral Witness.png"
 			}
 		},
 		{
@@ -1667,7 +1667,7 @@
 			"type": "Instant",
 			"collector_number": "243",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/243_Dear Departure.png"
+				"en": "https:///sets/BEE-files/img/243_Dear Departure.png"
 			}
 		},
 		{
@@ -1677,7 +1677,7 @@
 			"type": "Creature — Elf Druid ",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/244_Envoy of Nature.png"
+				"en": "https:///sets/BEE-files/img/244_Envoy of Nature.png"
 			}
 		},
 		{
@@ -1687,7 +1687,7 @@
 			"type": "Enchantment",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/237_Applied Enlightenment.png"
+				"en": "https:///sets/BEE-files/img/237_Applied Enlightenment.png"
 			}
 		},
 		{
@@ -1697,7 +1697,7 @@
 			"type": "Legendary Creature — Dryad ",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/245_Felise, Scion of Autumn.png"
+				"en": "https:///sets/BEE-files/img/245_Felise, Scion of Autumn.png"
 			}
 		},
 		{
@@ -1707,7 +1707,7 @@
 			"type": "Artifact — Equipment ",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/155_Flameslash Rapier.png"
+				"en": "https:///sets/BEE-files/img/155_Flameslash Rapier.png"
 			}
 		},
 		{
@@ -1717,7 +1717,7 @@
 			"type": "Instant",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/246_Flight of the Weatherlight.png"
+				"en": "https:///sets/BEE-files/img/246_Flight of the Weatherlight.png"
 			}
 		},
 		{
@@ -1727,7 +1727,7 @@
 			"type": "Creature — Elemental Fox ",
 			"collector_number": "247",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/247_Frostfire Fox.png"
+				"en": "https:///sets/BEE-files/img/247_Frostfire Fox.png"
 			}
 		},
 		{
@@ -1737,7 +1737,7 @@
 			"type": "Sorcery",
 			"collector_number": "248",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/248_Killshot.png"
+				"en": "https:///sets/BEE-files/img/248_Killshot.png"
 			}
 		},
 		{
@@ -1747,7 +1747,7 @@
 			"type": "Legendary Creature — Elder Giant ",
 			"collector_number": "250",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/250_Melyr, Titan of Life's Beauty.png"
+				"en": "https:///sets/BEE-files/img/250_Melyr, Titan of Life's Beauty.png"
 			}
 		},
 		{
@@ -1757,7 +1757,7 @@
 			"type": "Instant",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/251_Miraculous Genesis.png"
+				"en": "https:///sets/BEE-files/img/251_Miraculous Genesis.png"
 			}
 		},
 		{
@@ -1767,7 +1767,7 @@
 			"type": "Legendary Creature — Elder Giant ",
 			"collector_number": "252",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/252_Okrul, Titan of Time's Sight.png"
+				"en": "https:///sets/BEE-files/img/252_Okrul, Titan of Time's Sight.png"
 			}
 		},
 		{
@@ -1777,7 +1777,7 @@
 			"type": "Sorcery",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/253_Overgrow.png"
+				"en": "https:///sets/BEE-files/img/253_Overgrow.png"
 			}
 		},
 		{
@@ -1787,7 +1787,7 @@
 			"type": "Creature — Human Knight ",
 			"collector_number": "254",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/254_Peregrine Charmer.png"
+				"en": "https:///sets/BEE-files/img/254_Peregrine Charmer.png"
 			}
 		},
 		{
@@ -1797,7 +1797,7 @@
 			"type": "Enchantment",
 			"collector_number": "255",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/255_Pierce the Heavens.png"
+				"en": "https:///sets/BEE-files/img/255_Pierce the Heavens.png"
 			}
 		},
 		{
@@ -1807,7 +1807,7 @@
 			"type": "Instant",
 			"collector_number": "256",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/256_Plumb the Mind.png"
+				"en": "https:///sets/BEE-files/img/256_Plumb the Mind.png"
 			}
 		},
 		{
@@ -1817,7 +1817,7 @@
 			"type": "Instant",
 			"collector_number": "257",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/257_Precarious Lunge.png"
+				"en": "https:///sets/BEE-files/img/257_Precarious Lunge.png"
 			}
 		},
 		{
@@ -1827,7 +1827,7 @@
 			"type": "Sorcery",
 			"collector_number": "258",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/258_Rakdos's Will.png"
+				"en": "https:///sets/BEE-files/img/258_Rakdos's Will.png"
 			}
 		},
 		{
@@ -1837,7 +1837,7 @@
 			"type": "Creature — Zombie Elemental Rogue ",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/142_Ashen Marauder.png"
+				"en": "https:///sets/BEE-files/img/142_Ashen Marauder.png"
 			}
 		},
 		{
@@ -1847,7 +1847,7 @@
 			"type": "Sorcery",
 			"collector_number": "260",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/260_Silent Rapture.png"
+				"en": "https:///sets/BEE-files/img/260_Silent Rapture.png"
 			}
 		},
 		{
@@ -1857,7 +1857,7 @@
 			"type": "Instant",
 			"collector_number": "261",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/261_Song of the Burning-Tree.png"
+				"en": "https:///sets/BEE-files/img/261_Song of the Burning-Tree.png"
 			}
 		},
 		{
@@ -1867,17 +1867,17 @@
 			"type": "Creature — Human Cleric ",
 			"collector_number": "262",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/262_Soul Confidant.png"
+				"en": "https:///sets/BEE-files/img/262_Soul Confidant.png"
 			}
 		},
 		{
 			"name": "Spontaneous Plasmosis",
 			"rarity": "rare",
-			"mana_cost": "{1}{G}{U}",
+			"mana_cost": "{G}{U}{U}",
 			"type": "Instant",
 			"collector_number": "263",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/263_Spontaneous Plasmosis.png"
+				"en": "https:///sets/BEE-files/img/263_Spontaneous Plasmosis.png"
 			}
 		},
 		{
@@ -1887,7 +1887,7 @@
 			"type": "Instant",
 			"collector_number": "264",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/264_Suffocate.png"
+				"en": "https:///sets/BEE-files/img/264_Suffocate.png"
 			}
 		},
 		{
@@ -1897,7 +1897,7 @@
 			"type": "Creature — Leviathan ",
 			"collector_number": "265",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/265_Sultai Sky Swallower.png"
+				"en": "https:///sets/BEE-files/img/265_Sultai Sky Swallower.png"
 			}
 		},
 		{
@@ -1907,7 +1907,7 @@
 			"type": "Legendary Planeswalker — Vikram ",
 			"collector_number": "266",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/266_Vikram, Mystic Pariah.png"
+				"en": "https:///sets/BEE-files/img/266_Vikram, Mystic Pariah.png"
 			}
 		},
 		{
@@ -1917,7 +1917,7 @@
 			"type": "Creature — Werewolf Rogue ",
 			"collector_number": "269",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/269_Watchful Werethief.png"
+				"en": "https:///sets/BEE-files/img/269_Watchful Werethief.png"
 			}
 		},
 		{
@@ -1927,7 +1927,7 @@
 			"type": "Instant",
 			"collector_number": "270",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/270_Wealth Spiral.png"
+				"en": "https:///sets/BEE-files/img/270_Wealth Spiral.png"
 			}
 		},
 		{
@@ -1937,7 +1937,7 @@
 			"type": "Enchantment",
 			"collector_number": "271",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/271_April Showers.png"
+				"en": "https:///sets/BEE-files/img/271_April Showers.png"
 			}
 		},
 		{
@@ -1947,7 +1947,7 @@
 			"type": "Creature — Imp ",
 			"collector_number": "273",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/273_Crematory Scamp.png"
+				"en": "https:///sets/BEE-files/img/273_Crematory Scamp.png"
 			}
 		},
 		{
@@ -1957,7 +1957,7 @@
 			"type": "Enchantment",
 			"collector_number": "275",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/275_Endless Assault.png"
+				"en": "https:///sets/BEE-files/img/275_Endless Assault.png"
 			}
 		},
 		{
@@ -1967,7 +1967,7 @@
 			"type": "Creature — Snake Illusion ",
 			"collector_number": "272",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/272_Cloudform Snake.png"
+				"en": "https:///sets/BEE-files/img/272_Cloudform Snake.png"
 			}
 		},
 		{
@@ -1977,7 +1977,7 @@
 			"type": "Sorcery",
 			"collector_number": "276",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/276_Impulsive Outing.png"
+				"en": "https:///sets/BEE-files/img/276_Impulsive Outing.png"
 			}
 		},
 		{
@@ -1987,7 +1987,7 @@
 			"type": "Instant",
 			"collector_number": "277",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/277_Loot the Laboratory.png"
+				"en": "https:///sets/BEE-files/img/277_Loot the Laboratory.png"
 			}
 		},
 		{
@@ -1997,7 +1997,7 @@
 			"type": "Instant",
 			"collector_number": "278",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/278_Maddening Truths.png"
+				"en": "https:///sets/BEE-files/img/278_Maddening Truths.png"
 			}
 		},
 		{
@@ -2007,7 +2007,7 @@
 			"type": "Sorcery",
 			"collector_number": "279",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/279_Rites of Rebirth.png"
+				"en": "https:///sets/BEE-files/img/279_Rites of Rebirth.png"
 			}
 		},
 		{
@@ -2017,7 +2017,7 @@
 			"type": "Instant",
 			"collector_number": "280",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/280_Sheltering Faith.png"
+				"en": "https:///sets/BEE-files/img/280_Sheltering Faith.png"
 			}
 		},
 		{
@@ -2027,7 +2027,7 @@
 			"type": "Creature — Human Warlock ",
 			"collector_number": "274",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/274_Dreadmist Sorceress.png"
+				"en": "https:///sets/BEE-files/img/274_Dreadmist Sorceress.png"
 			}
 		},
 		{
@@ -2037,7 +2037,7 @@
 			"type": "Artifact",
 			"collector_number": "281",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/281_Accursed Mill.png"
+				"en": "https:///sets/BEE-files/img/281_Accursed Mill.png"
 			}
 		},
 		{
@@ -2047,7 +2047,7 @@
 			"type": "Artifact",
 			"collector_number": "282",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/282_Arcane Tome.png"
+				"en": "https:///sets/BEE-files/img/282_Arcane Tome.png"
 			}
 		},
 		{
@@ -2057,7 +2057,7 @@
 			"type": "Artifact",
 			"collector_number": "283",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/283_Blossoming Lotus.png"
+				"en": "https:///sets/BEE-files/img/283_Blossoming Lotus.png"
 			}
 		},
 		{
@@ -2067,7 +2067,7 @@
 			"type": "Artifact",
 			"collector_number": "287",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/287_Honey Bauble.png"
+				"en": "https:///sets/BEE-files/img/287_Honey Bauble.png"
 			}
 		},
 		{
@@ -2077,7 +2077,7 @@
 			"type": "Artifact Creature — Golem  ",
 			"collector_number": "292",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/292_Quakestep Colossus.png"
+				"en": "https:///sets/BEE-files/img/292_Quakestep Colossus.png"
 			}
 		},
 		{
@@ -2087,7 +2087,7 @@
 			"type": "Artifact",
 			"collector_number": "293",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/293_Reactive Solution.png"
+				"en": "https:///sets/BEE-files/img/293_Reactive Solution.png"
 			}
 		},
 		{
@@ -2097,7 +2097,7 @@
 			"type": "Artifact",
 			"collector_number": "294",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/294_Secluded Safehouse.png"
+				"en": "https:///sets/BEE-files/img/294_Secluded Safehouse.png"
 			}
 		},
 		{
@@ -2107,7 +2107,7 @@
 			"type": "Artifact",
 			"collector_number": "296",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/296_Traveler's Lantern.png"
+				"en": "https:///sets/BEE-files/img/296_Traveler's Lantern.png"
 			}
 		},
 		{
@@ -2117,7 +2117,7 @@
 			"type": "Artifact Creature — Skeleton Juggernaut ",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/183_Wallbreaker Sentinel.png"
+				"en": "https:///sets/BEE-files/img/183_Wallbreaker Sentinel.png"
 			}
 		},
 		{
@@ -2127,7 +2127,7 @@
 			"type": "Land",
 			"collector_number": "297",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/297_Amorphous Barrens.png"
+				"en": "https:///sets/BEE-files/img/297_Amorphous Barrens.png"
 			}
 		},
 		{
@@ -2137,7 +2137,7 @@
 			"type": "Land",
 			"collector_number": "298",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/298_Amorphous Coastline.png"
+				"en": "https:///sets/BEE-files/img/298_Amorphous Coastline.png"
 			}
 		},
 		{
@@ -2147,7 +2147,7 @@
 			"type": "Land",
 			"collector_number": "299",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/299_Amorphous Falls.png"
+				"en": "https:///sets/BEE-files/img/299_Amorphous Falls.png"
 			}
 		},
 		{
@@ -2157,7 +2157,7 @@
 			"type": "Land",
 			"collector_number": "300",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/300_Amorphous Glade.png"
+				"en": "https:///sets/BEE-files/img/300_Amorphous Glade.png"
 			}
 		},
 		{
@@ -2167,7 +2167,7 @@
 			"type": "Land",
 			"collector_number": "301",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/301_Amorphous Hellscape.png"
+				"en": "https:///sets/BEE-files/img/301_Amorphous Hellscape.png"
 			}
 		},
 		{
@@ -2177,7 +2177,7 @@
 			"type": "Land",
 			"collector_number": "302",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/302_Amorphous Mesa.png"
+				"en": "https:///sets/BEE-files/img/302_Amorphous Mesa.png"
 			}
 		},
 		{
@@ -2187,7 +2187,7 @@
 			"type": "Land",
 			"collector_number": "303",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/303_Amorphous Riverside.png"
+				"en": "https:///sets/BEE-files/img/303_Amorphous Riverside.png"
 			}
 		},
 		{
@@ -2197,7 +2197,7 @@
 			"type": "Land",
 			"collector_number": "304",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/304_Amorphous Trail.png"
+				"en": "https:///sets/BEE-files/img/304_Amorphous Trail.png"
 			}
 		},
 		{
@@ -2207,7 +2207,7 @@
 			"type": "Land",
 			"collector_number": "305",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/305_Amorphous Tundra.png"
+				"en": "https:///sets/BEE-files/img/305_Amorphous Tundra.png"
 			}
 		},
 		{
@@ -2217,7 +2217,7 @@
 			"type": "Land",
 			"collector_number": "306",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/306_Amorphous Vista.png"
+				"en": "https:///sets/BEE-files/img/306_Amorphous Vista.png"
 			}
 		},
 		{
@@ -2227,7 +2227,7 @@
 			"type": "Land",
 			"collector_number": "308",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/308_Ayula's Den.png"
+				"en": "https:///sets/BEE-files/img/308_Ayula's Den.png"
 			}
 		},
 		{
@@ -2237,7 +2237,7 @@
 			"type": "Land",
 			"collector_number": "309",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/309_Barren Pasture.png"
+				"en": "https:///sets/BEE-files/img/309_Barren Pasture.png"
 			}
 		},
 		{
@@ -2247,7 +2247,7 @@
 			"type": "Land",
 			"collector_number": "310",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/310_Battered Shipwreck.png"
+				"en": "https:///sets/BEE-files/img/310_Battered Shipwreck.png"
 			}
 		},
 		{
@@ -2257,7 +2257,7 @@
 			"type": "Land",
 			"collector_number": "312",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/312_Bustling Market.png"
+				"en": "https:///sets/BEE-files/img/312_Bustling Market.png"
 			}
 		},
 		{
@@ -2267,7 +2267,7 @@
 			"type": "Land",
 			"collector_number": "314",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/314_Cavern of Threads.png"
+				"en": "https:///sets/BEE-files/img/314_Cavern of Threads.png"
 			}
 		},
 		{
@@ -2277,7 +2277,7 @@
 			"type": "Land",
 			"collector_number": "354",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/354_Sunfirth Settlement.png"
+				"en": "https:///sets/BEE-files/img/354_Sunfirth Settlement.png"
 			}
 		},
 		{
@@ -2287,7 +2287,7 @@
 			"type": "Land — Island Mountain ",
 			"collector_number": "319",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/319_Concealed Roost.png"
+				"en": "https:///sets/BEE-files/img/319_Concealed Roost.png"
 			}
 		},
 		{
@@ -2297,7 +2297,7 @@
 			"type": "Land — Plains Island ",
 			"collector_number": "340",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/340_Moonlit Lakefront.png"
+				"en": "https:///sets/BEE-files/img/340_Moonlit Lakefront.png"
 			}
 		},
 		{
@@ -2307,7 +2307,7 @@
 			"type": "Land",
 			"collector_number": "323",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/323_Dormant Halls.png"
+				"en": "https:///sets/BEE-files/img/323_Dormant Halls.png"
 			}
 		},
 		{
@@ -2317,7 +2317,7 @@
 			"type": "Legendary Land",
 			"collector_number": "325",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/325_The Eternal Glade.png"
+				"en": "https:///sets/BEE-files/img/325_The Eternal Glade.png"
 			}
 		},
 		{
@@ -2327,7 +2327,7 @@
 			"type": "Land",
 			"collector_number": "328",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/328_Forest of Beasts.png"
+				"en": "https:///sets/BEE-files/img/328_Forest of Beasts.png"
 			}
 		},
 		{
@@ -2337,7 +2337,7 @@
 			"type": "Land",
 			"collector_number": "329",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/329_Forgotten Tomb.png"
+				"en": "https:///sets/BEE-files/img/329_Forgotten Tomb.png"
 			}
 		},
 		{
@@ -2347,7 +2347,7 @@
 			"type": "Land",
 			"collector_number": "330",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/330_Fractured Spire.png"
+				"en": "https:///sets/BEE-files/img/330_Fractured Spire.png"
 			}
 		},
 		{
@@ -2357,7 +2357,7 @@
 			"type": "Land",
 			"collector_number": "332",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/332_Grim Arena.png"
+				"en": "https:///sets/BEE-files/img/332_Grim Arena.png"
 			}
 		},
 		{
@@ -2367,7 +2367,7 @@
 			"type": "Land",
 			"collector_number": "333",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/333_Hillside Wreckage.png"
+				"en": "https:///sets/BEE-files/img/333_Hillside Wreckage.png"
 			}
 		},
 		{
@@ -2377,7 +2377,7 @@
 			"type": "Land",
 			"collector_number": "334",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/334_Hollow Bulwark.png"
+				"en": "https:///sets/BEE-files/img/334_Hollow Bulwark.png"
 			}
 		},
 		{
@@ -2387,7 +2387,7 @@
 			"type": "Land",
 			"collector_number": "343",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/343_Plague Quarter.png"
+				"en": "https:///sets/BEE-files/img/343_Plague Quarter.png"
 			}
 		},
 		{
@@ -2397,7 +2397,7 @@
 			"type": "Land",
 			"collector_number": "348",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/348_Silent Estuary.png"
+				"en": "https:///sets/BEE-files/img/348_Silent Estuary.png"
 			}
 		},
 		{
@@ -2407,7 +2407,7 @@
 			"type": "Land",
 			"collector_number": "352",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/352_Sulfuric Volcano.png"
+				"en": "https:///sets/BEE-files/img/352_Sulfuric Volcano.png"
 			}
 		},
 		{
@@ -2417,7 +2417,7 @@
 			"type": "Land",
 			"collector_number": "353",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/353_Sundried Savannah.png"
+				"en": "https:///sets/BEE-files/img/353_Sundried Savannah.png"
 			}
 		},
 		{
@@ -2427,7 +2427,7 @@
 			"type": "Land",
 			"collector_number": "357",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/357_Vault of the Guardians.png"
+				"en": "https:///sets/BEE-files/img/357_Vault of the Guardians.png"
 			}
 		},
 		{
@@ -2437,7 +2437,7 @@
 			"type": "Enchantment",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/28_Perennial Festivities.png"
+				"en": "https:///sets/BEE-files/img/28_Perennial Festivities.png"
 			}
 		},
 		{
@@ -2447,7 +2447,7 @@
 			"type": "Artifact Creature — Equipment Knight ",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/166_LANCELOT Mk. II.png"
+				"en": "https:///sets/BEE-files/img/166_LANCELOT Mk. II.png"
 			}
 		},
 		{
@@ -2457,7 +2457,7 @@
 			"type": "Legendary Planeswalker — Seamus ",
 			"collector_number": "259",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/259_Seamus, Stalwart Medium.png"
+				"en": "https:///sets/BEE-files/img/259_Seamus, Stalwart Medium.png"
 			}
 		},
 		{
@@ -2467,7 +2467,7 @@
 			"type": "Creature — Human Wizard ",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/158_Gilded Arsonist.png"
+				"en": "https:///sets/BEE-files/img/158_Gilded Arsonist.png"
 			}
 		},
 		{
@@ -2477,7 +2477,7 @@
 			"type": "Enchantment",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/29_Phyrexian Incursion.png"
+				"en": "https:///sets/BEE-files/img/29_Phyrexian Incursion.png"
 			}
 		},
 		{
@@ -2487,7 +2487,7 @@
 			"type": "Legendary Enchantment — Shrine ",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/224_Temple of Dormant Power.png"
+				"en": "https:///sets/BEE-files/img/224_Temple of Dormant Power.png"
 			}
 		},
 		{
@@ -2497,7 +2497,7 @@
 			"type": "Legendary Enchantment — Shrine ",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/136_Temple of Twisted Dreams.png"
+				"en": "https:///sets/BEE-files/img/136_Temple of Twisted Dreams.png"
 			}
 		},
 		{
@@ -2507,7 +2507,7 @@
 			"type": "Legendary Enchantment — Shrine ",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/37_Temple of Death's Purity.png"
+				"en": "https:///sets/BEE-files/img/37_Temple of Death's Purity.png"
 			}
 		},
 		{
@@ -2517,7 +2517,7 @@
 			"type": "Legendary Enchantment — Shrine ",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/86_Temple of Tranquil Trails.png"
+				"en": "https:///sets/BEE-files/img/86_Temple of Tranquil Trails.png"
 			}
 		},
 		{
@@ -2527,7 +2527,7 @@
 			"type": "Legendary Enchantment — Shrine ",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/179_Temple of Malignant Rage.png"
+				"en": "https:///sets/BEE-files/img/179_Temple of Malignant Rage.png"
 			}
 		},
 		{
@@ -2537,7 +2537,7 @@
 			"type": "Sorcery",
 			"collector_number": "268",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/268_Wander Amongst the Dead.png"
+				"en": "https:///sets/BEE-files/img/268_Wander Amongst the Dead.png"
 			}
 		},
 		{
@@ -2547,7 +2547,7 @@
 			"type": "Artifact",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/91_Watchful Statue.png"
+				"en": "https:///sets/BEE-files/img/91_Watchful Statue.png"
 			}
 		},
 		{
@@ -2557,7 +2557,7 @@
 			"type": "Land",
 			"collector_number": "349",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/349_Skulltide Settlement.png"
+				"en": "https:///sets/BEE-files/img/349_Skulltide Settlement.png"
 			}
 		},
 		{
@@ -2567,7 +2567,7 @@
 			"type": "Land",
 			"collector_number": "350",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/350_Smogburke Settlement.png"
+				"en": "https:///sets/BEE-files/img/350_Smogburke Settlement.png"
 			}
 		},
 		{
@@ -2577,7 +2577,7 @@
 			"type": "Land",
 			"collector_number": "356",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/356_Valleyfall Settlement.png"
+				"en": "https:///sets/BEE-files/img/356_Valleyfall Settlement.png"
 			}
 		},
 		{
@@ -2587,7 +2587,7 @@
 			"type": "Land",
 			"collector_number": "321",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/321_Dawnglade Settlement.png"
+				"en": "https:///sets/BEE-files/img/321_Dawnglade Settlement.png"
 			}
 		},
 		{
@@ -2597,7 +2597,7 @@
 			"type": "Land",
 			"collector_number": "339",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/339_Mistmire Settlement.png"
+				"en": "https:///sets/BEE-files/img/339_Mistmire Settlement.png"
 			}
 		},
 		{
@@ -2607,7 +2607,7 @@
 			"type": "Land",
 			"collector_number": "317",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/317_Cloudpeak Settlement.png"
+				"en": "https:///sets/BEE-files/img/317_Cloudpeak Settlement.png"
 			}
 		},
 		{
@@ -2617,7 +2617,7 @@
 			"type": "Land",
 			"collector_number": "351",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/351_Sporeglow Settlement.png"
+				"en": "https:///sets/BEE-files/img/351_Sporeglow Settlement.png"
 			}
 		},
 		{
@@ -2627,7 +2627,7 @@
 			"type": "Land",
 			"collector_number": "316",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/316_Cliffside Settlement.png"
+				"en": "https:///sets/BEE-files/img/316_Cliffside Settlement.png"
 			}
 		},
 		{
@@ -2637,7 +2637,7 @@
 			"type": "Land",
 			"collector_number": "326",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/326_Floodcove Settlement.png"
+				"en": "https:///sets/BEE-files/img/326_Floodcove Settlement.png"
 			}
 		},
 		{
@@ -2647,7 +2647,7 @@
 			"type": "Land — Forest Plains ",
 			"collector_number": "360",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/360_Windswept Meadow.png"
+				"en": "https:///sets/BEE-files/img/360_Windswept Meadow.png"
 			}
 		},
 		{
@@ -2657,7 +2657,7 @@
 			"type": "Land — Plains Swamp ",
 			"collector_number": "331",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/331_Golden Grotto.png"
+				"en": "https:///sets/BEE-files/img/331_Golden Grotto.png"
 			}
 		},
 		{
@@ -2667,7 +2667,7 @@
 			"type": "Land — Mountain Forest ",
 			"collector_number": "346",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/346_Resplendent Glade.png"
+				"en": "https:///sets/BEE-files/img/346_Resplendent Glade.png"
 			}
 		},
 		{
@@ -2677,7 +2677,7 @@
 			"type": "Land — Swamp Mountain ",
 			"collector_number": "311",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/311_Blossoming Fissure.png"
+				"en": "https:///sets/BEE-files/img/311_Blossoming Fissure.png"
 			}
 		},
 		{
@@ -2687,7 +2687,7 @@
 			"type": "Land — Plains Island ",
 			"collector_number": "345",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/345_Remote Beach.png"
+				"en": "https:///sets/BEE-files/img/345_Remote Beach.png"
 			}
 		},
 		{
@@ -2697,7 +2697,7 @@
 			"type": "Land — Swamp Forest ",
 			"collector_number": "320",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/320_Crocodile Haven.png"
+				"en": "https:///sets/BEE-files/img/320_Crocodile Haven.png"
 			}
 		},
 		{
@@ -2707,7 +2707,7 @@
 			"type": "Land — Mountain Plains ",
 			"collector_number": "342",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/342_Otherworldly Vista.png"
+				"en": "https:///sets/BEE-files/img/342_Otherworldly Vista.png"
 			}
 		},
 		{
@@ -2717,7 +2717,7 @@
 			"type": "Land — Forest Island ",
 			"collector_number": "335",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/335_Idyllic Lakeside.png"
+				"en": "https:///sets/BEE-files/img/335_Idyllic Lakeside.png"
 			}
 		},
 		{
@@ -2727,7 +2727,7 @@
 			"type": "Land — Island Swamp ",
 			"collector_number": "318",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/318_Coastal Archway.png"
+				"en": "https:///sets/BEE-files/img/318_Coastal Archway.png"
 			}
 		},
 		{
@@ -2737,7 +2737,7 @@
 			"type": "Legendary Planeswalker — Nobelle ",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/26_Nobelle, Five of Swords.png"
+				"en": "https:///sets/BEE-files/img/26_Nobelle, Five of Swords.png"
 			}
 		},
 		{
@@ -2747,7 +2747,7 @@
 			"type": "Creature — Specter ",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/99_Cathedral Specter.png"
+				"en": "https:///sets/BEE-files/img/99_Cathedral Specter.png"
 			}
 		},
 		{
@@ -2757,7 +2757,7 @@
 			"type": "Enchantment",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/9_Collective Nightmare.png"
+				"en": "https:///sets/BEE-files/img/9_Collective Nightmare.png"
 			}
 		},
 		{
@@ -2767,7 +2767,7 @@
 			"type": "Enchantment — Saga ",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/4_The Ascension of Caldius.png"
+				"en": "https:///sets/BEE-files/img/4_The Ascension of Caldius.png"
 			}
 		},
 		{
@@ -2777,7 +2777,7 @@
 			"type": "Creature — Human Cleric ",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/2_Apostle of Serra.png"
+				"en": "https:///sets/BEE-files/img/2_Apostle of Serra.png"
 			}
 		},
 		{
@@ -2787,7 +2787,7 @@
 			"type": "Artifact",
 			"collector_number": "285",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/285_Cosmochromatic Cube.png"
+				"en": "https:///sets/BEE-files/img/285_Cosmochromatic Cube.png"
 			}
 		},
 		{
@@ -2797,7 +2797,7 @@
 			"type": "Enchantment",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/218_Primordial Rhythm.png"
+				"en": "https:///sets/BEE-files/img/218_Primordial Rhythm.png"
 			}
 		},
 		{
@@ -2807,7 +2807,7 @@
 			"type": "Land",
 			"collector_number": "337",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/337_Limits of Imagination.png"
+				"en": "https:///sets/BEE-files/img/337_Limits of Imagination.png"
 			}
 		},
 		{
@@ -2817,7 +2817,7 @@
 			"type": "Land",
 			"collector_number": "336",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/336_Jade Palace.png"
+				"en": "https:///sets/BEE-files/img/336_Jade Palace.png"
 			}
 		},
 		{
@@ -2827,7 +2827,7 @@
 			"type": "Creature — Monkey ",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/226_Thieving Primates.png"
+				"en": "https:///sets/BEE-files/img/226_Thieving Primates.png"
 			}
 		},
 		{
@@ -2837,7 +2837,7 @@
 			"type": "Creature — Skeleton Noble Warrior ",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/98_Bloody Baron.png"
+				"en": "https:///sets/BEE-files/img/98_Bloody Baron.png"
 			}
 		},
 		{
@@ -2847,7 +2847,7 @@
 			"type": "Artifact Creature — Construct ",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/171_Scrap Scanner.png"
+				"en": "https:///sets/BEE-files/img/171_Scrap Scanner.png"
 			}
 		},
 		{
@@ -2857,7 +2857,7 @@
 			"type": "Creature — Monkey Avatar ",
 			"collector_number": "211",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/211_Master of the Elements.png"
+				"en": "https:///sets/BEE-files/img/211_Master of the Elements.png"
 			}
 		},
 		{
@@ -2867,7 +2867,7 @@
 			"type": "Instant",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/7_Caught in the Act.png"
+				"en": "https:///sets/BEE-files/img/7_Caught in the Act.png"
 			}
 		},
 		{
@@ -2877,7 +2877,7 @@
 			"type": "Artifact Creature  — Equipment Shade ",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/77_Shadeforged Brigandine.png"
+				"en": "https:///sets/BEE-files/img/77_Shadeforged Brigandine.png"
 			}
 		},
 		{
@@ -2887,7 +2887,7 @@
 			"type": "Artifact — Equipment ",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/5_Auroric Iceblade.png"
+				"en": "https:///sets/BEE-files/img/5_Auroric Iceblade.png"
 			}
 		},
 		{
@@ -2897,7 +2897,7 @@
 			"type": "Artifact — Equipment ",
 			"collector_number": "290",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/290_Novice's Armaments.png"
+				"en": "https:///sets/BEE-files/img/290_Novice's Armaments.png"
 			}
 		},
 		{
@@ -2907,7 +2907,7 @@
 			"type": "Artifact — Equipment ",
 			"collector_number": "286",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/286_Fleshmauler.png"
+				"en": "https:///sets/BEE-files/img/286_Fleshmauler.png"
 			}
 		},
 		{
@@ -2917,7 +2917,7 @@
 			"type": "Legendary Planeswalker — Vura ",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/44_Vura, Enduring Enchantress.png"
+				"en": "https:///sets/BEE-files/img/44_Vura, Enduring Enchantress.png"
 			}
 		},
 		{
@@ -2927,7 +2927,7 @@
 			"type": "Enchantment Creature — Cat ",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/32_Starmane Alpha.png"
+				"en": "https:///sets/BEE-files/img/32_Starmane Alpha.png"
 			}
 		},
 		{
@@ -2937,7 +2937,7 @@
 			"type": "Artifact Enchantment Creature — Fractal ",
 			"collector_number": "288",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/288_Infinite Refractoid.png"
+				"en": "https:///sets/BEE-files/img/288_Infinite Refractoid.png"
 			}
 		},
 		{
@@ -2947,7 +2947,7 @@
 			"type": "Artifact Creature — Horror ",
 			"collector_number": "291",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/291_Ominous Walker.png"
+				"en": "https:///sets/BEE-files/img/291_Ominous Walker.png"
 			}
 		},
 		{
@@ -2957,7 +2957,7 @@
 			"type": "Artifact — Equipment ",
 			"collector_number": "295",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/295_Splitspeed Blitzboots.png"
+				"en": "https:///sets/BEE-files/img/295_Splitspeed Blitzboots.png"
 			}
 		},
 		{
@@ -2967,7 +2967,7 @@
 			"type": "Artifact Creature — Gnome ",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/6_Automatic Inspector.png"
+				"en": "https:///sets/BEE-files/img/6_Automatic Inspector.png"
 			}
 		},
 		{
@@ -2977,7 +2977,7 @@
 			"type": "Sorcery",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/75_Sail the Forbidden Sea.png"
+				"en": "https:///sets/BEE-files/img/75_Sail the Forbidden Sea.png"
 			}
 		},
 		{
@@ -2987,7 +2987,7 @@
 			"type": "Artifact Creature — Giant ",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/215_Noble Greenwarden.png"
+				"en": "https:///sets/BEE-files/img/215_Noble Greenwarden.png"
 			}
 		},
 		{
@@ -2997,7 +2997,7 @@
 			"type": "Land — Forest Island ",
 			"collector_number": "338",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/338_Midmorning Meadow.png"
+				"en": "https:///sets/BEE-files/img/338_Midmorning Meadow.png"
 			}
 		},
 		{
@@ -3007,7 +3007,7 @@
 			"type": "Land — Mountain Plains ",
 			"collector_number": "359",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/359_Winding Crevasse.png"
+				"en": "https:///sets/BEE-files/img/359_Winding Crevasse.png"
 			}
 		},
 		{
@@ -3017,7 +3017,7 @@
 			"type": "Land — Swamp Forest ",
 			"collector_number": "307",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/307_Arboured Marsh.png"
+				"en": "https:///sets/BEE-files/img/307_Arboured Marsh.png"
 			}
 		},
 		{
@@ -3027,7 +3027,7 @@
 			"type": "Land — Island Mountain ",
 			"collector_number": "322",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/322_Distant Monoliths.png"
+				"en": "https:///sets/BEE-files/img/322_Distant Monoliths.png"
 			}
 		},
 		{
@@ -3037,7 +3037,7 @@
 			"type": "Land — Plains Swamp ",
 			"collector_number": "341",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/341_Nocturnal Blossom.png"
+				"en": "https:///sets/BEE-files/img/341_Nocturnal Blossom.png"
 			}
 		},
 		{
@@ -3047,7 +3047,7 @@
 			"type": "Land — Forest Plains ",
 			"collector_number": "347",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/347_Serene Expanse.png"
+				"en": "https:///sets/BEE-files/img/347_Serene Expanse.png"
 			}
 		},
 		{
@@ -3057,7 +3057,7 @@
 			"type": "Land — Mountain Forest ",
 			"collector_number": "313",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/313_Captivating Range.png"
+				"en": "https:///sets/BEE-files/img/313_Captivating Range.png"
 			}
 		},
 		{
@@ -3067,7 +3067,7 @@
 			"type": "Land — Swamp Mountain ",
 			"collector_number": "327",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/327_Foreboding Monuments.png"
+				"en": "https:///sets/BEE-files/img/327_Foreboding Monuments.png"
 			}
 		},
 		{
@@ -3077,7 +3077,7 @@
 			"type": "Land — Island Swamp ",
 			"collector_number": "324",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/324_Duskbank Shores.png"
+				"en": "https:///sets/BEE-files/img/324_Duskbank Shores.png"
 			}
 		},
 		{
@@ -3087,7 +3087,7 @@
 			"type": "Creature — Halfling Horror ",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/204_Inhabited Innkeeper.png"
+				"en": "https:///sets/BEE-files/img/204_Inhabited Innkeeper.png"
 			}
 		},
 		{
@@ -3097,7 +3097,7 @@
 			"type": "Artifact Creature — Demon ",
 			"collector_number": "249",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/249_Malevolent Mechadaemon.png"
+				"en": "https:///sets/BEE-files/img/249_Malevolent Mechadaemon.png"
 			}
 		},
 		{
@@ -3107,7 +3107,7 @@
 			"type": "Enchantment Creature — Leviathan ",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/92_What Waits Below.png"
+				"en": "https:///sets/BEE-files/img/92_What Waits Below.png"
 			}
 		},
 		{
@@ -3117,7 +3117,7 @@
 			"type": "Creature — Phyrexian Artificer ",
 			"collector_number": "267",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/267_Voracity Splicer.png"
+				"en": "https:///sets/BEE-files/img/267_Voracity Splicer.png"
 			}
 		},
 		{
@@ -3127,7 +3127,7 @@
 			"type": "Creature — Jackal  ",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/122_Pack of Jackals.png"
+				"en": "https:///sets/BEE-files/img/122_Pack of Jackals.png"
 			}
 		},
 		{
@@ -3137,7 +3137,7 @@
 			"type": "Creature — Human Shaman ",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/116_Masked Fearcaller.png"
+				"en": "https:///sets/BEE-files/img/116_Masked Fearcaller.png"
 			}
 		},
 		{
@@ -3147,7 +3147,7 @@
 			"type": "Enchantment",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/104_Divine Duality.png"
+				"en": "https:///sets/BEE-files/img/104_Divine Duality.png"
 			}
 		},
 		{
@@ -3157,7 +3157,7 @@
 			"type": "Creature — Giant ",
 			"collector_number": "231",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/231_Voracious Giant.png"
+				"en": "https:///sets/BEE-files/img/231_Voracious Giant.png"
 			}
 		},
 		{
@@ -3167,7 +3167,7 @@
 			"type": "Creature — Lhurgoyf ",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/81_Somnivore.png"
+				"en": "https:///sets/BEE-files/img/81_Somnivore.png"
 			}
 		},
 		{
@@ -3177,7 +3177,7 @@
 			"type": "Legendary Artifact Creature — Angel ",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/60_HAL-0, False Prophet.png"
+				"en": "https:///sets/BEE-files/img/60_HAL-0, False Prophet.png"
 			}
 		},
 		{
@@ -3187,7 +3187,7 @@
 			"type": "Creature — Human Druid Artificer ",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/196_Enlightened Machinist.png"
+				"en": "https:///sets/BEE-files/img/196_Enlightened Machinist.png"
 			}
 		},
 		{
@@ -3197,7 +3197,7 @@
 			"type": "Creature — Zombie Mutant ",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/194_Defiled Butcher.png"
+				"en": "https:///sets/BEE-files/img/194_Defiled Butcher.png"
 			}
 		},
 		{
@@ -3207,7 +3207,7 @@
 			"type": "Artifact Creature — Assassin ",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/105_Eleventh Hour Avenger.png"
+				"en": "https:///sets/BEE-files/img/105_Eleventh Hour Avenger.png"
 			}
 		},
 		{
@@ -3217,7 +3217,7 @@
 			"type": "Instant",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/66_Lost in Wonder.png"
+				"en": "https:///sets/BEE-files/img/66_Lost in Wonder.png"
 			}
 		},
 		{
@@ -3227,7 +3227,7 @@
 			"type": "Instant",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/48_Arcane Encore.png"
+				"en": "https:///sets/BEE-files/img/48_Arcane Encore.png"
 			}
 		},
 		{
@@ -3237,7 +3237,7 @@
 			"type": "Instant",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/73_Render Insignificant.png"
+				"en": "https:///sets/BEE-files/img/73_Render Insignificant.png"
 			}
 		},
 		{
@@ -3247,7 +3247,7 @@
 			"type": "Creature — Shapeshifter Clown ",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/61_Jester Ascendant.png"
+				"en": "https:///sets/BEE-files/img/61_Jester Ascendant.png"
 			}
 		},
 		{
@@ -3257,7 +3257,7 @@
 			"type": "Sorcery",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/13_The Dungeoneers Return.png"
+				"en": "https:///sets/BEE-files/img/13_The Dungeoneers Return.png"
 			}
 		},
 		{
@@ -3267,7 +3267,7 @@
 			"type": "Creature — Goblin Artificer ",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/14_Eager Artificer.png"
+				"en": "https:///sets/BEE-files/img/14_Eager Artificer.png"
 			}
 		},
 		{
@@ -3277,7 +3277,7 @@
 			"type": "Creature — Elephant Knight ",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/34_Steward of Peace.png"
+				"en": "https:///sets/BEE-files/img/34_Steward of Peace.png"
 			}
 		},
 		{
@@ -3287,7 +3287,7 @@
 			"type": "Creature — Human Cleric Detective ",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/30_Sealing Officer.png"
+				"en": "https:///sets/BEE-files/img/30_Sealing Officer.png"
 			}
 		},
 		{
@@ -3297,7 +3297,7 @@
 			"type": "Creature — Angel ",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/3_Arbiter of the Veil.png"
+				"en": "https:///sets/BEE-files/img/3_Arbiter of the Veil.png"
 			}
 		},
 		{
@@ -3307,7 +3307,7 @@
 			"type": "Creature — Human Knight ",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/43_Veteran Vanguard.png"
+				"en": "https:///sets/BEE-files/img/43_Veteran Vanguard.png"
 			}
 		},
 		{
@@ -3317,7 +3317,7 @@
 			"type": "Enchantment — Saga ",
 			"collector_number": "230",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/230_Unsealed Stampede.png"
+				"en": "https:///sets/BEE-files/img/230_Unsealed Stampede.png"
 			}
 		},
 		{
@@ -3327,7 +3327,7 @@
 			"type": "Creature — Bear Dinosaur ",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/207_Lethargic Ursanodon.png"
+				"en": "https:///sets/BEE-files/img/207_Lethargic Ursanodon.png"
 			}
 		},
 		{
@@ -3337,7 +3337,7 @@
 			"type": "Creature — Spider ",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/203_Incubator Spider.png"
+				"en": "https:///sets/BEE-files/img/203_Incubator Spider.png"
 			}
 		},
 		{
@@ -3347,7 +3347,7 @@
 			"type": "Creature — Human Scout ",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/228_Tireless Pioneer.png"
+				"en": "https:///sets/BEE-files/img/228_Tireless Pioneer.png"
 			}
 		},
 		{
@@ -3357,7 +3357,7 @@
 			"type": "Artifact",
 			"collector_number": "284",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/284_Chromatic Prism.png"
+				"en": "https:///sets/BEE-files/img/284_Chromatic Prism.png"
 			}
 		},
 		{
@@ -3367,7 +3367,7 @@
 			"type": "Creature — Beast ",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/219_Quaketusk.png"
+				"en": "https:///sets/BEE-files/img/219_Quaketusk.png"
 			}
 		},
 		{
@@ -3377,7 +3377,7 @@
 			"type": "Creature — Elemental ",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/223_Steward of the Wood.png"
+				"en": "https:///sets/BEE-files/img/223_Steward of the Wood.png"
 			}
 		},
 		{
@@ -3387,7 +3387,7 @@
 			"type": "Creature — Avatar ",
 			"collector_number": "197",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/197_Gaea's Emissary.png"
+				"en": "https:///sets/BEE-files/img/197_Gaea's Emissary.png"
 			}
 		},
 		{
@@ -3397,7 +3397,7 @@
 			"type": "Land",
 			"collector_number": "355",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/355_Unkempt Farmland.png"
+				"en": "https:///sets/BEE-files/img/355_Unkempt Farmland.png"
 			}
 		},
 		{
@@ -3407,7 +3407,7 @@
 			"type": "Enchantment",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/156_Form of the Hellion.png"
+				"en": "https:///sets/BEE-files/img/156_Form of the Hellion.png"
 			}
 		},
 		{
@@ -3417,7 +3417,7 @@
 			"type": "Artifact",
 			"collector_number": "289",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/289_Looted Wellspring.png"
+				"en": "https:///sets/BEE-files/img/289_Looted Wellspring.png"
 			}
 		},
 		{
@@ -3427,7 +3427,7 @@
 			"type": "Creature — Dwarf Artificer ",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/70_Muscle Mechanic.png"
+				"en": "https:///sets/BEE-files/img/70_Muscle Mechanic.png"
 			}
 		},
 		{
@@ -3437,7 +3437,7 @@
 			"type": "Artifact Creature — Insect ",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/100_Cryptcrawler.png"
+				"en": "https:///sets/BEE-files/img/100_Cryptcrawler.png"
 			}
 		},
 		{
@@ -3447,7 +3447,7 @@
 			"type": "Sorcery",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/90_Untimely Distortion.png"
+				"en": "https:///sets/BEE-files/img/90_Untimely Distortion.png"
 			}
 		},
 		{
@@ -3457,7 +3457,7 @@
 			"type": "Artifact — Equipment ",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/49_Arcanist's Spellbook.png"
+				"en": "https:///sets/BEE-files/img/49_Arcanist's Spellbook.png"
 			}
 		},
 		{
@@ -3467,7 +3467,7 @@
 			"type": "Creature — Human Warrior ",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/161_Harbinger of Glory.png"
+				"en": "https:///sets/BEE-files/img/161_Harbinger of Glory.png"
 			}
 		},
 		{
@@ -3477,7 +3477,7 @@
 			"type": "Creature — Human Ninja ",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/154_Fireblood Shinobi.png"
+				"en": "https:///sets/BEE-files/img/154_Fireblood Shinobi.png"
 			}
 		},
 		{
@@ -3487,7 +3487,7 @@
 			"type": "Creature — Human Scout ",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/233_Agent of the Inbetween.png"
+				"en": "https:///sets/BEE-files/img/233_Agent of the Inbetween.png"
 			}
 		},
 		{
@@ -3497,7 +3497,7 @@
 			"type": "Creature — Vampire Knight ",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/112_Harvester of Blood.png"
+				"en": "https:///sets/BEE-files/img/112_Harvester of Blood.png"
 			}
 		},
 		{
@@ -3507,7 +3507,7 @@
 			"type": "Creature — Human Warrior Spellshaper ",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/186_Arboreal Armorer.png"
+				"en": "https:///sets/BEE-files/img/186_Arboreal Armorer.png"
 			}
 		},
 		{
@@ -3517,7 +3517,7 @@
 			"type": "Creature — Azra Druid ",
 			"collector_number": "212",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/212_Master of the Silent Hunt.png"
+				"en": "https:///sets/BEE-files/img/212_Master of the Silent Hunt.png"
 			}
 		},
 		{
@@ -3527,7 +3527,7 @@
 			"type": "Sorcery",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/107_Extract Soul.png"
+				"en": "https:///sets/BEE-files/img/107_Extract Soul.png"
 			}
 		},
 		{
@@ -3537,7 +3537,7 @@
 			"type": "Creature — Human Advisor ",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/10_Collector of Curios.png"
+				"en": "https:///sets/BEE-files/img/10_Collector of Curios.png"
 			}
 		},
 		{
@@ -3547,7 +3547,7 @@
 			"type": "Artifact — Equipment ",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/20_Healer's Harness.png"
+				"en": "https:///sets/BEE-files/img/20_Healer's Harness.png"
 			}
 		},
 		{
@@ -3557,7 +3557,7 @@
 			"type": "Artifact Land — Fortification ",
 			"collector_number": "344",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/344_Reflective Matrix.png"
+				"en": "https:///sets/BEE-files/img/344_Reflective Matrix.png"
 			}
 		},
 		{
@@ -3567,7 +3567,7 @@
 			"type": "Land",
 			"collector_number": "358",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/358_Wartorn Theater.png"
+				"en": "https:///sets/BEE-files/img/358_Wartorn Theater.png"
 			}
 		},
 		{
@@ -3577,7 +3577,7 @@
 			"type": "Creature — Human Shaman ",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/149_Draconic Aspirant.png"
+				"en": "https:///sets/BEE-files/img/149_Draconic Aspirant.png"
 			}
 		},
 		{
@@ -3587,7 +3587,7 @@
 			"type": "Land",
 			"collector_number": "315",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/315_Citadel of the Banished.png"
+				"en": "https:///sets/BEE-files/img/315_Citadel of the Banished.png"
 			}
 		},
 		{
@@ -3597,368 +3597,7 @@
 			"type": "Enchantment",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/150_Dragon-Tongue Technique.png"
+				"en": "https:///sets/BEE-files/img/150_Dragon-Tongue Technique.png"
 			}
 		}
 	]
-[RareSlot(15)]
-2 Centennial, Time Keeper
-2 Alarez, Milita Crier
-2 Cogwork Virtuoso
-2 Danitha's Steward
-2 Evanesce
-2 Divine Wardwielders
-2 Empty Trenches
-2 Forswear Violence
-2 Frozen Over
-2 Haunting Pursuit
-2 Idyllic Primordial
-2 In The Queen's Court
-2 A Kingdom Reborn
-2 Leonin Cub
-2 Master of Balance
-2 Patron of Familiars
-2 Shoreline Eggkeeper
-2 Starsworn Canonist
-2 Supernova
-2 Swiftblade Gladiator
-2 Territorial Felidar
-2 Tobias, Forefront Steward
-2 Triumphant Trio
-2 Vanish
-2 Vengeant Paladin
-2 Walk the Shattered Path
-2 Warborn Martyr
-2 Wary Watchman
-2 Archivist's Armillary
-2 Artificer of Eos
-2 Consult the Runes
-2 Crack the Conduit
-2 Cry Together
-2 Cthonic Arcana
-2 Doomed Sorcerer
-2 Eclipse
-2 Fantasize
-2 Journey Through Time
-2 Knowledge Primordial
-2 Kralyk, Runic Terror
-2 Lady Dremae, the Archivist
-2 Lucille, Dockhand Sleuth
-2 Mindbent Trance
-2 Mistify
-2 Refuse Entry
-2 Regent's Waltz
-2 Revelatory Contemplation
-2 Screeching Delusions
-2 Shield Splicer
-2 Shipcrusher Serpent
-2 Skyship Saboteur
-2 Spurious Curiosity
-2 Swallow the Moon
-2 Sweet Dreams
-2 Talrand's Favored
-2 Guardian of the Ziggurat
-2 Three Card Bluff
-2 Tireless Librarian
-2 Twinfang Duelist
-2 Witness the Past
-2 Attack of the Killer Bees
-2 Avera, Duchess of the Dead
-2 Blood Upon the Altar
-2 Bloodsoaked Warmonger
-2 Curseblade Initiate
-2 Depths of Despair
-2 Diabolic Primordial
-2 Eternal Sleep
-2 Feathergoyf
-2 Flay the Mind
-2 Forgotten Ritual
-2 Gifts from Below
-2 Hellfire Meteor
-2 Ibligm, The Sporesage
-2 Midnight Wish
-2 Murderous Intent
-2 Necrotic Dissolution
-2 Nora, Crimson Occultist
-2 Oversaturate
-2 Primordial Blight
-2 Prismatic Ritualist
-2 Rabid Rat
-2 Regent of the Eirzhari
-2 Repay in Blood
-2 Return of the Eternal
-2 Right Hook
-2 Ritual Preparations
-2 Ruthless Taskmaster
-2 Sadistic Edict
-2 Shambling Return
-2 Sucker Punch
-2 Thrull Scamp
-2 Twilight Cavalry
-2 Underworld Duelist
-2 Subservient Skeleton
-2 Lucky Find
-2 Detonator Drones
-2 Absurd Ape
-2 Ancestral Gambit
-2 Brazen Burglar
-2 Capricious Pyromancer
-2 Chromatic Assailant
-2 Dance of the Crimson Veil
-2 Defiant Torch
-2 Dustblade Khenra
-2 Fiery Distraction
-2 Final Sunset
-2 Fracturing Impact
-2 Gluttonous Burglar
-2 Goblin Stoneworker
-2 Harvest Reaper
-2 Horus, Apex Captain
-2 Invoke Flame
-2 Knight of Summer
-2 Magmatic Transfiguration
-2 Tyrant's Roar
-2 Rage of the Calamity
-2 Rageplume Phoenix
-2 Roxie, The Smoking Gun
-2 Seething Primordial
-2 Skeletal Onslaught
-2 Solar Extinguisher
-2 Splintering Sprinter
-2 Stray Squire
-2 Strike Twice
-2 Taiyan, Second Sun
-2 Thunderous Condemnation
-2 Vengeful Stormcaster
-2 War
-2 Wrenn's Recruiter
-2 Hive Sentinel
-2 Barkheart Dryad
-2 Befriend the Tyrant
-2 Bond of Life
-2 Calamitous Pawprint
-2 Canopy Werefox
-2 Guul Draz Channeler
-2 Harvest Moon
-2 Hydra Tamer
-2 Imaryll's Call
-2 Jeanne, of Untread Paths
-2 Keeper of the City
-2 Lingering Lhurgoyfs
-2 Loam Primordial
-2 Ascending Growth
-2 Lurking Serpopard
-2 Meditative Conduit
-2 Mystic Viper
-2 Caller of Titans
-2 Perennial Harvest
-2 Perennial Hierarch
-2 Dollon, Failed Experiment
-2 Rogbin, Plucker of Wings
-2 Rootpath Wanderer
-2 Sage of Restoration
-2 Terraformer Toad
-2 Tidal Hierarch
-2 Transformation Sage
-2 Abrasive Tamer
-2 Amateur Gravedigger
-2 Angelfire Ascendant
-2 Azorius Mandate
-2 Bird's Eye View
-2 A Challenger Approaches
-2 Cliffside Storm
-2 Coral Witness
-2 Dear Departure
-2 Envoy of Nature
-2 Applied Enlightenment
-2 Felise, Scion of Autumn
-2 Flameslash Rapier
-2 Flight of the Weatherlight
-2 Frostfire Fox
-2 Killshot
-2 Melyr, Titan of Life's Beauty
-2 Miraculous Genesis
-2 Okrul, Titan of Time's Sight
-2 Overgrow
-2 Peregrine Charmer
-2 Pierce the Heavens
-2 Plumb the Mind
-2 Precarious Lunge
-2 Rakdos's Will
-2 Ashen Marauder
-2 Silent Rapture
-2 Song of the Burning-Tree
-2 Soul Confidant
-2 Spontaneous Plasmosis
-2 Suffocate
-2 Sultai Sky Swallower
-2 Vikram, Mystic Pariah
-2 Watchful Werethief
-2 Wealth Spiral
-2 April Showers
-2 Crematory Scamp
-2 Endless Assault
-2 Cloudform Snake
-2 Impulsive Outing
-2 Loot the Laboratory
-2 Maddening Truths
-2 Rites of Rebirth
-2 Sheltering Faith
-2 Dreadmist Sorceress
-2 Accursed Mill
-2 Arcane Tome
-2 Blossoming Lotus
-2 Honey Bauble
-2 Quakestep Colossus
-2 Reactive Solution
-2 Secluded Safehouse
-2 Traveler's Lantern
-2 Wallbreaker Sentinel
-2 Amorphous Barrens
-2 Amorphous Coastline
-2 Amorphous Falls
-2 Amorphous Glade
-2 Amorphous Hellscape
-2 Amorphous Mesa
-2 Amorphous Riverside
-2 Amorphous Trail
-2 Amorphous Tundra
-2 Amorphous Vista
-2 Ayula's Den
-2 Barren Pasture
-2 Battered Shipwreck
-2 Bustling Market
-2 Cavern of Threads
-2 Sunfirth Settlement
-2 Concealed Roost
-2 Moonlit Lakefront
-2 Dormant Halls
-2 The Eternal Glade
-2 Forest of Beasts
-2 Forgotten Tomb
-2 Fractured Spire
-2 Grim Arena
-2 Hillside Wreckage
-2 Hollow Bulwark
-2 Plague Quarter
-2 Silent Estuary
-2 Sulfuric Volcano
-2 Sundried Savannah
-2 Vault of the Guardians
-2 Perennial Festivities
-2 LANCELOT Mk. II
-2 Seamus, Stalwart Medium
-2 Gilded Arsonist
-2 Phyrexian Incursion
-2 Temple of Dormant Power
-2 Temple of Twisted Dreams
-2 Temple of Death's Purity
-2 Temple of Tranquil Trails
-2 Temple of Malignant Rage
-2 Wander Amongst the Dead
-2 Watchful Statue
-2 Skulltide Settlement
-2 Smogburke Settlement
-2 Valleyfall Settlement
-2 Dawnglade Settlement
-2 Mistmire Settlement
-2 Cloudpeak Settlement
-2 Sporeglow Settlement
-2 Cliffside Settlement
-2 Floodcove Settlement
-2 Windswept Meadow
-2 Golden Grotto
-2 Resplendent Glade
-2 Blossoming Fissure
-2 Remote Beach
-2 Crocodile Haven
-2 Otherworldly Vista
-2 Idyllic Lakeside
-2 Coastal Archway
-2 Nobelle, Five of Swords
-2 Cathedral Specter
-2 Collective Nightmare
-2 The Ascension of Caldius
-2 Apostle of Serra
-2 Cosmochromatic Cube
-2 Primordial Rhythm
-2 Limits of Imagination
-2 Jade Palace
-2 Thieving Primates
-2 Bloody Baron
-2 Scrap Scanner
-2 Master of the Elements
-2 Caught in the Act
-2 Shadeforged Brigandine
-2 Auroric Iceblade
-2 Novice's Armaments
-2 Fleshmauler
-2 Vura, Enduring Enchantress
-2 Starmane Alpha
-2 Infinite Refractoid
-2 Ominous Walker
-2 Splitspeed Blitzboots
-2 Automatic Inspector
-2 Sail the Forbidden Sea
-2 Noble Greenwarden
-2 Midmorning Meadow
-2 Winding Crevasse
-2 Arboured Marsh
-2 Distant Monoliths
-2 Nocturnal Blossom
-2 Serene Expanse
-2 Captivating Range
-2 Foreboding Monuments
-2 Duskbank Shores
-2 Inhabited Innkeeper
-2 Malevolent Mechadaemon
-2 What Waits Below
-2 Voracity Splicer
-2 Pack of Jackals
-2 Masked Fearcaller
-2 Divine Duality
-2 Voracious Giant
-2 Somnivore
-2 HAL-0, False Prophet
-2 Enlightened Machinist
-2 Defiled Butcher
-2 Eleventh Hour Avenger
-2 Lost in Wonder
-2 Arcane Encore
-2 Render Insignificant
-2 Jester Ascendant
-2 The Dungeoneers Return
-2 Eager Artificer
-2 Steward of Peace
-2 Sealing Officer
-2 Arbiter of the Veil
-2 Veteran Vanguard
-2 Unsealed Stampede
-2 Lethargic Ursanodon
-2 Incubator Spider
-2 Tireless Pioneer
-2 Chromatic Prism
-2 Quaketusk
-2 Steward of the Wood
-2 Gaea's Emissary
-2 Unkempt Farmland
-2 Form of the Hellion
-2 Looted Wellspring
-2 Muscle Mechanic
-2 Cryptcrawler
-2 Untimely Distortion
-2 Arcanist's Spellbook
-2 Harbinger of Glory
-2 Fireblood Shinobi
-2 Agent of the Inbetween
-2 Harvester of Blood
-2 Arboreal Armorer
-2 Master of the Silent Hunt
-2 Extract Soul
-2 Collector of Curios
-2 Healer's Harness
-2 Reflective Matrix
-2 Wartorn Theater
-2 Draconic Aspirant
-2 Citadel of the Banished
-2 Dragon-Tongue Technique
