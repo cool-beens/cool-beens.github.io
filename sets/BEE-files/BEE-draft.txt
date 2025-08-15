@@ -2,3602 +2,3964 @@
 	[
 		{
 			"name": "Centennial, Time Keeper",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{4}",
-			"type": "Legendary Planeswalker — C ",
+			"type": "Legendary Planeswalker — C",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/1_Centennial, Time Keeper.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/1_Centennial, Time Keeper.png"
 			}
 		},
 		{
 			"name": "Alarez, Milita Crier",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{R}{W}",
-			"type": "Legendary Planeswalker — Alarez ",
+			"type": "Legendary Planeswalker — Alarez",
 			"collector_number": "234",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/234_Alarez, Milita Crier.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/234_Alarez, Milita Crier.png"
 			}
 		},
 		{
 			"name": "Cogwork Virtuoso",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Human Artificer ",
+			"type": "Creature — Human Artificer",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/8_Cogwork Virtuoso.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/8_Cogwork Virtuoso.png"
 			}
 		},
 		{
 			"name": "Danitha's Steward",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Knight ",
+			"type": "Creature — Human Knight",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/11_Danitha's Steward.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/11_Danitha's Steward.png"
 			}
 		},
 		{
 			"name": "Evanesce",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/16_Evanesce.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/16_Evanesce.png"
 			}
 		},
 		{
 			"name": "Divine Wardwielders",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Human Cleric ",
+			"type": "Creature — Human Cleric",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/12_Divine Wardwielders.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/12_Divine Wardwielders.png"
 			}
 		},
 		{
 			"name": "Empty Trenches",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Sorcery",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/15_Empty Trenches.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/15_Empty Trenches.png"
 			}
 		},
 		{
 			"name": "Forswear Violence",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{W}",
-			"type": "Enchantment — Aura ",
+			"type": "Enchantment — Aura",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/17_Forswear Violence.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/17_Forswear Violence.png"
 			}
 		},
 		{
 			"name": "Frozen Over",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/18_Frozen Over.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/18_Frozen Over.png"
 			}
 		},
 		{
 			"name": "Haunting Pursuit",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/19_Haunting Pursuit.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/19_Haunting Pursuit.png"
 			}
 		},
 		{
 			"name": "Idyllic Primordial",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{4}{W}{W}",
-			"type": "Creature — Giant Elemental ",
+			"type": "Creature — Giant Elemental",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/21_Idyllic Primordial.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/21_Idyllic Primordial.png"
 			}
 		},
 		{
 			"name": "In The Queen's Court",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Enchantment",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/22_In The Queen's Court.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/22_In The Queen's Court.png"
 			}
 		},
 		{
 			"name": "A Kingdom Reborn",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Enchantment",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/23_A Kingdom Reborn.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/23_A Kingdom Reborn.png"
 			}
 		},
 		{
 			"name": "Leonin Cub",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{W}",
-			"type": "Creature — Cat Warrior Spellshaper ",
+			"type": "Creature — Cat Warrior Spellshaper",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/24_Leonin Cub.png"
-			}
-		},
-		{
-			"name": "Master of Balance",
-			"rarity": "rare",
-			"mana_cost": "{2}{W}{W}",
-			"type": "Creature — Human Monk ",
-			"collector_number": "25",
-			"image_uris": {
-				"en": "https:///sets/BEE-files/img/25_Master of Balance.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/24_Leonin Cub.png"
 			}
 		},
 		{
 			"name": "Patron of Familiars",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Wizard ",
+			"type": "Creature — Human Cleric",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/27_Patron of Familiars.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/27_Patron of Familiars.png"
 			}
 		},
 		{
 			"name": "Shoreline Eggkeeper",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{W}",
-			"type": "Creature — Merfolk Rogue ",
+			"type": "Creature — Merfolk Rogue",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/31_Shoreline Eggkeeper.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/31_Shoreline Eggkeeper.png"
 			}
 		},
 		{
 			"name": "Starsworn Canonist",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
-			"type": "Enchantment Creature — Human Cleric ",
+			"type": "Enchantment Creature — Human Cleric",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/33_Starsworn Canonist.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/33_Starsworn Canonist.png"
 			}
 		},
 		{
 			"name": "Supernova",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{4}{W}",
 			"type": "Sorcery",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/35_Supernova.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/35_Supernova.png"
 			}
 		},
 		{
 			"name": "Swiftblade Gladiator",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{W}{W}",
-			"type": "Creature — Human Warrior ",
+			"type": "Creature — Human Warrior",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/36_Swiftblade Gladiator.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/36_Swiftblade Gladiator.png"
 			}
 		},
 		{
 			"name": "Territorial Felidar",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Cat Beast ",
+			"type": "Creature — Cat Beast",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/38_Territorial Felidar.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/38_Territorial Felidar.png"
 			}
 		},
 		{
 			"name": "Tobias, Forefront Steward",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{W}",
-			"type": "Legendary Creature — Human Knight ",
+			"type": "Legendary Creature — Human Knight",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/39_Tobias, Forefront Steward.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/39_Tobias, Forefront Steward.png"
 			}
 		},
 		{
 			"name": "Triumphant Trio",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{W}",
-			"type": "Creature — Cat Elephant Giraffe ",
+			"type": "Creature — Cat Elephant Giraffe",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/40_Triumphant Trio.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/40_Triumphant Trio.png"
 			}
 		},
 		{
 			"name": "Vanish",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Instant",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/41_Vanish.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/41_Vanish.png"
 			}
 		},
 		{
 			"name": "Vengeant Paladin",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Knight ",
+			"type": "Creature — Human Knight",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/42_Vengeant Paladin.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/42_Vengeant Paladin.png"
 			}
 		},
 		{
 			"name": "Walk the Shattered Path",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/45_Walk the Shattered Path.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/45_Walk the Shattered Path.png"
 			}
 		},
 		{
 			"name": "Warborn Martyr",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{W}",
-			"type": "Creature — Human Soldier ",
+			"type": "Creature — Human Soldier",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/46_Warborn Martyr.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/46_Warborn Martyr.png"
 			}
 		},
 		{
 			"name": "Wary Watchman",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{W}",
-			"type": "Creature — Human Scout ",
+			"type": "Creature — Human Scout",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/47_Wary Watchman.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/47_Wary Watchman.png"
 			}
 		},
 		{
 			"name": "Archivist's Armillary",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Artifact",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/50_Archivist's Armillary.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/50_Archivist's Armillary.png"
 			}
 		},
 		{
 			"name": "Artificer of Eos",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Human Arificer ",
+			"type": "Creature — Human Arificer",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/51_Artificer of Eos.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/51_Artificer of Eos.png"
 			}
 		},
 		{
 			"name": "Consult the Runes",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/52_Consult the Runes.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/52_Consult the Runes.png"
 			}
 		},
 		{
 			"name": "Crack the Conduit",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Instant",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/53_Crack the Conduit.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/53_Crack the Conduit.png"
 			}
 		},
 		{
 			"name": "Cry Together",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Instant",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/54_Cry Together.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/54_Cry Together.png"
 			}
 		},
 		{
 			"name": "Cthonic Arcana",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/55_Cthonic Arcana.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/55_Cthonic Arcana.png"
 			}
 		},
 		{
 			"name": "Doomed Sorcerer",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{U}",
-			"type": "Creature — Human Wizard ",
+			"type": "Creature — Human Wizard",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/56_Doomed Sorcerer.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/56_Doomed Sorcerer.png"
 			}
 		},
 		{
 			"name": "Eclipse",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Instant",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/57_Eclipse.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/57_Eclipse.png"
 			}
 		},
 		{
 			"name": "Fantasize",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Instant",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/58_Fantasize.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/58_Fantasize.png"
 			}
 		},
 		{
 			"name": "Journey Through Time",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
-			"type": "Enchantment — Saga ",
+			"type": "Enchantment — Saga",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/62_Journey Through Time.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/62_Journey Through Time.png"
 			}
 		},
 		{
 			"name": "Knowledge Primordial",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{4}{U}{U}",
-			"type": "Artifact Creature — Giant Elemental ",
+			"type": "Artifact Creature — Giant Elemental",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/63_Knowledge Primordial.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/63_Knowledge Primordial.png"
 			}
 		},
 		{
 			"name": "Kralyk, Runic Terror",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{6}{U}",
-			"type": "Legendary Planeswalker — Kralyk ",
+			"type": "Legendary Planeswalker — Kralyk",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/64_Kralyk, Runic Terror.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/64_Kralyk, Runic Terror.png"
 			}
 		},
 		{
 			"name": "Lady Dremae, the Archivist",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
-			"type": "Legendary Planeswalker — Dremae ",
+			"type": "Legendary Planeswalker — Dremae",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/65_Lady Dremae, the Archivist.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/65_Lady Dremae, the Archivist.png"
 			}
 		},
 		{
 			"name": "Lucille, Dockhand Sleuth",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{U}",
-			"type": "Legendary Creature — Human Detective ",
+			"type": "Legendary Creature — Human Detective",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/67_Lucille, Dockhand Sleuth.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/67_Lucille, Dockhand Sleuth.png"
 			}
 		},
 		{
 			"name": "Mindbent Trance",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/68_Mindbent Trance.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/68_Mindbent Trance.png"
 			}
 		},
 		{
 			"name": "Mistify",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/69_Mistify.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/69_Mistify.png"
 			}
 		},
 		{
 			"name": "Refuse Entry",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/71_Refuse Entry.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/71_Refuse Entry.png"
 			}
 		},
 		{
 			"name": "Regent's Waltz",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{6}{U}{U}{U}",
 			"type": "Instant",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/72_Regent's Waltz.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/72_Regent's Waltz.png"
 			}
 		},
 		{
 			"name": "Revelatory Contemplation",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{X}{U}",
 			"type": "Instant",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/74_Revelatory Contemplation.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/74_Revelatory Contemplation.png"
 			}
 		},
 		{
 			"name": "Screeching Delusions",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/76_Screeching Delusions.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/76_Screeching Delusions.png"
 			}
 		},
 		{
 			"name": "Shield Splicer",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Phyrexian Human Artificer ",
+			"type": "Creature — Phyrexian Human Artificer",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/78_Shield Splicer.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/78_Shield Splicer.png"
 			}
 		},
 		{
 			"name": "Shipcrusher Serpent",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{X}{U}{U}",
-			"type": "Creature — Serpent ",
+			"type": "Creature — Serpent",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/79_Shipcrusher Serpent.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/79_Shipcrusher Serpent.png"
 			}
 		},
 		{
 			"name": "Skyship Saboteur",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{U}",
-			"type": "Creature — Human Pirate Spellshaper ",
+			"type": "Creature — Human Pirate Spellshaper",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/80_Skyship Saboteur.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/80_Skyship Saboteur.png"
 			}
 		},
 		{
 			"name": "Spurious Curiosity",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{U}",
-			"type": "Enchantment — Aura ",
+			"type": "Enchantment — Aura",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/82_Spurious Curiosity.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/82_Spurious Curiosity.png"
 			}
 		},
 		{
 			"name": "Swallow the Moon",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Sorcery",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/83_Swallow the Moon.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/83_Swallow the Moon.png"
 			}
 		},
 		{
 			"name": "Sweet Dreams",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Instant",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/84_Sweet Dreams.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/84_Sweet Dreams.png"
 			}
 		},
 		{
 			"name": "Talrand's Favored",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{U}{U}",
-			"type": "Creature — Drake ",
+			"type": "Creature — Drake",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/85_Talrand's Favored.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/85_Talrand's Favored.png"
 			}
 		},
 		{
 			"name": "Guardian of the Ziggurat",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Elemental ",
+			"type": "Creature — Elemental",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/59_Guardian of the Ziggurat.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/59_Guardian of the Ziggurat.png"
 			}
 		},
 		{
 			"name": "Three Card Bluff",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Instant",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/87_Three Card Bluff.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/87_Three Card Bluff.png"
 			}
 		},
 		{
 			"name": "Tireless Librarian",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
-			"type": "Creature — Human Wizard ",
+			"type": "Creature — Human Wizard",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/88_Tireless Librarian.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/88_Tireless Librarian.png"
 			}
 		},
 		{
 			"name": "Twinfang Duelist",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Vampire Rogue ",
+			"type": "Creature — Vampire Rogue",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/89_Twinfang Duelist.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/89_Twinfang Duelist.png"
 			}
 		},
 		{
 			"name": "Witness the Past",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/93_Witness the Past.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/93_Witness the Past.png"
 			}
 		},
 		{
 			"name": "Attack of the Killer Bees",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{X}{B}{B}",
 			"type": "Instant",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/94_Attack of the Killer Bees.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/94_Attack of the Killer Bees.png"
 			}
 		},
 		{
 			"name": "Avera, Duchess of the Dead",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
-			"type": "Legendary Creature — Zombie Noble ",
+			"type": "Legendary Creature — Zombie Noble",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/95_Avera, Duchess of the Dead.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/95_Avera, Duchess of the Dead.png"
 			}
 		},
 		{
 			"name": "Blood Upon the Altar",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Instant",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/96_Blood Upon the Altar.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/96_Blood Upon the Altar.png"
 			}
 		},
 		{
 			"name": "Bloodsoaked Warmonger",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Human Warrior ",
+			"type": "Creature — Human Warrior",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/97_Bloodsoaked Warmonger.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/97_Bloodsoaked Warmonger.png"
 			}
 		},
 		{
 			"name": "Curseblade Initiate",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Human Warrior ",
+			"type": "Creature — Human Warrior",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/101_Curseblade Initiate.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/101_Curseblade Initiate.png"
 			}
 		},
 		{
 			"name": "Depths of Despair",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{B}",
-			"type": "Enchantment — Saga ",
+			"type": "Enchantment — Saga",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/102_Depths of Despair.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/102_Depths of Despair.png"
 			}
 		},
 		{
 			"name": "Diabolic Primordial",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{4}{B}{B}",
-			"type": "Creature — Giant Elemental ",
+			"type": "Creature — Giant Elemental",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/103_Diabolic Primordial.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/103_Diabolic Primordial.png"
 			}
 		},
 		{
 			"name": "Eternal Sleep",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{B}",
 			"type": "Enchantment",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/106_Eternal Sleep.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/106_Eternal Sleep.png"
 			}
 		},
 		{
 			"name": "Feathergoyf",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
-			"type": "Creature — Lhurgoyf ",
+			"type": "Creature — Lhurgoyf",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/108_Feathergoyf.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/108_Feathergoyf.png"
 			}
 		},
 		{
 			"name": "Flay the Mind",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Enchantment",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/109_Flay the Mind.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/109_Flay the Mind.png"
 			}
 		},
 		{
 			"name": "Forgotten Ritual",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/110_Forgotten Ritual.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/110_Forgotten Ritual.png"
 			}
 		},
 		{
 			"name": "Gifts from Below",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Enchantment",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/111_Gifts from Below.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/111_Gifts from Below.png"
 			}
 		},
 		{
 			"name": "Hellfire Meteor",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Sorcery",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/113_Hellfire Meteor.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/113_Hellfire Meteor.png"
 			}
 		},
 		{
 			"name": "Ibligm, The Sporesage",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{B}{B}",
-			"type": "Legendary Planeswalker — Ibligm ",
+			"type": "Legendary Planeswalker — Ibligm",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/114_Ibligm, The Sporesage.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/114_Ibligm, The Sporesage.png"
 			}
 		},
 		{
 			"name": "Midnight Wish",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/117_Midnight Wish.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/117_Midnight Wish.png"
 			}
 		},
 		{
 			"name": "Murderous Intent",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Instant",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/118_Murderous Intent.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/118_Murderous Intent.png"
 			}
 		},
 		{
 			"name": "Necrotic Dissolution",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{B}",
-			"type": "Enchantment — Aura ",
+			"type": "Enchantment — Aura",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/119_Necrotic Dissolution.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/119_Necrotic Dissolution.png"
 			}
 		},
 		{
 			"name": "Nora, Crimson Occultist",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
-			"type": "Legendary Planeswalker — Nora ",
+			"type": "Legendary Planeswalker — Nora",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/120_Nora, Crimson Occultist.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/120_Nora, Crimson Occultist.png"
 			}
 		},
 		{
 			"name": "Oversaturate",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{X}{X}{B}",
 			"type": "Sorcery",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/121_Oversaturate.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/121_Oversaturate.png"
 			}
 		},
 		{
 			"name": "Primordial Blight",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/123_Primordial Blight.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/123_Primordial Blight.png"
 			}
 		},
 		{
 			"name": "Prismatic Ritualist",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Human Demon Warlock ",
+			"type": "Creature — Human Demon Warlock",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/124_Prismatic Ritualist.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/124_Prismatic Ritualist.png"
 			}
 		},
 		{
 			"name": "Rabid Rat",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{B}",
-			"type": "Creature — Rat ",
+			"type": "Creature — Rat",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/125_Rabid Rat.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/125_Rabid Rat.png"
 			}
 		},
 		{
 			"name": "Regent of the Eirzhari",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{B}",
-			"type": "Creature — Vampire  Noble Cleric ",
+			"type": "Creature — Vampire Noble Cleric",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/126_Regent of the Eirzhari.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/126_Regent of the Eirzhari.png"
 			}
 		},
 		{
 			"name": "Repay in Blood",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{X}{B}",
 			"type": "Instant",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/127_Repay in Blood.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/127_Repay in Blood.png"
 			}
 		},
 		{
 			"name": "Return of the Eternal",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{B}",
 			"type": "Sorcery",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/128_Return of the Eternal.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/128_Return of the Eternal.png"
 			}
 		},
 		{
 			"name": "Right Hook",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/129_Right Hook.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/129_Right Hook.png"
 			}
 		},
 		{
 			"name": "Ritual Preparations",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/130_Ritual Preparations.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/130_Ritual Preparations.png"
 			}
 		},
 		{
 			"name": "Ruthless Taskmaster",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{B}{B}",
-			"type": "Creature — Orc Warrior ",
+			"type": "Creature — Orc Warrior",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/131_Ruthless Taskmaster.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/131_Ruthless Taskmaster.png"
 			}
 		},
 		{
 			"name": "Sadistic Edict",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/132_Sadistic Edict.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/132_Sadistic Edict.png"
 			}
 		},
 		{
 			"name": "Shambling Return",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/133_Shambling Return.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/133_Shambling Return.png"
 			}
 		},
 		{
 			"name": "Sucker Punch",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/135_Sucker Punch.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/135_Sucker Punch.png"
 			}
 		},
 		{
 			"name": "Thrull Scamp",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Thrull Beast ",
+			"type": "Creature — Thrull Beast",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/137_Thrull Scamp.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/137_Thrull Scamp.png"
 			}
 		},
 		{
 			"name": "Twilight Cavalry",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Spirit Knight ",
+			"type": "Creature — Spirit Knight",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/138_Twilight Cavalry.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/138_Twilight Cavalry.png"
 			}
 		},
 		{
 			"name": "Underworld Duelist",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{B}",
-			"type": "Enchantment Creature — Zombie Spellshaper ",
+			"type": "Enchantment Creature — Zombie Spellshaper",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/139_Underworld Duelist.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/139_Underworld Duelist.png"
 			}
 		},
 		{
 			"name": "Subservient Skeleton",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Skeleton ",
+			"type": "Creature — Skeleton",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/134_Subservient Skeleton.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/134_Subservient Skeleton.png"
 			}
 		},
 		{
 			"name": "Lucky Find",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/115_Lucky Find.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/115_Lucky Find.png"
 			}
 		},
 		{
 			"name": "Detonator Drones",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
-			"type": "Artifact Creature — Insect ",
+			"type": "Artifact Creature — Insect",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/148_Detonator Drones.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/148_Detonator Drones.png"
 			}
 		},
 		{
 			"name": "Absurd Ape",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R}",
-			"type": "Creature — Monkey ",
+			"type": "Creature — Monkey",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/140_Absurd Ape.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/140_Absurd Ape.png"
 			}
 		},
 		{
 			"name": "Ancestral Gambit",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/141_Ancestral Gambit.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/141_Ancestral Gambit.png"
 			}
 		},
 		{
 			"name": "Brazen Burglar",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R}",
-			"type": "Creature — Goblin Rogue ",
+			"type": "Creature — Goblin Rogue",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/143_Brazen Burglar.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/143_Brazen Burglar.png"
 			}
 		},
 		{
 			"name": "Capricious Pyromancer",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R}",
-			"type": "Creature — Human Wizard ",
+			"type": "Creature — Human Wizard",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/144_Capricious Pyromancer.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/144_Capricious Pyromancer.png"
 			}
 		},
 		{
 			"name": "Chromatic Assailant",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Dragon Warrior ",
+			"type": "Creature — Dragon Warrior",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/145_Chromatic Assailant.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/145_Chromatic Assailant.png"
 			}
 		},
 		{
 			"name": "Dance of the Crimson Veil",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/146_Dance of the Crimson Veil.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/146_Dance of the Crimson Veil.png"
 			}
 		},
 		{
 			"name": "Defiant Torch",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Instant",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/147_Defiant Torch.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/147_Defiant Torch.png"
 			}
 		},
 		{
 			"name": "Dustblade Khenra",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R}",
-			"type": "Creature — Jackal Warrior Spellshaper ",
+			"type": "Creature — Jackal Warrior Spellshaper",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/151_Dustblade Khenra.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/151_Dustblade Khenra.png"
 			}
 		},
 		{
 			"name": "Fiery Distraction",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/152_Fiery Distraction.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/152_Fiery Distraction.png"
 			}
 		},
 		{
 			"name": "Final Sunset",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Sorcery",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/153_Final Sunset.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/153_Final Sunset.png"
 			}
 		},
 		{
 			"name": "Fracturing Impact",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/157_Fracturing Impact.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/157_Fracturing Impact.png"
 			}
 		},
 		{
 			"name": "Gluttonous Burglar",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R}",
-			"type": "Creature — Ogre Rogue ",
+			"type": "Creature — Ogre Rogue",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/159_Gluttonous Burglar.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/159_Gluttonous Burglar.png"
 			}
 		},
 		{
 			"name": "Goblin Stoneworker",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Goblin Artificer ",
+			"type": "Creature — Goblin Artificer",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/160_Goblin Stoneworker.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/160_Goblin Stoneworker.png"
 			}
 		},
 		{
 			"name": "Harvest Reaper",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Elemental Plant Spirit ",
+			"type": "Creature — Elemental Plant Spirit",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/162_Harvest Reaper.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/162_Harvest Reaper.png"
 			}
 		},
 		{
 			"name": "Horus, Apex Captain",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{R}",
-			"type": "Legendary Creature — Human Knight ",
+			"type": "Legendary Creature — Human Knight",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/163_Horus, Apex Captain.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/163_Horus, Apex Captain.png"
 			}
 		},
 		{
 			"name": "Invoke Flame",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Instant",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/164_Invoke Flame.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/164_Invoke Flame.png"
 			}
 		},
 		{
 			"name": "Knight of Summer",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
-			"type": "Creature — Human Knight ",
+			"type": "Creature — Human Knight",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/165_Knight of Summer.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/165_Knight of Summer.png"
 			}
 		},
 		{
 			"name": "Magmatic Transfiguration",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
-			"type": "Enchantment — Saga ",
+			"type": "Enchantment — Saga",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/167_Magmatic Transfiguration.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/167_Magmatic Transfiguration.png"
 			}
 		},
 		{
 			"name": "Tyrant's Roar",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/181_Tyrant's Roar.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/181_Tyrant's Roar.png"
 			}
 		},
 		{
 			"name": "Rage of the Calamity",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Instant",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/168_Rage of the Calamity.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/168_Rage of the Calamity.png"
 			}
 		},
 		{
 			"name": "Rageplume Phoenix",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
-			"type": "Creature — Phoenix ",
+			"type": "Creature — Phoenix",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/169_Rageplume Phoenix.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/169_Rageplume Phoenix.png"
 			}
 		},
 		{
 			"name": "Roxie, The Smoking Gun",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{R}",
-			"type": "Legendary Planeswalker — Roxie ",
+			"type": "Legendary Planeswalker — Roxie",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/170_Roxie, The Smoking Gun.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/170_Roxie, The Smoking Gun.png"
 			}
 		},
 		{
 			"name": "Seething Primordial",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{4}{R}{R}",
-			"type": "Creature — Giant Elemental ",
+			"type": "Creature — Giant Elemental",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/172_Seething Primordial.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/172_Seething Primordial.png"
 			}
 		},
 		{
 			"name": "Skeletal Onslaught",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/173_Skeletal Onslaught.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/173_Skeletal Onslaught.png"
 			}
 		},
 		{
 			"name": "Solar Extinguisher",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R}",
-			"type": "Creature — Human Warrior ",
+			"type": "Creature — Human Warrior",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/174_Solar Extinguisher.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/174_Solar Extinguisher.png"
 			}
 		},
 		{
 			"name": "Splintering Sprinter",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R}",
-			"type": "Enchantment Creature — Shard Elemental ",
+			"type": "Enchantment Creature — Shard Elemental",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/175_Splintering Sprinter.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/175_Splintering Sprinter.png"
 			}
 		},
 		{
 			"name": "Stray Squire",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Cat Soldier ",
+			"type": "Creature — Cat Soldier",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/176_Stray Squire.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/176_Stray Squire.png"
 			}
 		},
 		{
 			"name": "Strike Twice",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/177_Strike Twice.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/177_Strike Twice.png"
 			}
 		},
 		{
 			"name": "Taiyan, Second Sun",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{R}{R}",
-			"type": "Legendary Planeswalker — Taiyan ",
+			"type": "Legendary Planeswalker — Taiyan",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/178_Taiyan, Second Sun.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/178_Taiyan, Second Sun.png"
 			}
 		},
 		{
 			"name": "Thunderous Condemnation",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Instant",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/180_Thunderous Condemnation.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/180_Thunderous Condemnation.png"
 			}
 		},
 		{
 			"name": "Vengeful Stormcaster",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Human Wizard ",
+			"type": "Creature — Human Wizard",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/182_Vengeful Stormcaster.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/182_Vengeful Stormcaster.png"
 			}
 		},
 		{
 			"name": "War",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{R}{R}{R}",
-			"type": "Creature — Incarnation ",
+			"type": "Creature — Incarnation",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/184_War.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/184_War.png"
 			}
 		},
 		{
 			"name": "Wrenn's Recruiter",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Dryad Warrior ",
+			"type": "Creature — Dryad Warrior",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/185_Wrenn's Recruiter.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/185_Wrenn's Recruiter.png"
 			}
 		},
 		{
 			"name": "Hive Sentinel",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Insect Warrior ",
+			"type": "Creature — Insect Warrior",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/200_Hive Sentinel.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/200_Hive Sentinel.png"
 			}
 		},
 		{
 			"name": "Barkheart Dryad",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Dryad ",
+			"type": "Creature — Dryad",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/188_Barkheart Dryad.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/188_Barkheart Dryad.png"
 			}
 		},
 		{
 			"name": "Befriend the Tyrant",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/189_Befriend the Tyrant.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/189_Befriend the Tyrant.png"
 			}
 		},
 		{
 			"name": "Bond of Life",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Enchantment",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/190_Bond of Life.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/190_Bond of Life.png"
 			}
 		},
 		{
 			"name": "Calamitous Pawprint",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Enchantment",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/191_Calamitous Pawprint.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/191_Calamitous Pawprint.png"
 			}
 		},
 		{
 			"name": "Canopy Werefox",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{G}",
-			"type": "Creature — Human Fox Warrior ",
+			"type": "Creature — Human Fox Warrior",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/193_Canopy Werefox.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/193_Canopy Werefox.png"
 			}
 		},
 		{
 			"name": "Guul Draz Channeler",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Vampire Druid ",
+			"type": "Creature — Vampire Druid",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/198_Guul Draz Channeler.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/198_Guul Draz Channeler.png"
 			}
 		},
 		{
 			"name": "Harvest Moon",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/199_Harvest Moon.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/199_Harvest Moon.png"
 			}
 		},
 		{
 			"name": "Hydra Tamer",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{X}{G}",
-			"type": "Creature — Elf Warrior ",
+			"type": "Creature — Elf Warrior",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/201_Hydra Tamer.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/201_Hydra Tamer.png"
 			}
 		},
 		{
 			"name": "Imaryll's Call",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/202_Imaryll's Call.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/202_Imaryll's Call.png"
 			}
 		},
 		{
 			"name": "Jeanne, of Untread Paths",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{G}{G}",
-			"type": "Legendary Creature — Human Druid ",
+			"type": "Legendary Creature — Human Druid",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/205_Jeanne, of Untread Paths.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/205_Jeanne, of Untread Paths.png"
 			}
 		},
 		{
 			"name": "Keeper of the City",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{G}",
-			"type": "Creature — Djinn Warrior ",
+			"type": "Creature — Djinn Warrior",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/206_Keeper of the City.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/206_Keeper of the City.png"
 			}
 		},
 		{
 			"name": "Lingering Lhurgoyfs",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{6}{G}",
-			"type": "Kindred Sorcery — Lhurgoyf ",
+			"type": "Kindred Sorcery — Lhurgoyf",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/208_Lingering Lhurgoyfs.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/208_Lingering Lhurgoyfs.png"
 			}
 		},
 		{
 			"name": "Loam Primordial",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{4}{G}{G}",
-			"type": "Creature — Giant Elemental ",
+			"type": "Creature — Giant Elemental",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/209_Loam Primordial.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/209_Loam Primordial.png"
 			}
 		},
 		{
 			"name": "Ascending Growth",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/187_Ascending Growth.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/187_Ascending Growth.png"
 			}
 		},
 		{
 			"name": "Lurking Serpopard",
-			"rarity": "rare",
-			"mana_cost": "{1}{G}",
-			"type": "Creature — Cat Snake ",
+			"rarity": "special",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Cat Snake",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/210_Lurking Serpopard.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/210_Lurking Serpopard.png"
 			}
 		},
 		{
 			"name": "Meditative Conduit",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{G}",
-			"type": "Creature — Human Druid ",
+			"type": "Creature — Human Druid",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/213_Meditative Conduit.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/213_Meditative Conduit.png"
 			}
 		},
 		{
 			"name": "Mystic Viper",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Snake ",
+			"type": "Creature — Snake",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/214_Mystic Viper.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/214_Mystic Viper.png"
 			}
 		},
 		{
 			"name": "Caller of Titans",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Human Cleric ",
+			"type": "Creature — Human Cleric",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/192_Caller of Titans.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/192_Caller of Titans.png"
 			}
 		},
 		{
 			"name": "Perennial Harvest",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/216_Perennial Harvest.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/216_Perennial Harvest.png"
 			}
 		},
 		{
 			"name": "Perennial Hierarch",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{G}",
-			"type": "Creature — Human Druid ",
+			"type": "Creature — Human Druid",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/217_Perennial Hierarch.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/217_Perennial Hierarch.png"
 			}
 		},
 		{
 			"name": "Dollon, Failed Experiment",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
-			"type": "Legendary Planeswalker — Dollon ",
+			"type": "Legendary Planeswalker — Dollon",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/195_Dollon, Failed Experiment.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/195_Dollon, Failed Experiment.png"
 			}
 		},
 		{
 			"name": "Rogbin, Plucker of Wings",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{4}{G}{G}{G}",
-			"type": "Legendary Planeswalker — Rogbin ",
+			"type": "Legendary Planeswalker — Rogbin",
 			"collector_number": "220",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/220_Rogbin, Plucker of Wings.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/220_Rogbin, Plucker of Wings.png"
 			}
 		},
 		{
 			"name": "Rootpath Wanderer",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{G}",
-			"type": "Creature — Human Druid ",
+			"type": "Creature — Human Druid",
 			"collector_number": "221",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/221_Rootpath Wanderer.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/221_Rootpath Wanderer.png"
 			}
 		},
 		{
 			"name": "Sage of Restoration",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Elf Cleric ",
+			"type": "Creature — Elf Cleric",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/222_Sage of Restoration.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/222_Sage of Restoration.png"
 			}
 		},
 		{
 			"name": "Terraformer Toad",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Frog ",
+			"type": "Creature — Frog",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/225_Terraformer Toad.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/225_Terraformer Toad.png"
 			}
 		},
 		{
 			"name": "Tidal Hierarch",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{G}",
-			"type": "Creature — Merfolk Druid ",
+			"type": "Creature — Merfolk Druid",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/227_Tidal Hierarch.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/227_Tidal Hierarch.png"
 			}
 		},
 		{
 			"name": "Transformation Sage",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
-			"type": "Creature — Elk Druid ",
+			"type": "Creature — Elk Druid",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/229_Transformation Sage.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/229_Transformation Sage.png"
 			}
 		},
 		{
 			"name": "Abrasive Tamer",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{B}{R}",
-			"type": "Creature — Elf Shaman ",
+			"type": "Creature — Elf Shaman",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/232_Abrasive Tamer.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/232_Abrasive Tamer.png"
 			}
 		},
 		{
 			"name": "Amateur Gravedigger",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{B}",
-			"type": "Creature — Human Warlock ",
+			"type": "Creature — Human Warlock",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/235_Amateur Gravedigger.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/235_Amateur Gravedigger.png"
 			}
 		},
 		{
 			"name": "Angelfire Ascendant",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{R}{W}",
-			"type": "Creature — Human Warrior ",
+			"type": "Creature — Human Warrior",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/236_Angelfire Ascendant.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/236_Angelfire Ascendant.png"
 			}
 		},
 		{
 			"name": "Azorius Mandate",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{W}{U}",
 			"type": "Instant",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/238_Azorius Mandate.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/238_Azorius Mandate.png"
 			}
 		},
 		{
 			"name": "Bird's Eye View",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{G}{U}",
 			"type": "Instant",
 			"collector_number": "239",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/239_Bird's Eye View.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/239_Bird's Eye View.png"
 			}
 		},
 		{
 			"name": "A Challenger Approaches",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{R}{G}",
 			"type": "Sorcery",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/240_A Challenger Approaches.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/240_A Challenger Approaches.png"
 			}
 		},
 		{
 			"name": "Cliffside Storm",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{U}{R}",
 			"type": "Instant",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/241_Cliffside Storm.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/241_Cliffside Storm.png"
 			}
 		},
 		{
 			"name": "Coral Witness",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{G}{U}",
-			"type": "Creature — Jellyfish Beast ",
+			"type": "Creature — Jellyfish Beast",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/242_Coral Witness.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/242_Coral Witness.png"
 			}
 		},
 		{
 			"name": "Dear Departure",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{W}{B}",
 			"type": "Instant",
 			"collector_number": "243",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/243_Dear Departure.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/243_Dear Departure.png"
 			}
 		},
 		{
 			"name": "Envoy of Nature",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{G}{W}",
-			"type": "Creature — Elf Druid ",
+			"type": "Creature — Elf Druid",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/244_Envoy of Nature.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/244_Envoy of Nature.png"
 			}
 		},
 		{
 			"name": "Applied Enlightenment",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{X}{U}{R}{R}",
 			"type": "Enchantment",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/237_Applied Enlightenment.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/237_Applied Enlightenment.png"
 			}
 		},
 		{
 			"name": "Felise, Scion of Autumn",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R}{G}",
-			"type": "Legendary Creature — Dryad ",
+			"type": "Legendary Creature — Dryad",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/245_Felise, Scion of Autumn.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/245_Felise, Scion of Autumn.png"
 			}
 		},
 		{
 			"name": "Flameslash Rapier",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
-			"type": "Artifact — Equipment ",
+			"type": "Artifact — Equipment",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/155_Flameslash Rapier.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/155_Flameslash Rapier.png"
 			}
 		},
 		{
 			"name": "Flight of the Weatherlight",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Instant",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/246_Flight of the Weatherlight.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/246_Flight of the Weatherlight.png"
 			}
 		},
 		{
 			"name": "Frostfire Fox",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{U}{R}",
-			"type": "Creature — Elemental Fox ",
+			"type": "Creature — Elemental Fox",
 			"collector_number": "247",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/247_Frostfire Fox.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/247_Frostfire Fox.png"
 			}
 		},
 		{
 			"name": "Killshot",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{B}{R}",
 			"type": "Sorcery",
 			"collector_number": "248",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/248_Killshot.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/248_Killshot.png"
 			}
 		},
 		{
 			"name": "Melyr, Titan of Life's Beauty",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{G}{W}",
-			"type": "Legendary Creature — Elder Giant ",
+			"type": "Legendary Creature — Elder Giant",
 			"collector_number": "250",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/250_Melyr, Titan of Life's Beauty.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/250_Melyr, Titan of Life's Beauty.png"
 			}
 		},
 		{
 			"name": "Miraculous Genesis",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{B}{G}",
 			"type": "Instant",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/251_Miraculous Genesis.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/251_Miraculous Genesis.png"
 			}
 		},
 		{
 			"name": "Okrul, Titan of Time's Sight",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{U}{B}",
-			"type": "Legendary Creature — Elder Giant ",
+			"type": "Legendary Creature — Elder Giant",
 			"collector_number": "252",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/252_Okrul, Titan of Time's Sight.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/252_Okrul, Titan of Time's Sight.png"
 			}
 		},
 		{
 			"name": "Overgrow",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Sorcery",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/253_Overgrow.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/253_Overgrow.png"
 			}
 		},
 		{
 			"name": "Peregrine Charmer",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{U}",
-			"type": "Creature — Human Knight ",
+			"type": "Creature — Human Knight",
 			"collector_number": "254",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/254_Peregrine Charmer.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/254_Peregrine Charmer.png"
 			}
 		},
 		{
 			"name": "Pierce the Heavens",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Enchantment",
 			"collector_number": "255",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/255_Pierce the Heavens.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/255_Pierce the Heavens.png"
 			}
 		},
 		{
 			"name": "Plumb the Mind",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{U}{B}",
 			"type": "Instant",
 			"collector_number": "256",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/256_Plumb the Mind.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/256_Plumb the Mind.png"
 			}
 		},
 		{
 			"name": "Precarious Lunge",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R}{W}",
 			"type": "Instant",
 			"collector_number": "257",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/257_Precarious Lunge.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/257_Precarious Lunge.png"
 			}
 		},
 		{
 			"name": "Rakdos's Will",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Sorcery",
 			"collector_number": "258",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/258_Rakdos's Will.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/258_Rakdos's Will.png"
 			}
 		},
 		{
 			"name": "Ashen Marauder",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Zombie Elemental Rogue ",
+			"type": "Creature — Zombie Elemental Rogue",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/142_Ashen Marauder.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/142_Ashen Marauder.png"
 			}
 		},
 		{
 			"name": "Silent Rapture",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{X}{W}{B}",
 			"type": "Sorcery",
 			"collector_number": "260",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/260_Silent Rapture.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/260_Silent Rapture.png"
 			}
 		},
 		{
 			"name": "Song of the Burning-Tree",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R}{G}",
 			"type": "Instant",
 			"collector_number": "261",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/261_Song of the Burning-Tree.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/261_Song of the Burning-Tree.png"
 			}
 		},
 		{
 			"name": "Soul Confidant",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{W}{B}",
-			"type": "Creature — Human Cleric ",
+			"type": "Creature — Human Cleric",
 			"collector_number": "262",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/262_Soul Confidant.png"
-			}
-		},
-		{
-			"name": "Spontaneous Plasmosis",
-			"rarity": "rare",
-			"mana_cost": "{G}{U}{U}",
-			"type": "Instant",
-			"collector_number": "263",
-			"image_uris": {
-				"en": "https:///sets/BEE-files/img/263_Spontaneous Plasmosis.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/262_Soul Confidant.png"
 			}
 		},
 		{
 			"name": "Suffocate",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{X}{U}{B}",
 			"type": "Instant",
 			"collector_number": "264",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/264_Suffocate.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/264_Suffocate.png"
 			}
 		},
 		{
 			"name": "Sultai Sky Swallower",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{5}{G}{U}",
-			"type": "Creature — Leviathan ",
+			"type": "Creature — Leviathan",
 			"collector_number": "265",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/265_Sultai Sky Swallower.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/265_Sultai Sky Swallower.png"
 			}
 		},
 		{
 			"name": "Vikram, Mystic Pariah",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{G}",
-			"type": "Legendary Planeswalker — Vikram ",
+			"type": "Legendary Planeswalker — Vikram",
 			"collector_number": "266",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/266_Vikram, Mystic Pariah.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/266_Vikram, Mystic Pariah.png"
 			}
 		},
 		{
 			"name": "Watchful Werethief",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{G}{W}",
-			"type": "Creature — Werewolf Rogue ",
+			"type": "Creature — Werewolf Rogue",
 			"collector_number": "269",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/269_Watchful Werethief.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/269_Watchful Werethief.png"
 			}
 		},
 		{
 			"name": "Wealth Spiral",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{U}{R}",
 			"type": "Instant",
 			"collector_number": "270",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/270_Wealth Spiral.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/270_Wealth Spiral.png"
 			}
 		},
 		{
 			"name": "April Showers",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{W/U}{W/U}",
 			"type": "Enchantment",
 			"collector_number": "271",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/271_April Showers.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/271_April Showers.png"
 			}
 		},
 		{
 			"name": "Crematory Scamp",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{B/R}",
-			"type": "Creature — Imp ",
+			"type": "Creature — Imp",
 			"collector_number": "273",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/273_Crematory Scamp.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/273_Crematory Scamp.png"
 			}
 		},
 		{
 			"name": "Endless Assault",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R/W}{R/W}",
 			"type": "Enchantment",
 			"collector_number": "275",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/275_Endless Assault.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/275_Endless Assault.png"
 			}
 		},
 		{
 			"name": "Cloudform Snake",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{G/U}{G/U}",
-			"type": "Creature — Snake Illusion ",
+			"type": "Creature — Snake Illusion",
 			"collector_number": "272",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/272_Cloudform Snake.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/272_Cloudform Snake.png"
 			}
 		},
 		{
 			"name": "Impulsive Outing",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R/G}{R/G}",
 			"type": "Sorcery",
 			"collector_number": "276",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/276_Impulsive Outing.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/276_Impulsive Outing.png"
 			}
 		},
 		{
 			"name": "Loot the Laboratory",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{U/R}",
 			"type": "Instant",
 			"collector_number": "277",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/277_Loot the Laboratory.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/277_Loot the Laboratory.png"
 			}
 		},
 		{
 			"name": "Maddening Truths",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{U/B}{U/B}",
 			"type": "Instant",
 			"collector_number": "278",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/278_Maddening Truths.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/278_Maddening Truths.png"
 			}
 		},
 		{
 			"name": "Rites of Rebirth",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{W/B}",
 			"type": "Sorcery",
 			"collector_number": "279",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/279_Rites of Rebirth.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/279_Rites of Rebirth.png"
 			}
 		},
 		{
 			"name": "Sheltering Faith",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{G/W}",
 			"type": "Instant",
 			"collector_number": "280",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/280_Sheltering Faith.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/280_Sheltering Faith.png"
 			}
 		},
 		{
 			"name": "Dreadmist Sorceress",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{B/G}{B/G}",
-			"type": "Creature — Human Warlock ",
+			"type": "Creature — Human Warlock",
 			"collector_number": "274",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/274_Dreadmist Sorceress.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/274_Dreadmist Sorceress.png"
 			}
 		},
 		{
 			"name": "Accursed Mill",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
 			"collector_number": "281",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/281_Accursed Mill.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/281_Accursed Mill.png"
 			}
 		},
 		{
 			"name": "Arcane Tome",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
 			"collector_number": "282",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/282_Arcane Tome.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/282_Arcane Tome.png"
 			}
 		},
 		{
 			"name": "Blossoming Lotus",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Artifact",
 			"collector_number": "283",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/283_Blossoming Lotus.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/283_Blossoming Lotus.png"
 			}
 		},
 		{
 			"name": "Honey Bauble",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{0}",
 			"type": "Artifact",
 			"collector_number": "287",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/287_Honey Bauble.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/287_Honey Bauble.png"
 			}
 		},
 		{
 			"name": "Quakestep Colossus",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{14}",
-			"type": "Artifact Creature — Golem  ",
+			"type": "Artifact Creature — Golem",
 			"collector_number": "292",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/292_Quakestep Colossus.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/292_Quakestep Colossus.png"
 			}
 		},
 		{
 			"name": "Reactive Solution",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Artifact",
 			"collector_number": "293",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/293_Reactive Solution.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/293_Reactive Solution.png"
 			}
 		},
 		{
 			"name": "Secluded Safehouse",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{4}",
 			"type": "Artifact",
 			"collector_number": "294",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/294_Secluded Safehouse.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/294_Secluded Safehouse.png"
 			}
 		},
 		{
 			"name": "Traveler's Lantern",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
 			"collector_number": "296",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/296_Traveler's Lantern.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/296_Traveler's Lantern.png"
 			}
 		},
 		{
 			"name": "Wallbreaker Sentinel",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{X}{R}",
-			"type": "Artifact Creature — Skeleton Juggernaut ",
+			"type": "Artifact Creature — Skeleton Juggernaut",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/183_Wallbreaker Sentinel.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/183_Wallbreaker Sentinel.png"
 			}
 		},
 		{
 			"name": "Amorphous Barrens",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "297",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/297_Amorphous Barrens.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/297_Amorphous Barrens.png"
 			}
 		},
 		{
 			"name": "Amorphous Coastline",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "298",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/298_Amorphous Coastline.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/298_Amorphous Coastline.png"
 			}
 		},
 		{
 			"name": "Amorphous Falls",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "299",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/299_Amorphous Falls.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/299_Amorphous Falls.png"
 			}
 		},
 		{
 			"name": "Amorphous Glade",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "300",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/300_Amorphous Glade.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/300_Amorphous Glade.png"
 			}
 		},
 		{
 			"name": "Amorphous Hellscape",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "301",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/301_Amorphous Hellscape.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/301_Amorphous Hellscape.png"
 			}
 		},
 		{
 			"name": "Amorphous Mesa",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "302",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/302_Amorphous Mesa.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/302_Amorphous Mesa.png"
 			}
 		},
 		{
 			"name": "Amorphous Riverside",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "303",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/303_Amorphous Riverside.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/303_Amorphous Riverside.png"
 			}
 		},
 		{
 			"name": "Amorphous Trail",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "304",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/304_Amorphous Trail.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/304_Amorphous Trail.png"
 			}
 		},
 		{
 			"name": "Amorphous Tundra",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "305",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/305_Amorphous Tundra.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/305_Amorphous Tundra.png"
 			}
 		},
 		{
 			"name": "Amorphous Vista",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "306",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/306_Amorphous Vista.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/306_Amorphous Vista.png"
 			}
 		},
 		{
 			"name": "Ayula's Den",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "308",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/308_Ayula's Den.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/308_Ayula's Den.png"
 			}
 		},
 		{
 			"name": "Barren Pasture",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "309",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/309_Barren Pasture.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/309_Barren Pasture.png"
 			}
 		},
 		{
 			"name": "Battered Shipwreck",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "310",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/310_Battered Shipwreck.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/310_Battered Shipwreck.png"
 			}
 		},
 		{
 			"name": "Bustling Market",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "312",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/312_Bustling Market.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/312_Bustling Market.png"
 			}
 		},
 		{
 			"name": "Cavern of Threads",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "314",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/314_Cavern of Threads.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/314_Cavern of Threads.png"
 			}
 		},
 		{
 			"name": "Sunfirth Settlement",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "354",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/354_Sunfirth Settlement.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/354_Sunfirth Settlement.png"
 			}
 		},
 		{
 			"name": "Concealed Roost",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Land — Island Mountain ",
+			"type": "Land — Island Mountain",
 			"collector_number": "319",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/319_Concealed Roost.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/319_Concealed Roost.png"
 			}
 		},
 		{
 			"name": "Moonlit Lakefront",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Land — Plains Island ",
+			"type": "Land — Plains Island",
 			"collector_number": "340",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/340_Moonlit Lakefront.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/340_Moonlit Lakefront.png"
 			}
 		},
 		{
 			"name": "Dormant Halls",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "323",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/323_Dormant Halls.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/323_Dormant Halls.png"
 			}
 		},
 		{
 			"name": "The Eternal Glade",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "325",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/325_The Eternal Glade.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/325_The Eternal Glade.png"
 			}
 		},
 		{
 			"name": "Forest of Beasts",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "328",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/328_Forest of Beasts.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/328_Forest of Beasts.png"
 			}
 		},
 		{
 			"name": "Forgotten Tomb",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "329",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/329_Forgotten Tomb.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/329_Forgotten Tomb.png"
 			}
 		},
 		{
 			"name": "Fractured Spire",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "330",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/330_Fractured Spire.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/330_Fractured Spire.png"
 			}
 		},
 		{
 			"name": "Grim Arena",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "332",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/332_Grim Arena.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/332_Grim Arena.png"
 			}
 		},
 		{
 			"name": "Hillside Wreckage",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "333",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/333_Hillside Wreckage.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/333_Hillside Wreckage.png"
 			}
 		},
 		{
 			"name": "Hollow Bulwark",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "334",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/334_Hollow Bulwark.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/334_Hollow Bulwark.png"
 			}
 		},
 		{
 			"name": "Plague Quarter",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "343",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/343_Plague Quarter.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/343_Plague Quarter.png"
 			}
 		},
 		{
 			"name": "Silent Estuary",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "348",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/348_Silent Estuary.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/348_Silent Estuary.png"
 			}
 		},
 		{
 			"name": "Sulfuric Volcano",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "352",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/352_Sulfuric Volcano.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/352_Sulfuric Volcano.png"
 			}
 		},
 		{
 			"name": "Sundried Savannah",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "353",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/353_Sundried Savannah.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/353_Sundried Savannah.png"
 			}
 		},
 		{
 			"name": "Vault of the Guardians",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "357",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/357_Vault of the Guardians.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/357_Vault of the Guardians.png"
 			}
 		},
 		{
 			"name": "Perennial Festivities",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Enchantment",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/28_Perennial Festivities.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/28_Perennial Festivities.png"
 			}
 		},
 		{
 			"name": "LANCELOT Mk. II",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
-			"type": "Artifact Creature — Equipment Knight ",
+			"type": "Artifact Creature — Equipment Knight",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/166_LANCELOT Mk. II.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/166_LANCELOT Mk. II.png"
 			}
 		},
 		{
 			"name": "Seamus, Stalwart Medium",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{W}{U}",
-			"type": "Legendary Planeswalker — Seamus ",
+			"type": "Legendary Planeswalker — Seamus",
 			"collector_number": "259",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/259_Seamus, Stalwart Medium.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/259_Seamus, Stalwart Medium.png"
 			}
 		},
 		{
 			"name": "Gilded Arsonist",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Human Wizard ",
+			"type": "Creature — Human Wizard",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/158_Gilded Arsonist.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/158_Gilded Arsonist.png"
 			}
 		},
 		{
 			"name": "Phyrexian Incursion",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{X}{W}{W}",
 			"type": "Enchantment",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/29_Phyrexian Incursion.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/29_Phyrexian Incursion.png"
 			}
 		},
 		{
 			"name": "Temple of Dormant Power",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
-			"type": "Legendary Enchantment — Shrine ",
+			"type": "Legendary Enchantment — Shrine",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/224_Temple of Dormant Power.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/224_Temple of Dormant Power.png"
 			}
 		},
 		{
 			"name": "Temple of Twisted Dreams",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{B}",
-			"type": "Legendary Enchantment — Shrine ",
+			"type": "Legendary Enchantment — Shrine",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/136_Temple of Twisted Dreams.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/136_Temple of Twisted Dreams.png"
 			}
 		},
 		{
 			"name": "Temple of Death's Purity",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{4}{W}{W}",
-			"type": "Legendary Enchantment — Shrine ",
+			"type": "Legendary Enchantment — Shrine",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/37_Temple of Death's Purity.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/37_Temple of Death's Purity.png"
 			}
 		},
 		{
 			"name": "Temple of Tranquil Trails",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{U}",
-			"type": "Legendary Enchantment — Shrine ",
+			"type": "Legendary Enchantment — Shrine",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/86_Temple of Tranquil Trails.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/86_Temple of Tranquil Trails.png"
 			}
 		},
 		{
 			"name": "Temple of Malignant Rage",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
-			"type": "Legendary Enchantment — Shrine ",
+			"type": "Legendary Enchantment — Shrine",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/179_Temple of Malignant Rage.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/179_Temple of Malignant Rage.png"
 			}
 		},
 		{
 			"name": "Wander Amongst the Dead",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{B}{G}",
 			"type": "Sorcery",
 			"collector_number": "268",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/268_Wander Amongst the Dead.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/268_Wander Amongst the Dead.png"
 			}
 		},
 		{
 			"name": "Watchful Statue",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/91_Watchful Statue.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/91_Watchful Statue.png"
 			}
 		},
 		{
 			"name": "Skulltide Settlement",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "349",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/349_Skulltide Settlement.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/349_Skulltide Settlement.png"
 			}
 		},
 		{
 			"name": "Smogburke Settlement",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "350",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/350_Smogburke Settlement.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/350_Smogburke Settlement.png"
 			}
 		},
 		{
 			"name": "Valleyfall Settlement",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "356",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/356_Valleyfall Settlement.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/356_Valleyfall Settlement.png"
 			}
 		},
 		{
 			"name": "Dawnglade Settlement",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "321",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/321_Dawnglade Settlement.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/321_Dawnglade Settlement.png"
 			}
 		},
 		{
 			"name": "Mistmire Settlement",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "339",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/339_Mistmire Settlement.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/339_Mistmire Settlement.png"
 			}
 		},
 		{
 			"name": "Cloudpeak Settlement",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "317",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/317_Cloudpeak Settlement.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/317_Cloudpeak Settlement.png"
 			}
 		},
 		{
 			"name": "Sporeglow Settlement",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "351",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/351_Sporeglow Settlement.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/351_Sporeglow Settlement.png"
 			}
 		},
 		{
 			"name": "Cliffside Settlement",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "316",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/316_Cliffside Settlement.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/316_Cliffside Settlement.png"
 			}
 		},
 		{
 			"name": "Floodcove Settlement",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "326",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/326_Floodcove Settlement.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/326_Floodcove Settlement.png"
 			}
 		},
 		{
 			"name": "Windswept Meadow",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Land — Forest Plains ",
+			"type": "Land — Forest Plains",
 			"collector_number": "360",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/360_Windswept Meadow.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/360_Windswept Meadow.png"
 			}
 		},
 		{
 			"name": "Golden Grotto",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Land — Plains Swamp ",
+			"type": "Land — Plains Swamp",
 			"collector_number": "331",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/331_Golden Grotto.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/331_Golden Grotto.png"
 			}
 		},
 		{
 			"name": "Resplendent Glade",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Land — Mountain Forest ",
+			"type": "Land — Mountain Forest",
 			"collector_number": "346",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/346_Resplendent Glade.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/346_Resplendent Glade.png"
 			}
 		},
 		{
 			"name": "Blossoming Fissure",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Land — Swamp Mountain ",
+			"type": "Land — Swamp Mountain",
 			"collector_number": "311",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/311_Blossoming Fissure.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/311_Blossoming Fissure.png"
 			}
 		},
 		{
 			"name": "Remote Beach",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Land — Plains Island ",
+			"type": "Land — Plains Island",
 			"collector_number": "345",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/345_Remote Beach.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/345_Remote Beach.png"
 			}
 		},
 		{
 			"name": "Crocodile Haven",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Land — Swamp Forest ",
+			"type": "Land — Swamp Forest",
 			"collector_number": "320",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/320_Crocodile Haven.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/320_Crocodile Haven.png"
 			}
 		},
 		{
 			"name": "Otherworldly Vista",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Land — Mountain Plains ",
+			"type": "Land — Mountain Plains",
 			"collector_number": "342",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/342_Otherworldly Vista.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/342_Otherworldly Vista.png"
 			}
 		},
 		{
 			"name": "Idyllic Lakeside",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Land — Forest Island ",
+			"type": "Land — Forest Island",
 			"collector_number": "335",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/335_Idyllic Lakeside.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/335_Idyllic Lakeside.png"
 			}
 		},
 		{
 			"name": "Coastal Archway",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Land — Island Swamp ",
+			"type": "Land — Island Swamp",
 			"collector_number": "318",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/318_Coastal Archway.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/318_Coastal Archway.png"
 			}
 		},
 		{
 			"name": "Nobelle, Five of Swords",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{W}",
-			"type": "Legendary Planeswalker — Nobelle ",
+			"type": "Legendary Planeswalker — Nobelle",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/26_Nobelle, Five of Swords.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/26_Nobelle, Five of Swords.png"
 			}
 		},
 		{
 			"name": "Cathedral Specter",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Specter ",
+			"type": "Creature — Specter",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/99_Cathedral Specter.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/99_Cathedral Specter.png"
 			}
 		},
 		{
 			"name": "Collective Nightmare",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/9_Collective Nightmare.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/9_Collective Nightmare.png"
 			}
 		},
 		{
 			"name": "The Ascension of Caldius",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
-			"type": "Enchantment — Saga ",
+			"type": "Enchantment — Saga",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/4_The Ascension of Caldius.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/4_The Ascension of Caldius.png"
 			}
 		},
 		{
 			"name": "Apostle of Serra",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{W}",
-			"type": "Creature — Human Cleric ",
+			"type": "Creature — Human Cleric",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/2_Apostle of Serra.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/2_Apostle of Serra.png"
 			}
 		},
 		{
 			"name": "Cosmochromatic Cube",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{5}",
 			"type": "Artifact",
 			"collector_number": "285",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/285_Cosmochromatic Cube.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/285_Cosmochromatic Cube.png"
 			}
 		},
 		{
 			"name": "Primordial Rhythm",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/218_Primordial Rhythm.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/218_Primordial Rhythm.png"
 			}
 		},
 		{
 			"name": "Limits of Imagination",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "337",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/337_Limits of Imagination.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/337_Limits of Imagination.png"
 			}
 		},
 		{
 			"name": "Jade Palace",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "336",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/336_Jade Palace.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/336_Jade Palace.png"
 			}
 		},
 		{
 			"name": "Thieving Primates",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Monkey ",
+			"type": "Creature — Monkey",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/226_Thieving Primates.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/226_Thieving Primates.png"
 			}
 		},
 		{
 			"name": "Bloody Baron",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{B}",
-			"type": "Creature — Skeleton Noble Warrior ",
+			"type": "Creature — Skeleton Noble Warrior",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/98_Bloody Baron.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/98_Bloody Baron.png"
 			}
 		},
 		{
 			"name": "Scrap Scanner",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{4}{R}{R}",
-			"type": "Artifact Creature — Construct ",
+			"type": "Artifact Creature — Construct",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/171_Scrap Scanner.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/171_Scrap Scanner.png"
 			}
 		},
 		{
 			"name": "Master of the Elements",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{4}{G}",
-			"type": "Creature — Monkey Avatar ",
+			"type": "Creature — Monkey Avatar",
 			"collector_number": "211",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/211_Master of the Elements.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/211_Master of the Elements.png"
 			}
 		},
 		{
 			"name": "Caught in the Act",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Instant",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/7_Caught in the Act.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/7_Caught in the Act.png"
 			}
 		},
 		{
 			"name": "Shadeforged Brigandine",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
-			"type": "Artifact Creature  — Equipment Shade ",
+			"type": "Artifact Creature — Equipment Shade",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/77_Shadeforged Brigandine.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/77_Shadeforged Brigandine.png"
 			}
 		},
 		{
 			"name": "Auroric Iceblade",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
-			"type": "Artifact — Equipment ",
+			"type": "Artifact — Equipment",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/5_Auroric Iceblade.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/5_Auroric Iceblade.png"
 			}
 		},
 		{
 			"name": "Novice's Armaments",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}",
-			"type": "Artifact — Equipment ",
+			"type": "Artifact — Equipment",
 			"collector_number": "290",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/290_Novice's Armaments.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/290_Novice's Armaments.png"
 			}
 		},
 		{
 			"name": "Fleshmauler",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{4}",
-			"type": "Artifact — Equipment ",
+			"type": "Artifact — Equipment",
 			"collector_number": "286",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/286_Fleshmauler.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/286_Fleshmauler.png"
 			}
 		},
 		{
 			"name": "Vura, Enduring Enchantress",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
-			"type": "Legendary Planeswalker — Vura ",
+			"type": "Legendary Planeswalker — Vura",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/44_Vura, Enduring Enchantress.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/44_Vura, Enduring Enchantress.png"
 			}
 		},
 		{
 			"name": "Starmane Alpha",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
-			"type": "Enchantment Creature — Cat ",
+			"type": "Enchantment Creature — Cat",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/32_Starmane Alpha.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/32_Starmane Alpha.png"
 			}
 		},
 		{
 			"name": "Infinite Refractoid",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}",
-			"type": "Artifact Enchantment Creature — Fractal ",
+			"type": "Artifact Enchantment Creature — Fractal",
 			"collector_number": "288",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/288_Infinite Refractoid.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/288_Infinite Refractoid.png"
 			}
 		},
 		{
 			"name": "Ominous Walker",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{X}{X}",
-			"type": "Artifact Creature — Horror ",
+			"type": "Artifact Creature — Horror",
 			"collector_number": "291",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/291_Ominous Walker.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/291_Ominous Walker.png"
 			}
 		},
 		{
 			"name": "Splitspeed Blitzboots",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}",
-			"type": "Artifact — Equipment ",
+			"type": "Artifact — Equipment",
 			"collector_number": "295",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/295_Splitspeed Blitzboots.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/295_Splitspeed Blitzboots.png"
 			}
 		},
 		{
 			"name": "Automatic Inspector",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{W}",
-			"type": "Artifact Creature — Gnome ",
+			"type": "Artifact Creature — Gnome",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/6_Automatic Inspector.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/6_Automatic Inspector.png"
 			}
 		},
 		{
 			"name": "Sail the Forbidden Sea",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Sorcery",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/75_Sail the Forbidden Sea.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/75_Sail the Forbidden Sea.png"
 			}
 		},
 		{
 			"name": "Noble Greenwarden",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
-			"type": "Artifact Creature — Giant ",
+			"type": "Artifact Creature — Giant",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/215_Noble Greenwarden.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/215_Noble Greenwarden.png"
 			}
 		},
 		{
 			"name": "Midmorning Meadow",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Land — Forest Island ",
+			"type": "Land — Forest Island",
 			"collector_number": "338",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/338_Midmorning Meadow.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/338_Midmorning Meadow.png"
 			}
 		},
 		{
 			"name": "Winding Crevasse",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Land — Mountain Plains ",
+			"type": "Land — Mountain Plains",
 			"collector_number": "359",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/359_Winding Crevasse.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/359_Winding Crevasse.png"
 			}
 		},
 		{
 			"name": "Arboured Marsh",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Land — Swamp Forest ",
+			"type": "Land — Swamp Forest",
 			"collector_number": "307",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/307_Arboured Marsh.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/307_Arboured Marsh.png"
 			}
 		},
 		{
 			"name": "Distant Monoliths",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Land — Island Mountain ",
+			"type": "Land — Island Mountain",
 			"collector_number": "322",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/322_Distant Monoliths.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/322_Distant Monoliths.png"
 			}
 		},
 		{
 			"name": "Nocturnal Blossom",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Land — Plains Swamp ",
+			"type": "Land — Plains Swamp",
 			"collector_number": "341",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/341_Nocturnal Blossom.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/341_Nocturnal Blossom.png"
 			}
 		},
 		{
 			"name": "Serene Expanse",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Land — Forest Plains ",
+			"type": "Land — Forest Plains",
 			"collector_number": "347",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/347_Serene Expanse.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/347_Serene Expanse.png"
 			}
 		},
 		{
 			"name": "Captivating Range",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Land — Mountain Forest ",
+			"type": "Land — Mountain Forest",
 			"collector_number": "313",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/313_Captivating Range.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/313_Captivating Range.png"
 			}
 		},
 		{
 			"name": "Foreboding Monuments",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Land — Swamp Mountain ",
+			"type": "Land — Swamp Mountain",
 			"collector_number": "327",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/327_Foreboding Monuments.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/327_Foreboding Monuments.png"
 			}
 		},
 		{
 			"name": "Duskbank Shores",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Land — Island Swamp ",
+			"type": "Land — Island Swamp",
 			"collector_number": "324",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/324_Duskbank Shores.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/324_Duskbank Shores.png"
 			}
 		},
 		{
 			"name": "Inhabited Innkeeper",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Halfling Horror ",
+			"type": "Creature — Halfling Horror",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/204_Inhabited Innkeeper.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/204_Inhabited Innkeeper.png"
 			}
 		},
 		{
 			"name": "Malevolent Mechadaemon",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{B}{R}",
-			"type": "Artifact Creature — Demon ",
+			"type": "Artifact Creature — Demon",
 			"collector_number": "249",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/249_Malevolent Mechadaemon.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/249_Malevolent Mechadaemon.png"
 			}
 		},
 		{
 			"name": "What Waits Below",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{6}{U}{U}",
-			"type": "Enchantment Creature — Leviathan ",
+			"type": "Enchantment Creature — Leviathan",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/92_What Waits Below.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/92_What Waits Below.png"
 			}
 		},
 		{
 			"name": "Voracity Splicer",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{4}{R}{G}",
-			"type": "Creature — Phyrexian Artificer ",
+			"type": "Creature — Phyrexian Artificer",
 			"collector_number": "267",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/267_Voracity Splicer.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/267_Voracity Splicer.png"
 			}
 		},
 		{
 			"name": "Pack of Jackals",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Jackal  ",
+			"type": "Creature — Jackal",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/122_Pack of Jackals.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/122_Pack of Jackals.png"
 			}
 		},
 		{
 			"name": "Masked Fearcaller",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Human Shaman ",
+			"type": "Creature — Human Shaman",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/116_Masked Fearcaller.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/116_Masked Fearcaller.png"
 			}
 		},
 		{
 			"name": "Divine Duality",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{B}",
 			"type": "Enchantment",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/104_Divine Duality.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/104_Divine Duality.png"
 			}
 		},
 		{
 			"name": "Voracious Giant",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
-			"type": "Creature — Giant ",
+			"type": "Creature — Giant",
 			"collector_number": "231",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/231_Voracious Giant.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/231_Voracious Giant.png"
 			}
 		},
 		{
 			"name": "Somnivore",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{U}",
-			"type": "Creature — Lhurgoyf ",
+			"type": "Creature — Lhurgoyf",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/81_Somnivore.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/81_Somnivore.png"
 			}
 		},
 		{
 			"name": "HAL-0, False Prophet",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{U}",
-			"type": "Legendary Artifact Creature — Angel ",
+			"type": "Legendary Artifact Creature — Angel",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/60_HAL-0, False Prophet.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/60_HAL-0, False Prophet.png"
 			}
 		},
 		{
 			"name": "Enlightened Machinist",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{G}{G}",
-			"type": "Creature — Human Druid Artificer ",
+			"type": "Creature — Human Druid Artificer",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/196_Enlightened Machinist.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/196_Enlightened Machinist.png"
 			}
 		},
 		{
 			"name": "Defiled Butcher",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Zombie Mutant ",
+			"type": "Creature — Zombie Mutant",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/194_Defiled Butcher.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/194_Defiled Butcher.png"
 			}
 		},
 		{
 			"name": "Eleventh Hour Avenger",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
-			"type": "Artifact Creature — Assassin ",
+			"type": "Artifact Creature — Assassin",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/105_Eleventh Hour Avenger.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/105_Eleventh Hour Avenger.png"
 			}
 		},
 		{
 			"name": "Lost in Wonder",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/66_Lost in Wonder.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/66_Lost in Wonder.png"
 			}
 		},
 		{
 			"name": "Arcane Encore",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/48_Arcane Encore.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/48_Arcane Encore.png"
 			}
 		},
 		{
 			"name": "Render Insignificant",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/73_Render Insignificant.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/73_Render Insignificant.png"
 			}
 		},
 		{
 			"name": "Jester Ascendant",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{U}",
-			"type": "Creature — Shapeshifter Clown ",
+			"type": "Creature — Shapeshifter Clown",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/61_Jester Ascendant.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/61_Jester Ascendant.png"
 			}
 		},
 		{
 			"name": "The Dungeoneers Return",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Sorcery",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/13_The Dungeoneers Return.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/13_The Dungeoneers Return.png"
 			}
 		},
 		{
 			"name": "Eager Artificer",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{W}",
-			"type": "Creature — Goblin Artificer ",
+			"type": "Creature — Goblin Artificer",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/14_Eager Artificer.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/14_Eager Artificer.png"
 			}
 		},
 		{
 			"name": "Steward of Peace",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{W}{W}",
-			"type": "Creature — Elephant Knight ",
+			"type": "Creature — Elephant Knight",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/34_Steward of Peace.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/34_Steward of Peace.png"
 			}
 		},
 		{
 			"name": "Sealing Officer",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{W}",
-			"type": "Creature — Human Cleric Detective ",
+			"type": "Creature — Human Cleric Detective",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/30_Sealing Officer.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/30_Sealing Officer.png"
 			}
 		},
 		{
 			"name": "Arbiter of the Veil",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
-			"type": "Creature — Angel ",
+			"type": "Creature — Angel",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/3_Arbiter of the Veil.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/3_Arbiter of the Veil.png"
 			}
 		},
 		{
 			"name": "Veteran Vanguard",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Knight ",
+			"type": "Creature — Human Knight",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/43_Veteran Vanguard.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/43_Veteran Vanguard.png"
 			}
 		},
 		{
 			"name": "Unsealed Stampede",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{G}{G}",
-			"type": "Enchantment — Saga ",
+			"type": "Enchantment — Saga",
 			"collector_number": "230",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/230_Unsealed Stampede.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/230_Unsealed Stampede.png"
 			}
 		},
 		{
 			"name": "Lethargic Ursanodon",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Bear Dinosaur ",
+			"type": "Creature — Bear Dinosaur",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/207_Lethargic Ursanodon.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/207_Lethargic Ursanodon.png"
 			}
 		},
 		{
 			"name": "Incubator Spider",
-			"rarity": "rare",
-			"mana_cost": "{G}{G}",
-			"type": "Creature — Spider ",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Spider",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/203_Incubator Spider.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/203_Incubator Spider.png"
 			}
 		},
 		{
 			"name": "Tireless Pioneer",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Human Scout ",
+			"type": "Creature — Human Scout",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/228_Tireless Pioneer.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/228_Tireless Pioneer.png"
 			}
 		},
 		{
 			"name": "Chromatic Prism",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Artifact",
 			"collector_number": "284",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/284_Chromatic Prism.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/284_Chromatic Prism.png"
 			}
 		},
 		{
 			"name": "Quaketusk",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{5}{G}",
-			"type": "Creature — Beast ",
+			"type": "Creature — Beast",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/219_Quaketusk.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/219_Quaketusk.png"
 			}
 		},
 		{
 			"name": "Steward of the Wood",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Elemental ",
+			"type": "Creature — Elemental",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/223_Steward of the Wood.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/223_Steward of the Wood.png"
 			}
 		},
 		{
 			"name": "Gaea's Emissary",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
-			"type": "Creature — Avatar ",
+			"type": "Creature — Avatar",
 			"collector_number": "197",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/197_Gaea's Emissary.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/197_Gaea's Emissary.png"
 			}
 		},
 		{
 			"name": "Unkempt Farmland",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "355",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/355_Unkempt Farmland.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/355_Unkempt Farmland.png"
 			}
 		},
 		{
 			"name": "Form of the Hellion",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Enchantment",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/156_Form of the Hellion.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/156_Form of the Hellion.png"
 			}
 		},
 		{
 			"name": "Looted Wellspring",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
 			"collector_number": "289",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/289_Looted Wellspring.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/289_Looted Wellspring.png"
 			}
 		},
 		{
 			"name": "Muscle Mechanic",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Dwarf Artificer ",
+			"type": "Creature — Dwarf Artificer",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/70_Muscle Mechanic.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/70_Muscle Mechanic.png"
 			}
 		},
 		{
 			"name": "Cryptcrawler",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{3}{B}",
-			"type": "Artifact Creature — Insect ",
+			"type": "Artifact Creature — Insect",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/100_Cryptcrawler.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/100_Cryptcrawler.png"
 			}
 		},
 		{
 			"name": "Untimely Distortion",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Sorcery",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/90_Untimely Distortion.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/90_Untimely Distortion.png"
 			}
 		},
 		{
 			"name": "Arcanist's Spellbook",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
-			"type": "Artifact — Equipment ",
+			"type": "Artifact — Equipment",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/49_Arcanist's Spellbook.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/49_Arcanist's Spellbook.png"
 			}
 		},
 		{
 			"name": "Harbinger of Glory",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Human Warrior ",
+			"type": "Creature — Human Warrior",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/161_Harbinger of Glory.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/161_Harbinger of Glory.png"
 			}
 		},
 		{
 			"name": "Fireblood Shinobi",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Human Ninja ",
+			"type": "Creature — Human Ninja",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/154_Fireblood Shinobi.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/154_Fireblood Shinobi.png"
 			}
 		},
 		{
 			"name": "Agent of the Inbetween",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{U}{B}",
-			"type": "Creature — Human Scout ",
+			"type": "Creature — Human Scout",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/233_Agent of the Inbetween.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/233_Agent of the Inbetween.png"
 			}
 		},
 		{
 			"name": "Harvester of Blood",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Vampire Knight ",
+			"type": "Creature — Vampire Knight",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/112_Harvester of Blood.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/112_Harvester of Blood.png"
 			}
 		},
 		{
 			"name": "Arboreal Armorer",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{G}",
-			"type": "Creature — Human Warrior Spellshaper ",
+			"type": "Creature — Human Warrior Spellshaper",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/186_Arboreal Armorer.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/186_Arboreal Armorer.png"
 			}
 		},
 		{
 			"name": "Master of the Silent Hunt",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Azra Druid ",
+			"type": "Creature — Azra Druid",
 			"collector_number": "212",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/212_Master of the Silent Hunt.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/212_Master of the Silent Hunt.png"
 			}
 		},
 		{
 			"name": "Extract Soul",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{B}{B}",
 			"type": "Sorcery",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/107_Extract Soul.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/107_Extract Soul.png"
 			}
 		},
 		{
 			"name": "Collector of Curios",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Advisor ",
+			"type": "Creature — Human Advisor",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/10_Collector of Curios.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/10_Collector of Curios.png"
 			}
 		},
 		{
 			"name": "Healer's Harness",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{W}",
-			"type": "Artifact — Equipment ",
+			"type": "Artifact — Equipment",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/20_Healer's Harness.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/20_Healer's Harness.png"
 			}
 		},
 		{
 			"name": "Reflective Matrix",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
-			"type": "Artifact Land — Fortification ",
+			"type": "Artifact Land — Fortification",
 			"collector_number": "344",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/344_Reflective Matrix.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/344_Reflective Matrix.png"
 			}
 		},
 		{
 			"name": "Wartorn Theater",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "358",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/358_Wartorn Theater.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/358_Wartorn Theater.png"
 			}
 		},
 		{
 			"name": "Draconic Aspirant",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R}",
-			"type": "Creature — Human Shaman ",
+			"type": "Creature — Human Shaman",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/149_Draconic Aspirant.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/149_Draconic Aspirant.png"
 			}
 		},
 		{
 			"name": "Citadel of the Banished",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "315",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/315_Citadel of the Banished.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/315_Citadel of the Banished.png"
 			}
 		},
 		{
 			"name": "Dragon-Tongue Technique",
-			"rarity": "rare",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Enchantment",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https:///sets/BEE-files/img/150_Dragon-Tongue Technique.png"
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/150_Dragon-Tongue Technique.png"
+			}
+		},
+		{
+			"name": "Spontaneous Plasmosis",
+			"rarity": "special",
+			"mana_cost": "{G}{U}",
+			"type": "Instant",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/263_Spontaneous Plasmosis.png"
+			}
+		},
+		{
+			"name": "Master of Balance",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Monk",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/25_Master of Balance.png"
 			}
 		}
 	]
+
+[cube(15)]
+	1 Centennial, Time Keeper
+	1 Alarez, Milita Crier
+	1 Cogwork Virtuoso
+	1 Danitha's Steward
+	1 Evanesce
+	1 Divine Wardwielders
+	1 Empty Trenches
+	1 Forswear Violence
+	1 Frozen Over
+	1 Haunting Pursuit
+	1 Idyllic Primordial
+	1 In The Queen's Court
+	1 A Kingdom Reborn
+	1 Leonin Cub
+	1 Patron of Familiars
+	1 Shoreline Eggkeeper
+	1 Starsworn Canonist
+	1 Supernova
+	1 Swiftblade Gladiator
+	1 Territorial Felidar
+	1 Tobias, Forefront Steward
+	1 Triumphant Trio
+	1 Vanish
+	1 Vengeant Paladin
+	1 Walk the Shattered Path
+	1 Warborn Martyr
+	1 Wary Watchman
+	1 Archivist's Armillary
+	1 Artificer of Eos
+	1 Consult the Runes
+	1 Crack the Conduit
+	1 Cry Together
+	1 Cthonic Arcana
+	1 Doomed Sorcerer
+	1 Eclipse
+	1 Fantasize
+	1 Journey Through Time
+	1 Knowledge Primordial
+	1 Kralyk, Runic Terror
+	1 Lady Dremae, the Archivist
+	1 Lucille, Dockhand Sleuth
+	1 Mindbent Trance
+	1 Mistify
+	1 Refuse Entry
+	1 Regent's Waltz
+	1 Revelatory Contemplation
+	1 Screeching Delusions
+	1 Shield Splicer
+	1 Shipcrusher Serpent
+	1 Skyship Saboteur
+	1 Spurious Curiosity
+	1 Swallow the Moon
+	1 Sweet Dreams
+	1 Talrand's Favored
+	1 Guardian of the Ziggurat
+	1 Three Card Bluff
+	1 Tireless Librarian
+	1 Twinfang Duelist
+	1 Witness the Past
+	1 Attack of the Killer Bees
+	1 Avera, Duchess of the Dead
+	1 Blood Upon the Altar
+	1 Bloodsoaked Warmonger
+	1 Curseblade Initiate
+	1 Depths of Despair
+	1 Diabolic Primordial
+	1 Eternal Sleep
+	1 Feathergoyf
+	1 Flay the Mind
+	1 Forgotten Ritual
+	1 Gifts from Below
+	1 Hellfire Meteor
+	1 Ibligm, The Sporesage
+	1 Midnight Wish
+	1 Murderous Intent
+	1 Necrotic Dissolution
+	1 Nora, Crimson Occultist
+	1 Oversaturate
+	1 Primordial Blight
+	1 Prismatic Ritualist
+	1 Rabid Rat
+	1 Regent of the Eirzhari
+	1 Repay in Blood
+	1 Return of the Eternal
+	1 Right Hook
+	1 Ritual Preparations
+	1 Ruthless Taskmaster
+	1 Sadistic Edict
+	1 Shambling Return
+	1 Sucker Punch
+	1 Thrull Scamp
+	1 Twilight Cavalry
+	1 Underworld Duelist
+	1 Subservient Skeleton
+	1 Lucky Find
+	1 Detonator Drones
+	1 Absurd Ape
+	1 Ancestral Gambit
+	1 Brazen Burglar
+	1 Capricious Pyromancer
+	1 Chromatic Assailant
+	1 Dance of the Crimson Veil
+	1 Defiant Torch
+	1 Dustblade Khenra
+	1 Fiery Distraction
+	1 Final Sunset
+	1 Fracturing Impact
+	1 Gluttonous Burglar
+	1 Goblin Stoneworker
+	1 Harvest Reaper
+	1 Horus, Apex Captain
+	1 Invoke Flame
+	1 Knight of Summer
+	1 Magmatic Transfiguration
+	1 Tyrant's Roar
+	1 Rage of the Calamity
+	1 Rageplume Phoenix
+	1 Roxie, The Smoking Gun
+	1 Seething Primordial
+	1 Skeletal Onslaught
+	1 Solar Extinguisher
+	1 Splintering Sprinter
+	1 Stray Squire
+	1 Strike Twice
+	1 Taiyan, Second Sun
+	1 Thunderous Condemnation
+	1 Vengeful Stormcaster
+	1 War
+	1 Wrenn's Recruiter
+	1 Hive Sentinel
+	1 Barkheart Dryad
+	1 Befriend the Tyrant
+	1 Bond of Life
+	1 Calamitous Pawprint
+	1 Canopy Werefox
+	1 Guul Draz Channeler
+	1 Harvest Moon
+	1 Hydra Tamer
+	1 Imaryll's Call
+	1 Jeanne, of Untread Paths
+	1 Keeper of the City
+	1 Lingering Lhurgoyfs
+	1 Loam Primordial
+	1 Ascending Growth
+	1 Lurking Serpopard
+	1 Meditative Conduit
+	1 Mystic Viper
+	1 Caller of Titans
+	1 Perennial Harvest
+	1 Perennial Hierarch
+	1 Dollon, Failed Experiment
+	1 Rogbin, Plucker of Wings
+	1 Rootpath Wanderer
+	1 Sage of Restoration
+	1 Terraformer Toad
+	1 Tidal Hierarch
+	1 Transformation Sage
+	1 Abrasive Tamer
+	1 Amateur Gravedigger
+	1 Angelfire Ascendant
+	1 Azorius Mandate
+	1 Bird's Eye View
+	1 A Challenger Approaches
+	1 Cliffside Storm
+	1 Coral Witness
+	1 Dear Departure
+	1 Envoy of Nature
+	1 Applied Enlightenment
+	1 Felise, Scion of Autumn
+	1 Flameslash Rapier
+	1 Flight of the Weatherlight
+	1 Frostfire Fox
+	1 Killshot
+	1 Melyr, Titan of Life's Beauty
+	1 Miraculous Genesis
+	1 Okrul, Titan of Time's Sight
+	1 Overgrow
+	1 Peregrine Charmer
+	1 Pierce the Heavens
+	1 Plumb the Mind
+	1 Precarious Lunge
+	1 Rakdos's Will
+	1 Ashen Marauder
+	1 Silent Rapture
+	1 Song of the Burning-Tree
+	1 Soul Confidant
+	1 Suffocate
+	1 Sultai Sky Swallower
+	1 Vikram, Mystic Pariah
+	1 Watchful Werethief
+	1 Wealth Spiral
+	1 April Showers
+	1 Crematory Scamp
+	1 Endless Assault
+	1 Cloudform Snake
+	1 Impulsive Outing
+	1 Loot the Laboratory
+	1 Maddening Truths
+	1 Rites of Rebirth
+	1 Sheltering Faith
+	1 Dreadmist Sorceress
+	1 Accursed Mill
+	1 Arcane Tome
+	1 Blossoming Lotus
+	1 Honey Bauble
+	1 Quakestep Colossus
+	1 Reactive Solution
+	1 Secluded Safehouse
+	1 Traveler's Lantern
+	1 Wallbreaker Sentinel
+	1 Amorphous Barrens
+	1 Amorphous Coastline
+	1 Amorphous Falls
+	1 Amorphous Glade
+	1 Amorphous Hellscape
+	1 Amorphous Mesa
+	1 Amorphous Riverside
+	1 Amorphous Trail
+	1 Amorphous Tundra
+	1 Amorphous Vista
+	1 Ayula's Den
+	1 Barren Pasture
+	1 Battered Shipwreck
+	1 Bustling Market
+	1 Cavern of Threads
+	1 Sunfirth Settlement
+	1 Concealed Roost
+	1 Moonlit Lakefront
+	1 Dormant Halls
+	1 The Eternal Glade
+	1 Forest of Beasts
+	1 Forgotten Tomb
+	1 Fractured Spire
+	1 Grim Arena
+	1 Hillside Wreckage
+	1 Hollow Bulwark
+	1 Plague Quarter
+	1 Silent Estuary
+	1 Sulfuric Volcano
+	1 Sundried Savannah
+	1 Vault of the Guardians
+	1 Perennial Festivities
+	1 LANCELOT Mk. II
+	1 Seamus, Stalwart Medium
+	1 Gilded Arsonist
+	1 Phyrexian Incursion
+	1 Temple of Dormant Power
+	1 Temple of Twisted Dreams
+	1 Temple of Death's Purity
+	1 Temple of Tranquil Trails
+	1 Temple of Malignant Rage
+	1 Wander Amongst the Dead
+	1 Watchful Statue
+	1 Skulltide Settlement
+	1 Smogburke Settlement
+	1 Valleyfall Settlement
+	1 Dawnglade Settlement
+	1 Mistmire Settlement
+	1 Cloudpeak Settlement
+	1 Sporeglow Settlement
+	1 Cliffside Settlement
+	1 Floodcove Settlement
+	1 Windswept Meadow
+	1 Golden Grotto
+	1 Resplendent Glade
+	1 Blossoming Fissure
+	1 Remote Beach
+	1 Crocodile Haven
+	1 Otherworldly Vista
+	1 Idyllic Lakeside
+	1 Coastal Archway
+	1 Nobelle, Five of Swords
+	1 Cathedral Specter
+	1 Collective Nightmare
+	1 The Ascension of Caldius
+	1 Apostle of Serra
+	1 Cosmochromatic Cube
+	1 Primordial Rhythm
+	1 Limits of Imagination
+	1 Jade Palace
+	1 Thieving Primates
+	1 Bloody Baron
+	1 Scrap Scanner
+	1 Master of the Elements
+	1 Caught in the Act
+	1 Shadeforged Brigandine
+	1 Auroric Iceblade
+	1 Novice's Armaments
+	1 Fleshmauler
+	1 Vura, Enduring Enchantress
+	1 Starmane Alpha
+	1 Infinite Refractoid
+	1 Ominous Walker
+	1 Splitspeed Blitzboots
+	1 Automatic Inspector
+	1 Sail the Forbidden Sea
+	1 Noble Greenwarden
+	1 Midmorning Meadow
+	1 Winding Crevasse
+	1 Arboured Marsh
+	1 Distant Monoliths
+	1 Nocturnal Blossom
+	1 Serene Expanse
+	1 Captivating Range
+	1 Foreboding Monuments
+	1 Duskbank Shores
+	1 Inhabited Innkeeper
+	1 Malevolent Mechadaemon
+	1 What Waits Below
+	1 Voracity Splicer
+	1 Pack of Jackals
+	1 Masked Fearcaller
+	1 Divine Duality
+	1 Voracious Giant
+	1 Somnivore
+	1 HAL-0, False Prophet
+	1 Enlightened Machinist
+	1 Defiled Butcher
+	1 Eleventh Hour Avenger
+	1 Lost in Wonder
+	1 Arcane Encore
+	1 Render Insignificant
+	1 Jester Ascendant
+	1 The Dungeoneers Return
+	1 Eager Artificer
+	1 Steward of Peace
+	1 Sealing Officer
+	1 Arbiter of the Veil
+	1 Veteran Vanguard
+	1 Unsealed Stampede
+	1 Lethargic Ursanodon
+	1 Incubator Spider
+	1 Tireless Pioneer
+	1 Chromatic Prism
+	1 Quaketusk
+	1 Steward of the Wood
+	1 Gaea's Emissary
+	1 Unkempt Farmland
+	1 Form of the Hellion
+	1 Looted Wellspring
+	1 Muscle Mechanic
+	1 Cryptcrawler
+	1 Untimely Distortion
+	1 Arcanist's Spellbook
+	1 Harbinger of Glory
+	1 Fireblood Shinobi
+	1 Agent of the Inbetween
+	1 Harvester of Blood
+	1 Arboreal Armorer
+	1 Master of the Silent Hunt
+	1 Extract Soul
+	1 Collector of Curios
+	1 Healer's Harness
+	1 Reflective Matrix
+	1 Wartorn Theater
+	1 Draconic Aspirant
+	1 Citadel of the Banished
+	1 Dragon-Tongue Technique
+	1 Spontaneous Plasmosis
+	1 Master of Balance
