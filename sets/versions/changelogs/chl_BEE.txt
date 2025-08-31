@@ -1,4 +1,736 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Centennial, Time Keeper
+
+Alarez, Milita Crier
+
+Cogwork Virtuoso
+
+Danitha's Steward
+
+Evanesce
+
+Divine Wardwielders
+
+Empty Trenches
+
+Forswear Violence
+
+Frozen Over
+
+Haunting Pursuit
+
+Idyllic Primordial
+
+In The Queen's Court
+
+A Kingdom Reborn
+
+Leonin Cub
+
+Patron of Familiars
+
+Shoreline Eggkeeper
+
+Starsworn Canonist
+
+Supernova
+
+Swiftblade Gladiator
+
+Territorial Felidar
+
+Tobias, Forefront Steward
+
+Triumphant Trio
+
+Vanish
+
+Vengeant Paladin
+
+Walk the Shattered Path
+
+Warborn Martyr
+
+Wary Watchman
+
+Archivist's Armillary
+
+Artificer of Eos
+
+Consult the Runes
+
+Crack the Conduit
+
+Cry Together
+
+Cthonic Arcana
+
+Doomed Sorcerer
+
+Eclipse
+
+Fantasize
+
+Journey Through Time
+
+Knowledge Primordial
+
+Kralyk, Runic Terror
+
+Lady Dremae, the Archivist
+
+Lucille, Dockhand Sleuth
+
+Mindbent Trance
+
+Mistify
+
+Refuse Entry
+
+Regent's Waltz
+
+Revelatory Contemplation
+
+Screeching Delusions
+
+Shield Splicer
+
+Shipcrusher Serpent
+
+Skyship Saboteur
+
+Spurious Curiosity
+
+Swallow the Moon
+
+Sweet Dreams
+
+Talrand's Favored
+
+Guardian of the Ziggurat
+
+Three Card Bluff
+
+Tireless Librarian
+
+Twinfang Duelist
+
+Witness the Past
+
+Attack of the Killer Bees
+
+Avera, Duchess of the Dead
+
+Blood Upon the Altar
+
+Bloodsoaked Warmonger
+
+Curseblade Initiate
+
+Depths of Despair
+
+Diabolic Primordial
+
+Eternal Sleep
+
+Feathergoyf
+
+Flay the Mind
+
+Forgotten Ritual
+
+Gifts from Below
+
+Hellfire Meteor
+
+Ibligm, The Sporesage
+
+Midnight Wish
+
+Murderous Intent
+
+Necrotic Dissolution
+
+Nora, Crimson Occultist
+
+Oversaturate
+
+Primordial Blight
+
+Prismatic Ritualist
+
+Rabid Rat
+
+Regent of the Eirzhari
+
+Repay in Blood
+
+Return of the Eternal
+
+Right Hook
+
+Ritual Preparations
+
+Ruthless Taskmaster
+
+Sadistic Edict
+
+Shambling Return
+
+Sucker Punch
+
+Thrull Scamp
+
+Twilight Cavalry
+
+Underworld Duelist
+
+Subservient Skeleton
+
+Lucky Find
+
+Detonator Drones
+
+Absurd Ape
+
+Ancestral Gambit
+
+Brazen Burglar
+
+Capricious Pyromancer
+
+Chromatic Assailant
+
+Dance of the Crimson Veil
+
+Defiant Torch
+
+Dustblade Khenra
+
+Fiery Distraction
+
+Final Sunset
+
+Fracturing Impact
+
+Gluttonous Burglar
+
+Goblin Stoneworker
+
+Harvest Reaper
+
+Horus, Apex Captain
+
+Invoke Flame
+
+Knight of Summer
+
+Magmatic Transfiguration
+
+Tyrant's Roar
+
+Rage of the Calamity
+
+Rageplume Phoenix
+
+Roxie, The Smoking Gun
+
+Seething Primordial
+
+Skeletal Onslaught
+
+Solar Extinguisher
+
+Splintering Sprinter
+
+Stray Squire
+
+Strike Twice
+
+Taiyan, Second Sun
+
+Thunderous Condemnation
+
+Vengeful Stormcaster
+
+War
+
+Wrenn's Recruiter
+
+Hive Sentinel
+
+Barkheart Dryad
+
+Befriend the Tyrant
+
+Bond of Life
+
+Calamitous Pawprint
+
+Canopy Werefox
+
+Guul Draz Channeler
+
+Harvest Moon
+
+Hydra Tamer
+
+Imaryll's Call
+
+Jeanne, of Untread Paths
+
+Keeper of the City
+
+Lingering Lhurgoyfs
+
+Loam Primordial
+rules_text: Trample
+Whenever this creature enters or attacks, return up to three target land cards from your graveyard to your hand.
+Evoke {1}{G}
+Dredge 3 [i](If you would draw a card, you may mill three cards instead. If you do, return this card from your graveyard to your hand.)[/i] => Whenever this creature enters or attacks, return up to three target land cards from your graveyard to your hand.
+Evoke {1}{G} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]
+Dredge 3 [i](If you would draw a card, you may mill three cards instead. If you do, return this card from your graveyard to your hand.)[/i]
+
+Ascending Growth
+
+Lurking Serpopard
+
+Meditative Conduit
+
+Mystic Viper
+
+Caller of Titans
+
+Perennial Harvest
+
+Perennial Hierarch
+
+Dollon, Failed Experiment
+
+Rogbin, Plucker of Wings
+
+Rootpath Wanderer
+
+Sage of Restoration
+
+Terraformer Toad
+
+Tidal Hierarch
+
+Transformation Sage
+
+Abrasive Tamer
+
+Amateur Gravedigger
+
+Angelfire Ascendant
+
+Azorius Mandate
+
+Bird's Eye View
+
+A Challenger Approaches
+
+Cliffside Storm
+
+Coral Witness
+
+Dear Departure
+
+Envoy of Nature
+
+Applied Enlightenment
+
+Felise, Scion of Autumn
+
+Flameslash Rapier
+
+Flight of the Weatherlight
+
+Frostfire Fox
+
+Killshot
+
+Melyr, Titan of Life's Beauty
+
+Miraculous Genesis
+
+Okrul, Titan of Time's Sight
+
+Overgrow
+
+Peregrine Charmer
+
+Pierce the Heavens
+
+Plumb the Mind
+
+Precarious Lunge
+
+Rakdos's Will
+
+Ashen Marauder
+
+Silent Rapture
+
+Song of the Burning-Tree
+
+Soul Confidant
+
+Suffocate
+
+Sultai Sky Swallower
+
+Vikram, Mystic Pariah
+
+Watchful Werethief
+
+Wealth Spiral
+
+April Showers
+
+Crematory Scamp
+
+Endless Assault
+
+Cloudform Snake
+
+Impulsive Outing
+
+Loot the Laboratory
+
+Maddening Truths
+
+Rites of Rebirth
+
+Sheltering Faith
+
+Dreadmist Sorceress
+
+Accursed Mill
+
+Arcane Tome
+
+Blossoming Lotus
+
+Honey Bauble
+
+Quakestep Colossus
+
+Reactive Solution
+
+Secluded Safehouse
+
+Traveler's Lantern
+
+Wallbreaker Sentinel
+
+Amorphous Barrens
+
+Amorphous Coastline
+
+Amorphous Falls
+
+Amorphous Glade
+
+Amorphous Hellscape
+
+Amorphous Mesa
+
+Amorphous Riverside
+
+Amorphous Trail
+
+Amorphous Tundra
+
+Amorphous Vista
+
+Ayula's Den
+
+Barren Pasture
+
+Battered Shipwreck
+
+Bustling Market
+
+Cavern of Threads
+
+Sunfirth Settlement
+
+Concealed Roost
+
+Moonlit Lakefront
+
+Dormant Halls
+
+The Eternal Glade
+
+Forest of Beasts
+
+Forgotten Tomb
+
+Fractured Spire
+
+Grim Arena
+
+Hillside Wreckage
+
+Hollow Bulwark
+
+Plague Quarter
+
+Silent Estuary
+
+Sulfuric Volcano
+
+Sundried Savannah
+
+Vault of the Guardians
+
+Perennial Festivities
+
+LANCELOT Mk. II
+
+Seamus, Stalwart Medium
+
+Gilded Arsonist
+
+Phyrexian Incursion
+
+Temple of Dormant Power
+
+Temple of Twisted Dreams
+
+Temple of Death's Purity
+
+Temple of Tranquil Trails
+
+Temple of Malignant Rage
+
+Wander Amongst the Dead
+
+Watchful Statue
+
+Skulltide Settlement
+
+Smogburke Settlement
+
+Valleyfall Settlement
+
+Dawnglade Settlement
+
+Mistmire Settlement
+
+Cloudpeak Settlement
+
+Sporeglow Settlement
+
+Cliffside Settlement
+
+Floodcove Settlement
+
+Windswept Meadow
+
+Golden Grotto
+
+Resplendent Glade
+
+Blossoming Fissure
+
+Remote Beach
+
+Crocodile Haven
+
+Otherworldly Vista
+
+Idyllic Lakeside
+
+Coastal Archway
+
+Nobelle, Five of Swords
+
+Cathedral Specter
+
+Collective Nightmare
+
+The Ascension of Caldius
+
+Apostle of Serra
+
+Cosmochromatic Cube
+
+Primordial Rhythm
+
+Limits of Imagination
+
+Jade Palace
+
+Thieving Primates
+
+Bloody Baron
+
+Scrap Scanner
+
+Master of the Elements
+
+Caught in the Act
+
+Shadeforged Brigandine
+
+Auroric Iceblade
+
+Novice's Armaments
+
+Fleshmauler
+
+Vura, Enduring Enchantress
+
+Starmane Alpha
+
+Infinite Refractoid
+
+Ominous Walker
+
+Splitspeed Blitzboots
+
+Automatic Inspector
+
+Sail the Forbidden Sea
+
+Noble Greenwarden
+
+Midmorning Meadow
+
+Winding Crevasse
+
+Arboured Marsh
+
+Distant Monoliths
+
+Nocturnal Blossom
+
+Serene Expanse
+
+Captivating Range
+
+Foreboding Monuments
+
+Duskbank Shores
+
+Inhabited Innkeeper
+
+Malevolent Mechadaemon
+
+What Waits Below
+
+Voracity Splicer
+
+Pack of Jackals
+
+Masked Fearcaller
+
+Divine Duality
+
+Voracious Giant
+
+Somnivore
+
+HAL-0, False Prophet
+
+Enlightened Machinist
+
+Defiled Butcher
+
+Eleventh Hour Avenger
+
+Lost in Wonder
+
+Arcane Encore
+
+Render Insignificant
+
+Jester Ascendant
+
+The Dungeoneers Return
+
+Eager Artificer
+
+Steward of Peace
+
+Sealing Officer
+
+Arbiter of the Veil
+
+Veteran Vanguard
+
+Unsealed Stampede
+
+Lethargic Ursanodon
+
+Incubator Spider
+
+Tireless Pioneer
+
+Chromatic Prism
+
+Quaketusk
+
+Steward of the Wood
+
+Gaea's Emissary
+
+Unkempt Farmland
+
+Form of the Hellion
+
+Looted Wellspring
+
+Muscle Mechanic
+
+Cryptcrawler
+
+Untimely Distortion
+
+Arcanist's Spellbook
+
+Harbinger of Glory
+
+Fireblood Shinobi
+
+Agent of the Inbetween
+
+Harvester of Blood
+
+Arboreal Armorer
+
+Master of the Silent Hunt
+
+Extract Soul
+
+Collector of Curios
+
+Healer's Harness
+
+Reflective Matrix
+
+Wartorn Theater
+
+Draconic Aspirant
+
+Citadel of the Banished
+
+Dragon-Tongue Technique
+
+Spontaneous Plasmosis
+
+Master of Balance
+
+
+VERSION 2 CHANGELOG
 ====================
 
 

@@ -2811,7 +2811,7 @@
             "number": 209,
             "color_identity": "G",
             "cost": "{4}{G}{G}",
-            "rules_text": "Trample\nWhenever this creature enters or attacks, return up to three target land cards from your graveyard to your hand.\nEvoke {1}{G}\nDredge 3 [i](If you would draw a card, you may mill three cards instead. If you do, return this card from your graveyard to your hand.)[/i]",
+            "rules_text": "Whenever this creature enters or attacks, return up to three target land cards from your graveyard to your hand.\nEvoke {1}{G} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]\nDredge 3 [i](If you would draw a card, you may mill three cards instead. If you do, return this card from your graveyard to your hand.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "5/7",
             "special_text": "",
@@ -2820,7 +2820,7 @@
             "loyalty": "",
             "artist": "Cristi Balanescu",
             "alias": "",
-            "notes": ""
+            "notes": "!!CHANGED"
         },
         {
             "card_name": "Ascending Growth",
