@@ -77,7 +77,7 @@
             "loyalty": "",
             "artist": "Johannes Voss",
             "alias": "",
-            "notes": "!!CHANGED",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -208,7 +208,7 @@
             "loyalty": "",
             "artist": "Athena Productions",
             "alias": "",
-            "notes": "!!CHANGED",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -319,7 +319,7 @@
             "loyalty": "",
             "artist": "Gloria Ocete",
             "alias": "",
-            "notes": "!!CHANGED",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -1732,7 +1732,7 @@
             "loyalty": "",
             "artist": "Ken Ha",
             "alias": "",
-            "notes": "!!CHANGED",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -1935,7 +1935,7 @@
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Counters remain on Subservient Skeleton as it moves to any zone other than a player's hand or library.\nWhenever a creature you control with power greater than this card's power enters, return this card from your graveyard to the battlefield tapped with a +1/+1 counter on it.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]It dies to serve.[/i]",
             "pt": "1/1",
             "special_text": "",
             "shape": "normal",
@@ -2403,7 +2403,7 @@
             "loyalty": "",
             "artist": "Christos Karapanos",
             "alias": "",
-            "notes": "!!CHANGED",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -2996,7 +2996,7 @@
             "loyalty": "",
             "artist": "Yaaryl",
             "alias": "",
-            "notes": "no concern\n!!CHANGED",
+            "notes": "no concern",
             "image_type": "png"
         },
         {
@@ -3367,7 +3367,7 @@
             "loyalty": "",
             "artist": "Sumoh Mohan",
             "alias": "",
-            "notes": "!!CHANGED",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -3507,7 +3507,7 @@
             "loyalty": "",
             "artist": "Tyler Clark",
             "alias": "",
-            "notes": "!!CHANGED",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -3967,7 +3967,7 @@
             "loyalty": "",
             "artist": "Timofey Buglov",
             "alias": "",
-            "notes": "!!CHANGED",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -4107,7 +4107,7 @@
             "loyalty": "",
             "artist": "Fajareka Setiawan",
             "alias": "",
-            "notes": "!!CHANGED",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -5618,7 +5618,7 @@
             "loyalty": "",
             "artist": "Othon Nikolaidis",
             "alias": "",
-            "notes": "no concern\n!!CHANGED",
+            "notes": "no concern",
             "image_type": "png"
         },
         {
@@ -5718,7 +5718,7 @@
             "loyalty": "",
             "artist": "Dasom Hyun",
             "alias": "",
-            "notes": "!!CHANGED",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -5980,7 +5980,7 @@
             "loyalty": "",
             "artist": "technochroma",
             "alias": "",
-            "notes": "!!CHANGED",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -6060,7 +6060,7 @@
             "loyalty": "",
             "artist": "Paul-Edouard Witz",
             "alias": "",
-            "notes": "!!CHANGED",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -6080,7 +6080,7 @@
             "loyalty": "",
             "artist": "Hue Teo",
             "alias": "",
-            "notes": "!!CHANGED",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -6802,7 +6802,7 @@
             "loyalty": "",
             "artist": "Leonardo Giordano",
             "alias": "",
-            "notes": "!!CHANGED",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -7344,7 +7344,7 @@
             "number": 263,
             "color_identity": "UG",
             "cost": "{G}{U}",
-            "rules_text": "Exile target creature or spell. Its controller creates an X/X green Ooze creature token, where X is its mana cost.\nDraw a card.",
+            "rules_text": "Exile target creature or creature spell. Its controller creates an X/X green Ooze creature token, where X is its mana cost.\nDraw a card.",
             "flavor_text": "[i]Before its weaponization, plasmosis was originally invented as a skincare routine.[/i]",
             "pt": "",
             "special_text": "",
@@ -7353,7 +7353,7 @@
             "loyalty": "",
             "artist": "Timi Honkanen",
             "alias": "",
-            "notes": "!!CHANGED",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -7373,7 +7373,7 @@
             "loyalty": "",
             "artist": "BNI",
             "alias": "",
-            "notes": "!!CHANGED",
+            "notes": "",
             "image_type": "png"
         }
     ]
