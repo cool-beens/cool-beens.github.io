@@ -4,6 +4,11 @@
             "set_code": "BEE",
             "set_name": "Bee Cube",
             "formats": ""
+        },
+        {
+            "set_code": "XMAS",
+            "set_name": "",
+            "formats": ""
         }
     ]
 }
