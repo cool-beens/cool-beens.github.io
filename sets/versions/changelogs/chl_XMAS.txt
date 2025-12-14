@@ -1,4 +1,185 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Grow Three Sizes
+rules_text: Multiply each number or number word on target spell or untapped permanent by three until end of turn. => Multiply each number and number word on target spell or untapped permanent by three until end of turn.
+
+Gift of Coal
+
+Coal
+
+A Little World of Snow
+
+Winter Wonderland
+
+Snowy Highlands
+
+Snowy Citadel
+
+Snowy River
+
+Snowy Spires
+
+Snowy Sinkhole
+
+Snowy Hideout
+
+Snowy Deadwoods
+
+Murder on the Polar Express
+
+Snowy Shipwreck
+
+Snowy Hillside
+
+Snowy Canyon
+
+Sant-Orc-Claus
+
+Upgraded Sleigh
+rules_text: Whenever this Vehicle attacks, choose one, or both if it's crewed by Santa.
+• [i]Naughty —[/i] This Vehicle gets +1/+0 and gains trample until end of turn.
+• [i]Nice —[/i] Draw a card, then discard a card.
+Crew 1 => Whenever this Vehicle attacks, choose one. If this Vehicle was crewed by a Santa this turn, you may choose both instead.
+• [i]Naughty —[/i] This Vehicle gets +1/+0 and gains trample until end of turn.
+• [i]Nice —[/i] Draw a card, then discard a card.
+Crew 1
+
+Christmas Cancel
+
+Wrath of Santa
+
+Check It Twice
+
+Holiday Ascendancy
+rules_text: You may play festive cards you own from outside the game by discarding a card as an additional cost, and you may spend mana as though it were mana of any color to cast those spells.
+At the beginning of combat on your turn, target creature you control gets +1/+1 until end of turn for each color among cards in your graveyard. => You may play festive cards you own from outside the game. As an additional cost to play lands and cast spells this way, discard a card. Mana of any type can be spent to cast a spell this way.
+At the beginning of combat on your turn, target creature you control gets +1/+1 until end of turn for each color among cards in your graveyard.
+
+Claim the North Pole
+rules_text: Destroy target creature. Up to one target creature you control becomes Santa. [i](It's legendary and has “Creatures you control get +1/+1.”)[/i] => Destroy target creature. Up to one target creature you control becomes Santa. [i](It's a legendary Santa and has “Creatures you control get +1/+1.”)[/i]
+
+Evil Reindeer
+rules_text: Haste, menace
+Whenever a player sacrifices a permanent, name one of Santa's reindeer that you haven't named yet. If you do, put a +1/+1 counter on this creature. => Haste, menace
+Whenever a player sacrifices a permanent, name one of Santa's reindeer that you haven't named yet this game. If you do, put a +1/+1 counter on this creature.
+
+Steal Christmas
+
+Automatic Elf
+
+Elf on the Shelf
+
+The Nutcracker
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — [i]Drosselmeyer's Gift —[/i] Create The Nutcracker. [i](It's a legendary artifact that cracks nuts.)[/i]
+II — [i]The Nutcracker Comes to Life[/i] — Target artifact you control becomes a 4/4 artifact creature.
+III — [i]The Nutcracker Slays the Seven-Headed Rat King??? [/i]— Target creature you control fights up to one target creature.
+IV — [i]The Land of Sweets — [/i]You gain 3 life. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — [i]Drosselmeyer's Gift —[/i] Create The Nutcracker. [i](It's a legendary artifact that cracks nuts.)[/i]
+II — [i]The Nutcracker Comes to Life[/i] — Target artifact you control becomes a 4/4 artifact creature.
+III — [i]The Nutcracker Slays the Seven-Headed Rat King??? [/i]— Target creature you control fights up to one other target creature.
+IV — [i]The Land of Sweets — [/i]You gain 3 life.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — [i]Drosselmeyer's Gift —[/i] Create The Nutcracker. [i](It's a legendary artifact that cracks nuts.)[/i]
+II — [i]The Nutcracker Comes to Life[/i] — Target artifact you control becomes a 4/4 artifact creature.
+III — [i]The Nutcracker Slays the Seven-Headed Rat King??? [/i]— Target creature you control fights up to one target creature.
+IV — [i]The Land of Sweets — [/i]You gain 3 life. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — [i]Drosselmeyer's Gift —[/i] Create The Nutcracker. [i](It's a legendary artifact that cracks nuts.)[/i]
+II — [i]The Nutcracker Comes to Life[/i] — Target artifact you control becomes a 4/4 artifact creature.
+III — [i]The Nutcracker Slays the Seven-Headed Rat King??? [/i]— Target creature you control fights up to one other target creature.
+IV — [i]The Land of Sweets — [/i]You gain 3 life.
+
+Gift and Run
+
+Hallmark Christmas Movie
+
+Present
+
+Michael Bublé
+loyalty:  => 0
+
+The Nightmare Before Christmas
+rules_text: Sing-along [i](You may sing a few lines from each song ability as it triggers. If you do, copy it.)[/i]
+[i]This is Halloween — [/i]Mill three cards.
+I, II — [i]What's This? — [/i]You may put a land card from your hand or graveyard onto the battlefield tapped.
+III — [i]Kidnap The Sandy Claws — [/i]Put a +1/+1 counter on up to three creatures of your choice.
+IV — [i]Oogie Boogie's Song — [/i]Roll two six-sided dice. Each opponent loses life equal to the difference. => Sing-along [i](You may sing a few lines from each song ability as it triggers. If you do, copy it.)[/i]
+I — [i]This is Halloween — [/i]Mill three cards.
+II — [i]What's This? — [/i]You may put a land card from your hand or graveyard onto the battlefield tapped.
+III — [i]Kidnap The Sandy Claws — [/i]Choose up to three creatures. Put a +1/+1 counter on each of them.
+IV — [i]Oogie Boogie's Song — [/i]Roll two six-sided dice. Each opponent loses life equal to the difference.
+special_text: Sing-along [i](You may sing a few lines from each song ability as it triggers. If you do, copy it.)[/i]
+[i]This is Halloween — [/i]Mill three cards.
+I, II — [i]What's This? — [/i]You may put a land card from your hand or graveyard onto the battlefield tapped.
+III — [i]Kidnap The Sandy Claws — [/i]Put a +1/+1 counter on up to three creatures of your choice.
+IV — [i]Oogie Boogie's Song — [/i]Roll two six-sided dice. Each opponent loses life equal to the difference. => Sing-along [i](You may sing a few lines from each song ability as it triggers. If you do, copy it.)[/i]
+I — [i]This is Halloween — [/i]Mill three cards.
+II — [i]What's This? — [/i]You may put a land card from your hand or graveyard onto the battlefield tapped.
+III — [i]Kidnap The Sandy Claws — [/i]Choose up to three creatures. Put a +1/+1 counter on each of them.
+IV — [i]Oogie Boogie's Song — [/i]Roll two six-sided dice. Each opponent loses life equal to the difference.
+
+Ebenezer Scrooge
+
+Yule Command
+
+Seasonal Affective Disorder
+
+Exchange Gifts
+
+Santa's Forge
+rules_text: {1}, {T}, Sacrifice an artifact: Choose an artifact card you haven't already chosen this game with equal mana value to that of sacrificed artifact that's legal in modern. Create a token that's a copy of that card. => {1}, {T}, Sacrifice an artifact with mana value X: Choose an artifact card with mana value X that's currently legal in the Modern format and that you haven't chosen this game. Create a token that's a copy of that card.
+
+ST. N1CK Mk. 4000
+
+Pull Over
+
+Decorate the Tree
+
+Santa's List
+rules_text: At the beginning of each opponent's upkeep, they choose naughty or nice —
+• [i]Naughty — [/i]Conjure a card named Coal on top of your library. [i](It's a {1} artifact with “{1}, {T}: Add one mana of any color.”)[/i]
+• [i]Nice — [/i]Conjure a card named Present into this artifact's owner's hand. [i](It's a {2} Treasure artifact with “When this artifact enters, draw a card” and “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => At the beginning of each opponent's upkeep, they choose naughty or nice —
+• [i]Naughty — [/i]Conjure a card named Coal on top of that player's library. [i](It's a {1} artifact with “{1}, {T}: Add one mana of any color.”)[/i]
+• [i]Nice — [/i]Conjure a card named Present into your hand. [i](It's a {2} Treasure artifact with “When this artifact enters, draw a card” and “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+
+Beefcake Santa
+
+Santa Claus
+rules_text: [0]: Until your next turn, all spells have “Gift a card”, and whenever you give a gift or an opponent decides not to give a gift, put two loyalty counters on Santa Claus.
+[-X]: Destroy each non-festive nonland permanent with mana value X or less.
+[-3]: Exchange control of two target permanents that share a type.
+[-10]: You get an emblem with “You may cast spells without paying their mana costs.” => [0]: Until your next turn, all spells have “Gift a card,” and whenever you give a gift or an opponent's spell doesn't give a gift, put two loyalty counters on Santa Claus.
+[-X]: Destroy each nonland permanent with mana value X or less that isn't festive.
+[-3]: Exchange control of two target permanents that share a permanent type.
+[-10]: You get an emblem with “You may cast spells without paying their mana costs.”
+special_text: [0]: Until your next turn, all spells have “Gift a card”, and whenever you give a gift or an opponent decides not to give a gift, put two loyalty counters on Santa Claus.
+[-X]: Destroy each non-festive nonland permanent with mana value X or less.
+[-3]: Exchange control of two target permanents that share a type.
+[-10]: You get an emblem with “You may cast spells without paying their mana costs.” => [0]: Until your next turn, all spells have “Gift a card,” and whenever you give a gift or an opponent's spell doesn't give a gift, put two loyalty counters on Santa Claus.
+[-X]: Destroy each nonland permanent with mana value X or less that isn't festive.
+[-3]: Exchange control of two target permanents that share a permanent type.
+[-10]: You get an emblem with “You may cast spells without paying their mana costs.”
+
+Galvanic Sleigh Launcher
+
+Biblically Accurate Frosty
+rules_text: Frosty enters with three dice stacked on it.
+Frosty gets +1/+1 for each die stacked on it. [i](A stack of one is not a stack.)[/i]
+Whenever you cast a noncreature spell, stack a die on top of Frosty and draw a card. => As Frosty enters, stack two dice on top of it. [i](All dice must be stacked vertically, one on top of another.)[/i]
+This creature gets +1/+1 for each die in its stack.
+Whenever you cast a noncreature spell, stack a die on top of Frosty and draw a card.
+When the stack falls, sacrifice Frosty.
+
+Tempting Calendar
+rules_text: At the beginning of your upkeep, you get a candy counter and you lose 1 life for each candy counter you have. [i](Eat all candy counters at end of turn.)[/i] Choose one, then you may repeat this process.
+• Draw a card.
+• Put a +1/+1 counter on a creature. => At the beginning of your upkeep, draw a card. You get a candy counter, then you lose 1 life for each candy counter you have. Then you may repeat this process any number of times. [i](You may eat candy counters any time you could cast a sorcery.)[/i]
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
