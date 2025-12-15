@@ -3424,7 +3424,7 @@
 			"name": "Untimely Distortion",
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
-			"type": "Sorcery",
+			"type": "Instant",
 			"collector_number": "90",
 			"image_uris": {
 				"en": "https://cool-beens.github.io/sets/BEE-files/img/90_Untimely Distortion.png"

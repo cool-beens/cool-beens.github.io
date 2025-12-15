@@ -622,10 +622,10 @@
             "number": 30,
             "color_identity": "BG",
             "cost": "{1}{B}{G}",
-            "rules_text": "Sing-along [i](You may sing a few lines from each song ability as it triggers. If you do, copy it.)[/i]\nI \u2014 [i]This is Halloween \u2014 [/i]Mill three cards.\nII \u2014 [i]What's This? \u2014 [/i]You may put a land card from your hand or graveyard onto the battlefield tapped.\nIII \u2014 [i]Kidnap The Sandy Claws \u2014 [/i]Choose up to three creatures. Put a +1/+1 counter on each of them.\nIV \u2014 [i]Oogie Boogie's Song \u2014 [/i]Roll two six-sided dice. Each opponent loses life equal to the difference.",
+            "rules_text": "Sing-along [i](You may sing a few lines from each song ability as it triggers. If you do, copy it.)[/i]\n[i]This is Halloween \u2014 [/i]Mill three cards.\nI \u2014 [i]What's This? \u2014 [/i]You may put a land card from your hand or graveyard onto the battlefield tapped.\nII \u2014 [i]Kidnap The Sandy Claws \u2014 [/i]Choose up to three creatures. Put a +1/+1 counter on each of them.\nIII \u2014 [i]Oogie Boogie's Song \u2014 [/i]Roll two six-sided dice. Each opponent loses life equal to the difference.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "Sing-along [i](You may sing a few lines from each song ability as it triggers. If you do, copy it.)[/i]\nI \u2014 [i]This is Halloween \u2014 [/i]Mill three cards.\nII \u2014 [i]What's This? \u2014 [/i]You may put a land card from your hand or graveyard onto the battlefield tapped.\nIII \u2014 [i]Kidnap The Sandy Claws \u2014 [/i]Choose up to three creatures. Put a +1/+1 counter on each of them.\nIV \u2014 [i]Oogie Boogie's Song \u2014 [/i]Roll two six-sided dice. Each opponent loses life equal to the difference.",
+            "special_text": "Sing-along [i](You may sing a few lines from each song ability as it triggers. If you do, copy it.)[/i]\n[i]This is Halloween \u2014 [/i]Mill three cards.\nI \u2014 [i]What's This? \u2014 [/i]You may put a land card from your hand or graveyard onto the battlefield tapped.\nII \u2014 [i]Kidnap The Sandy Claws \u2014 [/i]Choose up to three creatures. Put a +1/+1 counter on each of them.\nIII \u2014 [i]Oogie Boogie's Song \u2014 [/i]Roll two six-sided dice. Each opponent loses life equal to the difference.",
             "shape": "saga",
             "set": "XMAS",
             "loyalty": "",
@@ -900,5 +900,5 @@
             "notes": ""
         }
     ],
-    "version": 2
+    "version": 3
 }

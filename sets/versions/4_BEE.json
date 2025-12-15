@@ -406,7 +406,7 @@
             "loyalty": "",
             "artist": "Simul",
             "alias": "",
-            "notes": "G extra"
+            "notes": ""
         },
         {
             "card_name": "Tobias, Forefront Steward",
@@ -558,7 +558,7 @@
             "loyalty": "",
             "artist": "eunsu kang",
             "alias": "",
-            "notes": "artifax"
+            "notes": ""
         },
         {
             "card_name": "Artificer of Eos",
@@ -625,7 +625,7 @@
             "number": 54,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "Each player mills two cards.\nDraw a card.",
+            "rules_text": "Each player mills three cards.\nDraw a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -634,7 +634,7 @@
             "loyalty": "",
             "artist": "Jenny Chou",
             "alias": "",
-            "notes": ""
+            "notes": "!!CHANGED"
         },
         {
             "card_name": "Cthonic Arcana",
@@ -720,10 +720,10 @@
             "number": 62,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]\nDraw three cards.\nDiscard a card.\nShuffle up to three cards from your graveyard into your library.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]\nI, II, III \u2014 Draw three cards.\nIV, V \u2014 Discard a card.\nShuffle up to three cards from your graveyard into your library.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]\nDraw three cards.\nDiscard a card.\nShuffle up to three cards from your graveyard into your library.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]\nI, II, III \u2014 Draw three cards.\nIV, V \u2014 Discard a card.\nShuffle up to three cards from your graveyard into your library.",
             "shape": "saga",
             "set": "BEE",
             "loyalty": "",
@@ -835,7 +835,7 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
-            "notes": "fav?"
+            "notes": ""
         },
         {
             "card_name": "Mistify",
@@ -1063,7 +1063,7 @@
             "loyalty": "",
             "artist": "Eli Ring",
             "alias": "",
-            "notes": "bang in the flavor dummy"
+            "notes": "bang in the flav"
         },
         {
             "card_name": "Guardian of the Ziggurat",
@@ -1169,7 +1169,7 @@
             "loyalty": "",
             "artist": "Tyler Bradley",
             "alias": "",
-            "notes": "u hyper"
+            "notes": ""
         },
         {
             "card_name": "Attack of the Killer Bees",
@@ -1274,10 +1274,10 @@
             "number": 102,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nWhenever a creature dies, each opponent loses 1 life and you gain 1 life.\nEach opponent loses 3 life unless they sacrifice a creature or planeswalker of their choice or discard a card.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II, III \u2014 Whenever a creature dies, each opponent loses 1 life and you gain 1 life.\nEach opponent loses 3 life unless they sacrifice a creature or planeswalker of their choice or discard a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nWhenever a creature dies, each opponent loses 1 life and you gain 1 life.\nEach opponent loses 3 life unless they sacrifice a creature or planeswalker of their choice or discard a card.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II, III \u2014 Whenever a creature dies, each opponent loses 1 life and you gain 1 life.\nEach opponent loses 3 life unless they sacrifice a creature or planeswalker of their choice or discard a card.",
             "shape": "saga",
             "set": "BEE",
             "loyalty": "",
@@ -1351,7 +1351,7 @@
             "loyalty": "",
             "artist": "Kez Laczin",
             "alias": "",
-            "notes": "fav?"
+            "notes": ""
         },
         {
             "card_name": "Flay the Mind",
@@ -1389,7 +1389,7 @@
             "loyalty": "",
             "artist": "Ching Yeh",
             "alias": "",
-            "notes": "weirdtoken"
+            "notes": ""
         },
         {
             "card_name": "Gifts from Below",
@@ -1617,7 +1617,7 @@
             "loyalty": "",
             "artist": "Fajareka Setiawan",
             "alias": "",
-            "notes": ""
+            "notes": "!!CHANGED"
         },
         {
             "card_name": "Repay in Blood",
@@ -1636,7 +1636,7 @@
             "loyalty": "",
             "artist": "Harry Dafereras",
             "alias": "",
-            "notes": "b2 sup1"
+            "notes": ""
         },
         {
             "card_name": "Return of the Eternal",
@@ -1989,7 +1989,7 @@
             "loyalty": "",
             "artist": "Luis Aguirre G\u00e1rate",
             "alias": "",
-            "notes": "RGU sup1"
+            "notes": ""
         },
         {
             "card_name": "Dance of the Crimson Veil",
@@ -2046,7 +2046,7 @@
             "loyalty": "",
             "artist": "Torben Weit",
             "alias": "",
-            "notes": "fav?"
+            "notes": ""
         },
         {
             "card_name": "Fiery Distraction",
@@ -2141,7 +2141,7 @@
             "loyalty": "",
             "artist": "Federico Arguissein",
             "alias": "",
-            "notes": "artifax"
+            "notes": ""
         },
         {
             "card_name": "Harvest Reaper",
@@ -2198,7 +2198,7 @@
             "loyalty": "",
             "artist": "Brian Valeza",
             "alias": "",
-            "notes": "artifax"
+            "notes": ""
         },
         {
             "card_name": "Knight of Summer",
@@ -2227,10 +2227,10 @@
             "number": 167,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nCreate a 1/1 red Human creature token.\nYou may sacrifice a creature. If you do, create a 3/1 red Elemental creature token.\nYou may sacrifice a creature. If you do, create a 4/4 red Dragon Elemental creature token with flying and prowess.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Create a 1/1 red Human creature token.\nII \u2014 You may sacrifice a creature. If you do, create a 3/1 red Elemental creature token.\nIII \u2014 You may sacrifice a creature. If you do, create a 4/4 red Dragon Elemental creature token with flying and prowess.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nCreate a 1/1 red Human creature token.\nYou may sacrifice a creature. If you do, create a 3/1 red Elemental creature token.\nYou may sacrifice a creature. If you do, create a 4/4 red Dragon Elemental creature token with flying and prowess.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Create a 1/1 red Human creature token.\nII \u2014 You may sacrifice a creature. If you do, create a 3/1 red Elemental creature token.\nIII \u2014 You may sacrifice a creature. If you do, create a 4/4 red Dragon Elemental creature token with flying and prowess.",
             "shape": "saga",
             "set": "BEE",
             "loyalty": "",
@@ -2312,7 +2312,7 @@
             "loyalty": "4",
             "artist": "Envar studio",
             "alias": "",
-            "notes": "go to 1RR?"
+            "notes": ""
         },
         {
             "card_name": "Seething Primordial",
@@ -2350,7 +2350,7 @@
             "loyalty": "",
             "artist": "Oleksandr Kozachenko",
             "alias": "",
-            "notes": "wierdtoken"
+            "notes": "!!BUY SKELETONS"
         },
         {
             "card_name": "Solar Extinguisher",
@@ -2820,7 +2820,7 @@
             "loyalty": "",
             "artist": "Cristi Balanescu",
             "alias": "",
-            "notes": "!!CHANGED"
+            "notes": "!!CHANGED (needs reprint dont forget)"
         },
         {
             "card_name": "Ascending Growth",
@@ -3040,7 +3040,7 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
-            "notes": "fav?"
+            "notes": ""
         },
         {
             "card_name": "Terraformer Toad",
@@ -3050,7 +3050,7 @@
             "number": 225,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Whenever this creature deals combat damage to a player, search your library for a land card, reveal it, put it into your hand, then shuffle.\n{2}: Put a +1/+1 counter on this creature.\nSacrifice a land: This creature gains hexproof until end of turn. Tap it.",
+            "rules_text": "Whenever this creature deals combat damage to a player or planeswalker, search your library for a land card, reveal it, put it into your hand, then shuffle.\n{3}: Put a +1/+1 counter on this creature.\nSacrifice a land: This creature gains hexproof until end of turn. Tap it.",
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -3487,7 +3487,7 @@
             "number": 254,
             "color_identity": "WU",
             "cost": "{1}{W}{U}",
-            "rules_text": "Flash\nFlying\nWhen this creature enters, choose one \u2014\n\u2022 Put two +1/+1 counters on this creature.\n\u2022 Scry 2, then draw a card.\n\u2022 Counter target spell.",
+            "rules_text": "Flash\nFlying\nWhen this creature enters, choose one \u2014\n\u2022 Put two +1/+1 counters on this creature.\n\u2022 Scry 2, then draw a card.\n\u2022 Counter target spell unless its controller pays {2}.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -3496,7 +3496,7 @@
             "loyalty": "",
             "artist": "Antonio J. Manzanedo",
             "alias": "",
-            "notes": ""
+            "notes": "!!CHANGED"
         },
         {
             "card_name": "Pierce the Heavens",
@@ -3743,7 +3743,7 @@
             "loyalty": "",
             "artist": "Dominik Mayer",
             "alias": "",
-            "notes": "artifax?"
+            "notes": ""
         },
         {
             "card_name": "April Showers",
@@ -3838,7 +3838,7 @@
             "loyalty": "",
             "artist": "Jenner Chen",
             "alias": "",
-            "notes": "the bang is in the flavor text dumb dumb"
+            "notes": "bang in the flav"
         },
         {
             "card_name": "Loot the Laboratory",
@@ -5341,10 +5341,10 @@
             "number": 4,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "\nCreate a 2/2 white Knight creature token with vigilance.\nCreate a Holy Strength token attached to target creature you control. [i](It's a {W} Aura enchantment with \u201cEnchanted creature gets +1/+2.\u201d)[/i]\nCreate an Angelic Gift token attached to target creature you control. [i](It's a {1}{W} Aura enchantment with \u201cWhen this Aura enters, draw a card\u201d and \u201cEnchanted creature has flying.\u201d )[/i]",
+            "rules_text": "\nI \u2014 Create a 2/2 white Knight creature token with vigilance.\nII \u2014 Create a Holy Strength token attached to target creature you control. [i](It's a {W} Aura enchantment with \u201cEnchanted creature gets +1/+2.\u201d)[/i]\nIII \u2014 Create an Angelic Gift token attached to target creature you control. [i](It's a {1}{W} Aura enchantment with \u201cWhen this Aura enters, draw a card\u201d and \u201cEnchanted creature has flying.\u201d )[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nCreate a 2/2 white Knight creature token with vigilance.\nCreate a Holy Strength token attached to target creature you control. [i](It's a {W} Aura enchantment with \u201cEnchanted creature gets +1/+2.\u201d)[/i]\nCreate an Angelic Gift token attached to target creature you control. [i](It's a {1}{W} Aura enchantment with \u201cWhen this Aura enters, draw a card\u201d and \u201cEnchanted creature has flying.\u201d )[/i]",
+            "special_text": "\nI \u2014 Create a 2/2 white Knight creature token with vigilance.\nII \u2014 Create a Holy Strength token attached to target creature you control. [i](It's a {W} Aura enchantment with \u201cEnchanted creature gets +1/+2.\u201d)[/i]\nIII \u2014 Create an Angelic Gift token attached to target creature you control. [i](It's a {1}{W} Aura enchantment with \u201cWhen this Aura enters, draw a card\u201d and \u201cEnchanted creature has flying.\u201d )[/i]",
             "shape": "saga",
             "set": "BEE",
             "loyalty": "",
@@ -5379,7 +5379,7 @@
             "number": 285,
             "color_identity": "WUBRG",
             "cost": "{5}",
-            "rules_text": "This artifact enters tapped.\n{T}: Add {W}{U}{B}{R}{G}.\nAt the beginning of your first main phase, choose a color you haven't chosen yet. You may play a card you own of that color from outside the game this turn.",
+            "rules_text": "This artifact enters tapped.\n{3}, {T}: Add {W}{U}{B}{R}{G}.\nAt the beginning of your first main phase, choose a color you haven't chosen yet. You may play a card you own of that color from outside the game this turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5388,7 +5388,7 @@
             "loyalty": "",
             "artist": "Ayan Nag",
             "alias": "",
-            "notes": ""
+            "notes": "!!CHANGED"
         },
         {
             "card_name": "Primordial Rhythm",
@@ -5417,7 +5417,7 @@
             "number": 337,
             "color_identity": "WUBRG",
             "cost": "",
-            "rules_text": "Hideaway 5 [i](When this land enters, look at the top five cards of your library, exile one face down, then put the rest on the bottom in a random order.)[/i]\n{T}: Add {C}.\n{1}, {T}: Add one mana of any color.\n{W}{U}{B}{R}{G}, {T}, Sacrifice this land: You may play the exiled card without paying its mana cost.",
+            "rules_text": "Hideaway 5 [i](When this land enters, look at the top five cards of your library, exile one face down, then put the rest on the bottom in a random order.)[/i]\n{T}: Add {C}.\n{1}, {T}: Add one mana of any color.\n{2W}{2U}{2B}{2R}{2G}, {T}, Sacrifice this land: You may play the exiled card without paying its mana cost.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5426,7 +5426,7 @@
             "loyalty": "",
             "artist": "Alex SpLiNe",
             "alias": "",
-            "notes": ""
+            "notes": "!!CHANGED"
         },
         {
             "card_name": "Jade Palace",
@@ -5724,8 +5724,8 @@
             "number": 295,
             "color_identity": "C",
             "cost": "{1}",
-            "rules_text": "As long as equipped creature entered this turn, it has hexproof and haste.\nEquip {1}. As long as this ability is on the stack, players can't cast spells or activate abilities that aren't mana abilities.",
-            "flavor_text": "[i]Faster than fear.[/i]",
+            "rules_text": "As long as equipped creature entered this turn, it gets +1/+1 and has hexproof and haste.\nEquip {1}. As long as this ability is on the stack, players can't cast spells or activate abilities that aren't mana abilities.",
+            "flavor_text": "[i]\u201cFaster than fear.\u201d\n\u2014Runic inscription[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -6009,7 +6009,7 @@
             "number": 92,
             "color_identity": "U",
             "cost": "{6}{U}{U}",
-            "rules_text": "Impending 8\u2014{1}{U} [i](If you cast this spell for its impending cost, it enters with eight time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter from it.)[/i]\nWhenever you cast a spell, remove a time counter from What Waits Below. If you can't, return target nonland permanent to its owner's hand instead.\nIf What Waits Below would be exiled or destroyed, put eight time counters on it instead. It's impending.",
+            "rules_text": "Impending 8\u2014{1}{U} [i](If you cast this spell for its impending cost, it enters with eight time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter from it.)[/i]\nWhenever you cast a spell, remove a time counter from What Waits Below. If you can't, return up to one other target nonland permanent to its owner's hand instead.\nIf What Waits Below would be exiled or destroyed, put eight time counters on it instead. It's impending.",
             "flavor_text": "[i][/i]",
             "pt": "8/8",
             "special_text": "",
@@ -6018,7 +6018,7 @@
             "loyalty": "",
             "artist": "Ryan Van Dongen",
             "alias": "",
-            "notes": ""
+            "notes": "!!CHANGED"
         },
         {
             "card_name": "Voracity Splicer",
@@ -6094,7 +6094,7 @@
             "loyalty": "",
             "artist": "Florian Herold",
             "alias": "",
-            "notes": "weirdtoken"
+            "notes": ""
         },
         {
             "card_name": "Voracious Giant",
@@ -6430,10 +6430,10 @@
             "number": 230,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nCreate a 1/1 colorless Spirit creature token for each land card in your graveyard.\nPut a +1/+1 counter on each creature you control.\nCreatures you control gain trample until end of turn.\nEscape\u2014{3}{G}{G}, Sacrifice a land. [i](You may cast this card from your graveyard for its escape cost.)[/i]",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Create a 1/1 colorless Spirit creature token for each land card in your graveyard.\nPut a +1/+1 counter on each creature you control.\nIII \u2014 Creatures you control gain trample until end of turn.\nEscape\u2014{3}{G}{G}, Sacrifice a land. [i](You may cast this card from your graveyard for its escape cost.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nCreate a 1/1 colorless Spirit creature token for each land card in your graveyard.\nPut a +1/+1 counter on each creature you control.\nCreatures you control gain trample until end of turn.\nEscape\u2014{3}{G}{G}, Sacrifice a land. [i](You may cast this card from your graveyard for its escape cost.)[/i]",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Create a 1/1 colorless Spirit creature token for each land card in your graveyard.\nPut a +1/+1 counter on each creature you control.\nIII \u2014 Creatures you control gain trample until end of turn.\nEscape\u2014{3}{G}{G}, Sacrifice a land. [i](You may cast this card from your graveyard for its escape cost.)[/i]",
             "shape": "saga",
             "set": "BEE",
             "loyalty": "",
@@ -6639,7 +6639,7 @@
             "number": 70,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "At the beginning of combat on your turn, up to one target artifact you control becomes The Big Gun, a legendary 4/4 Construct artifact creature with vigilance in addition to its other types and abilities.",
+            "rules_text": "At the beginning of your first main phase, up to one target artifact you control becomes The Big Gun, a legendary 4/4 Construct artifact creature with vigilance in addition to its other types and abilities.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -6659,7 +6659,7 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
-            "notes": ""
+            "notes": "!!CHANGED"
         },
         {
             "card_name": "Cryptcrawler",
@@ -6684,11 +6684,11 @@
             "card_name": "Untimely Distortion",
             "color": "U",
             "rarity": "cube",
-            "type": "Sorcery",
+            "type": "Instant",
             "number": 90,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "Target permanent's owner shuffles it into their library, then reveals cards from the top of their library until a card that shares a type with it is revealed. The player puts that card onto the battlefield, then shuffles the rest into their library.\nJump-start [i](You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)[/i]",
+            "rules_text": "Target spell or nonland permanent's owner shuffles it into their library, then reveals cards from the top of their library until they reveal a card that shares a type with it. That player may cast that card without paying its mana cost, then shuffles.\nRebound [i](If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast it from exile without paying its mana cost.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -6697,7 +6697,7 @@
             "loyalty": "",
             "artist": "Mark Tarrisse",
             "alias": "",
-            "notes": ""
+            "notes": "!!CHANGED"
         },
         {
             "card_name": "Arcanist's Spellbook",
@@ -6716,7 +6716,7 @@
             "loyalty": "",
             "artist": "Andy Aslamov",
             "alias": "",
-            "notes": "!weirdtoken"
+            "notes": ""
         },
         {
             "card_name": "Harbinger of Glory",
@@ -6830,7 +6830,7 @@
             "loyalty": "",
             "artist": "Bruna Richter",
             "alias": "",
-            "notes": "!weirdtoken"
+            "notes": ""
         },
         {
             "card_name": "Extract Soul",
