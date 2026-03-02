@@ -561,16 +561,6 @@
 			}
 		},
 		{
-			"name": "Tireless Librarian",
-			"rarity": "special",
-			"mana_cost": "{2}{U}{U}",
-			"type": "Creature — Human Wizard",
-			"collector_number": "88",
-			"image_uris": {
-				"en": "https://cool-beens.github.io/sets/BEE-files/img/88_Tireless Librarian.png"
-			}
-		},
-		{
 			"name": "Twinfang Duelist",
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
@@ -3599,6 +3589,16 @@
 			"image_uris": {
 				"en": "https://cool-beens.github.io/sets/BEE-files/img/25_Master of Balance.png"
 			}
+		},
+		{
+			"name": "Tireless Librarian",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/BEE-files/img/88_Tireless Librarian.png"
+			}
 		}
 	]
 
@@ -3659,7 +3659,6 @@
 	1 Talrand's Favored
 	1 Guardian of the Ziggurat
 	1 Three Card Bluff
-	1 Tireless Librarian
 	1 Twinfang Duelist
 	1 Witness the Past
 	1 Attack of the Killer Bees
@@ -3963,3 +3962,4 @@
 	1 Dragon-Tongue Technique
 	1 Spontaneous Plasmosis
 	1 Master of Balance
+	1 Tireless Librarian

@@ -341,7 +341,7 @@
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Each player who has cast a nonenchantment spell this turn can't cast additional nonenchantment spells.",
-            "flavor_text": "[i]\u201cDivinity guides us, not just in our beliefs but in our actions. As such, those without faith cannot be trusted to act.\u201d[/i]",
+            "flavor_text": "[i]\u201cDivinity guides us, in our actions as well as our beliefs. As such, those without faith cannot be trusted to act.\u201d[/i]",
             "pt": "2/2",
             "special_text": "",
             "shape": "normal",
@@ -349,7 +349,7 @@
             "loyalty": "",
             "artist": "Christina Bindon",
             "alias": "",
-            "notes": ""
+            "notes": "!!CHANGED MINOR"
         },
         {
             "card_name": "Supernova",
@@ -634,7 +634,7 @@
             "loyalty": "",
             "artist": "Jenny Chou",
             "alias": "",
-            "notes": "!!CHANGED"
+            "notes": ""
         },
         {
             "card_name": "Cthonic Arcana",
@@ -720,10 +720,10 @@
             "number": 62,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]\nI, II, III \u2014 Draw three cards.\nIV, V \u2014 Discard a card.\nShuffle up to three cards from your graveyard into your library.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]\nDraw three cards.\nDiscard a card.\nShuffle up to three cards from your graveyard into your library.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]\nI, II, III \u2014 Draw three cards.\nIV, V \u2014 Discard a card.\nShuffle up to three cards from your graveyard into your library.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]\nDraw three cards.\nDiscard a card.\nShuffle up to three cards from your graveyard into your library.",
             "shape": "saga",
             "set": "BEE",
             "loyalty": "",
@@ -1104,36 +1104,6 @@
             "notes": ""
         },
         {
-            "card_name": "Tireless Librarian",
-            "color": "U",
-            "rarity": "cube",
-            "type": "Creature \u2014 Human Wizard",
-            "number": 88,
-            "color_identity": "UG",
-            "cost": "{2}{U}{U}",
-            "rules_text": "Flying\nThis creature's power and toughness are each equal to the number of cards in your hand.",
-            "flavor_text": "[i][/i]",
-            "pt": "*/*",
-            "special_text": "",
-            "shape": "adventure",
-            "set": "BEE",
-            "loyalty": "",
-            "artist": "\uc2a4\ub77c SRA",
-            "alias": "",
-            "card_name2": "Endless Archives",
-            "color2": "G",
-            "type2": "Sorcery \u2014 Adventure",
-            "cost2": "{X}{G}",
-            "rules_text2": "Search your library for up to X basic land cards, reveal them, put them into your hand, then shuffle.",
-            "flavor_text2": "[i][/i]",
-            "pt2": "",
-            "special_text2": "",
-            "loyalty2": "",
-            "artist2": "",
-            "alias2": "",
-            "notes": ""
-        },
-        {
             "card_name": "Twinfang Duelist",
             "color": "U",
             "rarity": "cube",
@@ -1274,10 +1244,10 @@
             "number": 102,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II, III \u2014 Whenever a creature dies, each opponent loses 1 life and you gain 1 life.\nEach opponent loses 3 life unless they sacrifice a creature or planeswalker of their choice or discard a card.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nWhenever a creature dies, each opponent loses 1 life and you gain 1 life.\nEach opponent loses 3 life unless they sacrifice a creature or planeswalker of their choice or discard a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II, III \u2014 Whenever a creature dies, each opponent loses 1 life and you gain 1 life.\nEach opponent loses 3 life unless they sacrifice a creature or planeswalker of their choice or discard a card.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nWhenever a creature dies, each opponent loses 1 life and you gain 1 life.\nEach opponent loses 3 life unless they sacrifice a creature or planeswalker of their choice or discard a card.",
             "shape": "saga",
             "set": "BEE",
             "loyalty": "",
@@ -1617,7 +1587,7 @@
             "loyalty": "",
             "artist": "Fajareka Setiawan",
             "alias": "",
-            "notes": "!!CHANGED"
+            "notes": ""
         },
         {
             "card_name": "Repay in Blood",
@@ -2095,7 +2065,7 @@
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "Choose one \u2014\n\u2022 Fracturing Impact deals 3 damage divided as you choose among one, two, or three targets.\n\u2022 Destroy any number of target artifacts with total mana value 3 or less.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]Terracotta makes for excellent shrapnel.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -2103,7 +2073,7 @@
             "loyalty": "",
             "artist": "Stu Harrington",
             "alias": "",
-            "notes": ""
+            "notes": "!!CHANGED MINOR"
         },
         {
             "card_name": "Gluttonous Burglar",
@@ -2227,10 +2197,10 @@
             "number": 167,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Create a 1/1 red Human creature token.\nII \u2014 You may sacrifice a creature. If you do, create a 3/1 red Elemental creature token.\nIII \u2014 You may sacrifice a creature. If you do, create a 4/4 red Dragon Elemental creature token with flying and prowess.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nCreate a 1/1 red Human creature token.\nYou may sacrifice a creature. If you do, create a 3/1 red Elemental creature token.\nYou may sacrifice a creature. If you do, create a 4/4 red Dragon Elemental creature token with flying and prowess.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Create a 1/1 red Human creature token.\nII \u2014 You may sacrifice a creature. If you do, create a 3/1 red Elemental creature token.\nIII \u2014 You may sacrifice a creature. If you do, create a 4/4 red Dragon Elemental creature token with flying and prowess.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nCreate a 1/1 red Human creature token.\nYou may sacrifice a creature. If you do, create a 3/1 red Elemental creature token.\nYou may sacrifice a creature. If you do, create a 4/4 red Dragon Elemental creature token with flying and prowess.",
             "shape": "saga",
             "set": "BEE",
             "loyalty": "",
@@ -3496,7 +3466,7 @@
             "loyalty": "",
             "artist": "Antonio J. Manzanedo",
             "alias": "",
-            "notes": "!!CHANGED"
+            "notes": ""
         },
         {
             "card_name": "Pierce the Heavens",
@@ -5341,10 +5311,10 @@
             "number": 4,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "\nI \u2014 Create a 2/2 white Knight creature token with vigilance.\nII \u2014 Create a Holy Strength token attached to target creature you control. [i](It's a {W} Aura enchantment with \u201cEnchanted creature gets +1/+2.\u201d)[/i]\nIII \u2014 Create an Angelic Gift token attached to target creature you control. [i](It's a {1}{W} Aura enchantment with \u201cWhen this Aura enters, draw a card\u201d and \u201cEnchanted creature has flying.\u201d )[/i]",
+            "rules_text": "\nCreate a 2/2 white Knight creature token with vigilance.\nCreate a Holy Strength token attached to target creature you control. [i](It's a {W} Aura enchantment with \u201cEnchanted creature gets +1/+2.\u201d)[/i]\nCreate an Angelic Gift token attached to target creature you control. [i](It's a {1}{W} Aura enchantment with \u201cWhen this Aura enters, draw a card\u201d and \u201cEnchanted creature has flying.\u201d )[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nI \u2014 Create a 2/2 white Knight creature token with vigilance.\nII \u2014 Create a Holy Strength token attached to target creature you control. [i](It's a {W} Aura enchantment with \u201cEnchanted creature gets +1/+2.\u201d)[/i]\nIII \u2014 Create an Angelic Gift token attached to target creature you control. [i](It's a {1}{W} Aura enchantment with \u201cWhen this Aura enters, draw a card\u201d and \u201cEnchanted creature has flying.\u201d )[/i]",
+            "special_text": "\nCreate a 2/2 white Knight creature token with vigilance.\nCreate a Holy Strength token attached to target creature you control. [i](It's a {W} Aura enchantment with \u201cEnchanted creature gets +1/+2.\u201d)[/i]\nCreate an Angelic Gift token attached to target creature you control. [i](It's a {1}{W} Aura enchantment with \u201cWhen this Aura enters, draw a card\u201d and \u201cEnchanted creature has flying.\u201d )[/i]",
             "shape": "saga",
             "set": "BEE",
             "loyalty": "",
@@ -5388,7 +5358,7 @@
             "loyalty": "",
             "artist": "Ayan Nag",
             "alias": "",
-            "notes": "!!CHANGED"
+            "notes": ""
         },
         {
             "card_name": "Primordial Rhythm",
@@ -5426,7 +5396,7 @@
             "loyalty": "",
             "artist": "Alex SpLiNe",
             "alias": "",
-            "notes": "!!CHANGED"
+            "notes": ""
         },
         {
             "card_name": "Jade Palace",
@@ -6018,7 +5988,7 @@
             "loyalty": "",
             "artist": "Ryan Van Dongen",
             "alias": "",
-            "notes": "!!CHANGED"
+            "notes": ""
         },
         {
             "card_name": "Voracity Splicer",
@@ -6430,10 +6400,10 @@
             "number": 230,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Create a 1/1 colorless Spirit creature token for each land card in your graveyard.\nPut a +1/+1 counter on each creature you control.\nIII \u2014 Creatures you control gain trample until end of turn.\nEscape\u2014{3}{G}{G}, Sacrifice a land. [i](You may cast this card from your graveyard for its escape cost.)[/i]",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nCreate a 1/1 colorless Spirit creature token for each land card in your graveyard.\nPut a +1/+1 counter on each creature you control.\nCreatures you control gain trample until end of turn.\nEscape\u2014{3}{G}{G}, Sacrifice a land. [i](You may cast this card from your graveyard for its escape cost.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Create a 1/1 colorless Spirit creature token for each land card in your graveyard.\nPut a +1/+1 counter on each creature you control.\nIII \u2014 Creatures you control gain trample until end of turn.\nEscape\u2014{3}{G}{G}, Sacrifice a land. [i](You may cast this card from your graveyard for its escape cost.)[/i]",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nCreate a 1/1 colorless Spirit creature token for each land card in your graveyard.\nPut a +1/+1 counter on each creature you control.\nCreatures you control gain trample until end of turn.\nEscape\u2014{3}{G}{G}, Sacrifice a land. [i](You may cast this card from your graveyard for its escape cost.)[/i]",
             "shape": "saga",
             "set": "BEE",
             "loyalty": "",
@@ -6659,7 +6629,7 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
-            "notes": "!!CHANGED"
+            "notes": ""
         },
         {
             "card_name": "Cryptcrawler",
@@ -6697,7 +6667,7 @@
             "loyalty": "",
             "artist": "Mark Tarrisse",
             "alias": "",
-            "notes": "!!CHANGED"
+            "notes": ""
         },
         {
             "card_name": "Arcanist's Spellbook",
@@ -7020,6 +6990,36 @@
             "loyalty": "",
             "artist": "BNI",
             "alias": "",
+            "notes": ""
+        },
+        {
+            "card_name": "Tireless Librarian",
+            "color": "U",
+            "rarity": "cube",
+            "type": "Creature \u2014 Human Wizard",
+            "number": 88,
+            "color_identity": "UG",
+            "cost": "{2}{U}",
+            "rules_text": "Flying\nWhenever this creature attacks, draw a card, then discard a card.",
+            "flavor_text": "[i]Not every plane has the luxury of the Dewey Decimal system.[/i]",
+            "pt": "3/1",
+            "special_text": "",
+            "shape": "adventure",
+            "set": "BEE",
+            "loyalty": "",
+            "artist": "\uc2a4\ub77c SRA",
+            "alias": "",
+            "card_name2": "Endless Archives",
+            "color2": "G",
+            "type2": "Sorcery \u2014 Adventure",
+            "cost2": "{X}{G}",
+            "rules_text2": "Search your library for up to X basic land cards, reveal them, put them into your hand, then shuffle.",
+            "flavor_text2": "[i][/i]",
+            "pt2": "",
+            "special_text2": "",
+            "loyalty2": "",
+            "artist2": "",
+            "alias2": "",
             "notes": ""
         }
     ]
