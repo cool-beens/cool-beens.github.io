@@ -1,0 +1,239 @@
+﻿[
+    {
+        "card_name": "Eternal Protection",
+        "number": 1,
+        "shape": "normal",
+        "set": "HILL"
+    },
+    {
+        "card_name": "Churning Ideation",
+        "number": 2,
+        "shape": "normal",
+        "set": "HILL"
+    },
+    {
+        "card_name": "Budding Coven",
+        "number": 4,
+        "shape": "normal",
+        "set": "HILL"
+    },
+    {
+        "card_name": "Pain Channeling",
+        "number": 6,
+        "shape": "normal",
+        "set": "HILL"
+    },
+    {
+        "card_name": "Gloria, Vineblight Queen",
+        "number": 7,
+        "shape": "normal",
+        "set": "HILL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Mental Miscreant",
+        "number": 3,
+        "shape": "normal",
+        "set": "HILL"
+    },
+    {
+        "card_name": "Harrowing Tide",
+        "number": 5,
+        "shape": "normal",
+        "set": "HILL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Introducing . . .",
+        "number": 8,
+        "shape": "normal",
+        "set": "HILL"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Macabre Diva",
+        "number": 12,
+        "shape": "normal",
+        "set": "HILL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Cataclysmic Flare",
+        "number": 11,
+        "shape": "normal",
+        "set": "HILL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Au, Resplendent One",
+        "number": 9,
+        "shape": "planeswalker",
+        "set": "HILL"
+    },
+    {
+        "card_name": "Insurgent Command",
+        "number": 13,
+        "shape": "normal",
+        "set": "HILL"
+    },
+    {
+        "card_name": "Ayea, Made Manifest",
+        "number": 10,
+        "shape": "planeswalker",
+        "set": "HILL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Amulet of Patience",
+        "number": 14,
+        "shape": "normal",
+        "set": "HILL"
+    },
+    {
+        "card_name": "The Hearthblade",
+        "number": 15,
+        "shape": "normal",
+        "set": "HILL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->land",
+    {
+        "card_name": "New Ardenvale, Seat of Society",
+        "number": 16,
+        "shape": "normal",
+        "set": "HILL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

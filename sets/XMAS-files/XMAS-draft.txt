@@ -1,0 +1,522 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Grow Three Sizes",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Instant",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/25_Grow Three Sizes.png"
+			}
+		},
+		{
+			"name": "Gift of Coal",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/10_Gift of Coal.png"
+			}
+		},
+		{
+			"name": "Coal",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/32_Coal.png"
+			}
+		},
+		{
+			"name": "A Little World of Snow",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/20_A Little World of Snow.png"
+			}
+		},
+		{
+			"name": "Winter Wonderland",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/47_Winter Wonderland.png"
+			}
+		},
+		{
+			"name": "Snowy Highlands",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/41_Snowy Highlands.png"
+			}
+		},
+		{
+			"name": "Snowy Citadel",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/38_Snowy Citadel.png"
+			}
+		},
+		{
+			"name": "Snowy River",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/43_Snowy River.png"
+			}
+		},
+		{
+			"name": "Snowy Spires",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/46_Snowy Spires.png"
+			}
+		},
+		{
+			"name": "Snowy Sinkhole",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/45_Snowy Sinkhole.png"
+			}
+		},
+		{
+			"name": "Snowy Hideout",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/40_Snowy Hideout.png"
+			}
+		},
+		{
+			"name": "Snowy Deadwoods",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/39_Snowy Deadwoods.png"
+			}
+		},
+		{
+			"name": "Murder on the Polar Express",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/11_Murder on the Polar Express.png"
+			}
+		},
+		{
+			"name": "Snowy Shipwreck",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/44_Snowy Shipwreck.png"
+			}
+		},
+		{
+			"name": "Snowy Hillside",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/42_Snowy Hillside.png"
+			}
+		},
+		{
+			"name": "Snowy Canyon",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/37_Snowy Canyon.png"
+			}
+		},
+		{
+			"name": "Sant-Orc-Claus",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Creature — Orc Santa",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/15_Sant-Orc-Claus.png"
+			}
+		},
+		{
+			"name": "Upgraded Sleigh",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/35_Upgraded Sleigh.png"
+			}
+		},
+		{
+			"name": "Christmas Cancel",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/7_Christmas Cancel.png"
+			}
+		},
+		{
+			"name": "Wrath of Santa",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/4_Wrath of Santa.png"
+			}
+		},
+		{
+			"name": "Check It Twice",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/6_Check It Twice.png"
+			}
+		},
+		{
+			"name": "Holiday Ascendancy",
+			"rarity": "special",
+			"mana_cost": "{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/26_Holiday Ascendancy.png"
+			}
+		},
+		{
+			"name": "Claim the North Pole",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/21_Claim the North Pole.png"
+			}
+		},
+		{
+			"name": "Evil Reindeer",
+			"rarity": "special",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Elk",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/23_Evil Reindeer.png"
+			}
+		},
+		{
+			"name": "Steal Christmas",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/8_Steal Christmas.png"
+			}
+		},
+		{
+			"name": "Automatic Elf",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Artifact Creature — Elf Artificer",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/17_Automatic Elf.png"
+			}
+		},
+		{
+			"name": "Elf on the Shelf",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Artifact Creature — Elf Horror",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/22_Elf on the Shelf.png"
+			}
+		},
+		{
+			"name": "The Nutcracker",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/31_The Nutcracker.png"
+			}
+		},
+		{
+			"name": "Gift and Run",
+			"rarity": "special",
+			"mana_cost": "{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/24_Gift and Run.png"
+			}
+		},
+		{
+			"name": "Hallmark Christmas Movie",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/1_Hallmark Christmas Movie.png"
+			}
+		},
+		{
+			"name": "Present",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact — Treasure",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/33_Present.png"
+			}
+		},
+		{
+			"name": "Michael Bublé",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Planeswalker — Michael",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/14_Michael Bublé.png"
+			}
+		},
+		{
+			"name": "The Nightmare Before Christmas",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Enchantment — Musical Saga",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/30_The Nightmare Before Christmas.png"
+			}
+		},
+		{
+			"name": "Ebenezer Scrooge",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/9_Ebenezer Scrooge.png"
+			}
+		},
+		{
+			"name": "Yule Command",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/16_Yule Command.png"
+			}
+		},
+		{
+			"name": "Seasonal Affective Disorder",
+			"rarity": "special",
+			"mana_cost": "{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/29_Seasonal Affective Disorder.png"
+			}
+		},
+		{
+			"name": "Exchange Gifts",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/13_Exchange Gifts.png"
+			}
+		},
+		{
+			"name": "Santa's Forge",
+			"rarity": "special",
+			"mana_cost": "{R}{W}",
+			"type": "Artifact",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/28_Santa's Forge.png"
+			}
+		},
+		{
+			"name": "ST. N1CK Mk. 4000",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Artifact Creature — Robot Santa",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/3_ST. N1CK Mk. 4000.png"
+			}
+		},
+		{
+			"name": "Pull Over",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/2_Pull Over.png"
+			}
+		},
+		{
+			"name": "Decorate the Tree",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/19_Decorate the Tree.png"
+			}
+		},
+		{
+			"name": "Santa's List",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/34_Santa's List.png"
+			}
+		},
+		{
+			"name": "Beefcake Santa",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Gymbro Santa",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/18_Beefcake Santa.png"
+			}
+		},
+		{
+			"name": "Santa Claus",
+			"rarity": "special",
+			"mana_cost": "{2/W}{2/U}{2/B}{2/R}{2/G}",
+			"type": "Legendary Planeswalker — Nicholas",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/27_Santa Claus.png"
+			}
+		},
+		{
+			"name": "Galvanic Sleigh Launcher",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/36_Galvanic Sleigh Launcher.png"
+			}
+		},
+		{
+			"name": "Biblically Accurate Frosty",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Snow Creature — Horror",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/5_Biblically Accurate Frosty.png"
+			}
+		},
+		{
+			"name": "Tempting Calendar",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/XMAS-files/img/12_Tempting Calendar.png"
+			}
+		}
+	]
+
+[cube(15)]
+	1 Grow Three Sizes
+	1 Gift of Coal
+	1 Coal
+	1 A Little World of Snow
+	1 Winter Wonderland
+	1 Snowy Highlands
+	1 Snowy Citadel
+	1 Snowy River
+	1 Snowy Spires
+	1 Snowy Sinkhole
+	1 Snowy Hideout
+	1 Snowy Deadwoods
+	1 Murder on the Polar Express
+	1 Snowy Shipwreck
+	1 Snowy Hillside
+	1 Snowy Canyon
+	1 Sant-Orc-Claus
+	1 Upgraded Sleigh
+	1 Christmas Cancel
+	1 Wrath of Santa
+	1 Check It Twice
+	1 Holiday Ascendancy
+	1 Claim the North Pole
+	1 Evil Reindeer
+	1 Steal Christmas
+	1 Automatic Elf
+	1 Elf on the Shelf
+	1 The Nutcracker
+	1 Gift and Run
+	1 Hallmark Christmas Movie
+	1 Present
+	1 Michael Bublé
+	1 The Nightmare Before Christmas
+	1 Ebenezer Scrooge
+	1 Yule Command
+	1 Seasonal Affective Disorder
+	1 Exchange Gifts
+	1 Santa's Forge
+	1 ST. N1CK Mk. 4000
+	1 Pull Over
+	1 Decorate the Tree
+	1 Santa's List
+	1 Beefcake Santa
+	1 Santa Claus
+	1 Galvanic Sleigh Launcher
+	1 Biblically Accurate Frosty
+	1 Tempting Calendar

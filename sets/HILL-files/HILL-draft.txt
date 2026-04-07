@@ -1,0 +1,181 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Mental Miscreant",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Faerie Rogue",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/HILL-files/img/3_Mental Miscreant.png"
+			}
+		},
+		{
+			"name": "Amulet of Patience",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/HILL-files/img/14_Amulet of Patience.png"
+			}
+		},
+		{
+			"name": "Insurgent Command",
+			"rarity": "special",
+			"mana_cost": "{3}{W/B}{R}",
+			"type": "Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/HILL-files/img/13_Insurgent Command.png"
+			}
+		},
+		{
+			"name": "Pain Channeling",
+			"rarity": "special",
+			"mana_cost": "{R}{R}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/HILL-files/img/6_Pain Channeling.png"
+			}
+		},
+		{
+			"name": "Ayea, Made Manifest",
+			"rarity": "special",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Planeswalker — Ayea",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/HILL-files/img/10_Ayea, Made Manifest.png"
+			}
+		},
+		{
+			"name": "New Ardenvale, Seat of Society",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/HILL-files/img/16_New Ardenvale, Seat of Society.png"
+			}
+		},
+		{
+			"name": "Gloria, Vineblight Queen",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Dryad",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/HILL-files/img/7_Gloria, Vineblight Queen.png"
+			}
+		},
+		{
+			"name": "Churning Ideation",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery — Process",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/HILL-files/img/2_Churning Ideation.png"
+			}
+		},
+		{
+			"name": "The Hearthblade",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/HILL-files/img/15_The Hearthblade.png"
+			}
+		},
+		{
+			"name": "Eternal Protection",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/HILL-files/img/1_Eternal Protection.png"
+			}
+		},
+		{
+			"name": "Budding Coven",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/HILL-files/img/4_Budding Coven.png"
+			}
+		},
+		{
+			"name": "Introducing . . .",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/HILL-files/img/8_Introducing . . ..png"
+			}
+		},
+		{
+			"name": "Au, Resplendent One",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Legendary Planeswalker — Au",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/HILL-files/img/9_Au, Resplendent One.png"
+			}
+		},
+		{
+			"name": "Macabre Diva",
+			"rarity": "special",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Vampire Warlock",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/HILL-files/img/12_Macabre Diva.png"
+			}
+		},
+		{
+			"name": "Harrowing Tide",
+			"rarity": "special",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/HILL-files/img/5_Harrowing Tide.png"
+			}
+		},
+		{
+			"name": "Cataclysmic Flare",
+			"rarity": "special",
+			"mana_cost": "{X}{R}{W}",
+			"type": "Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://cool-beens.github.io/sets/HILL-files/img/11_Cataclysmic Flare.png"
+			}
+		}
+	]
+
+[cube(15)]
+	1 Mental Miscreant
+	1 Amulet of Patience
+	1 Insurgent Command
+	1 Pain Channeling
+	1 Ayea, Made Manifest
+	1 New Ardenvale, Seat of Society
+	1 Gloria, Vineblight Queen
+	1 Churning Ideation
+	1 The Hearthblade
+	1 Eternal Protection
+	1 Budding Coven
+	1 Introducing . . .
+	1 Au, Resplendent One
+	1 Macabre Diva
+	1 Harrowing Tide
+	1 Cataclysmic Flare

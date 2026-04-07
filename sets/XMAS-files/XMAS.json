@@ -1,15 +1,15 @@
 ﻿{
-    "name": "",
+    "name": "Christmas Soup 2025",
     "formats": "",
     "trimmed": "y",
     "image_type": "png",
-    "draft_structure": "none",
+    "draft_structure": "cube",
     "unpreviewed": "card back",
     "cards": [
         {
             "card_name": "Grow Three Sizes",
             "color": "UG",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Instant",
             "number": 25,
             "color_identity": "UG",
@@ -28,7 +28,7 @@
         {
             "card_name": "Gift of Coal",
             "color": "B",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 10,
             "color_identity": "B",
@@ -47,7 +47,7 @@
         {
             "card_name": "Coal",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Artifact",
             "number": 32,
             "color_identity": "C",
@@ -66,7 +66,7 @@
         {
             "card_name": "A Little World of Snow",
             "color": "G",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 20,
             "color_identity": "G",
@@ -85,7 +85,7 @@
         {
             "card_name": "Winter Wonderland",
             "color": "",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Snow Land",
             "number": 47,
             "color_identity": "C",
@@ -104,7 +104,7 @@
         {
             "card_name": "Snowy Highlands",
             "color": "",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Snow Land",
             "number": 41,
             "color_identity": "RG",
@@ -123,7 +123,7 @@
         {
             "card_name": "Snowy Citadel",
             "color": "",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Snow Land",
             "number": 38,
             "color_identity": "BR",
@@ -142,7 +142,7 @@
         {
             "card_name": "Snowy River",
             "color": "",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Snow Land",
             "number": 43,
             "color_identity": "UG",
@@ -161,7 +161,7 @@
         {
             "card_name": "Snowy Spires",
             "color": "",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Snow Land",
             "number": 46,
             "color_identity": "UR",
@@ -180,7 +180,7 @@
         {
             "card_name": "Snowy Sinkhole",
             "color": "",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Snow Land",
             "number": 45,
             "color_identity": "WB",
@@ -199,7 +199,7 @@
         {
             "card_name": "Snowy Hideout",
             "color": "",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Snow Land",
             "number": 40,
             "color_identity": "UB",
@@ -218,7 +218,7 @@
         {
             "card_name": "Snowy Deadwoods",
             "color": "",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Snow Land",
             "number": 39,
             "color_identity": "BG",
@@ -237,7 +237,7 @@
         {
             "card_name": "Murder on the Polar Express",
             "color": "B",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Instant",
             "number": 11,
             "color_identity": "B",
@@ -256,7 +256,7 @@
         {
             "card_name": "Snowy Shipwreck",
             "color": "",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Snow Land",
             "number": 44,
             "color_identity": "WU",
@@ -275,7 +275,7 @@
         {
             "card_name": "Snowy Hillside",
             "color": "",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Snow Land",
             "number": 42,
             "color_identity": "WG",
@@ -294,7 +294,7 @@
         {
             "card_name": "Snowy Canyon",
             "color": "",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Snow Land",
             "number": 37,
             "color_identity": "WR",
@@ -313,7 +313,7 @@
         {
             "card_name": "Sant-Orc-Claus",
             "color": "R",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Orc Santa",
             "number": 15,
             "color_identity": "R",
@@ -332,7 +332,7 @@
         {
             "card_name": "Upgraded Sleigh",
             "color": "",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Artifact \u2014 Vehicle",
             "number": 35,
             "color_identity": "C",
@@ -351,7 +351,7 @@
         {
             "card_name": "Christmas Cancel",
             "color": "U",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Instant",
             "number": 7,
             "color_identity": "U",
@@ -370,7 +370,7 @@
         {
             "card_name": "Wrath of Santa",
             "color": "W",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 4,
             "color_identity": "W",
@@ -389,7 +389,7 @@
         {
             "card_name": "Check It Twice",
             "color": "U",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Instant",
             "number": 6,
             "color_identity": "U",
@@ -408,7 +408,7 @@
         {
             "card_name": "Holiday Ascendancy",
             "color": "RG",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 26,
             "color_identity": "RG",
@@ -427,7 +427,7 @@
         {
             "card_name": "Claim the North Pole",
             "color": "WB",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 21,
             "color_identity": "WB",
@@ -446,7 +446,7 @@
         {
             "card_name": "Evil Reindeer",
             "color": "BR",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Creature \u2014 Elk",
             "number": 23,
             "color_identity": "BR",
@@ -465,7 +465,7 @@
         {
             "card_name": "Steal Christmas",
             "color": "U",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Instant",
             "number": 8,
             "color_identity": "U",
@@ -484,7 +484,7 @@
         {
             "card_name": "Automatic Elf",
             "color": "G",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Artifact Creature \u2014 Elf Artificer",
             "number": 17,
             "color_identity": "G",
@@ -503,7 +503,7 @@
         {
             "card_name": "Elf on the Shelf",
             "color": "UB",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Artifact Creature \u2014 Elf Horror",
             "number": 22,
             "color_identity": "UB",
@@ -522,15 +522,15 @@
         {
             "card_name": "The Nutcracker",
             "color": "WG",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Enchantment \u2014 Saga",
             "number": 31,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nI \u2014 [i]Drosselmeyer's Gift \u2014[/i] Create The Nutcracker. [i](It's a legendary artifact that cracks nuts.)[/i]\nII \u2014 [i]The Nutcracker Comes to Life[/i] \u2014 Target artifact you control becomes a 4/4 artifact creature.\nIII \u2014 [i]The Nutcracker Slays the Seven-Headed Rat King??? [/i]\u2014 Target creature you control fights up to one other target creature.\nIV \u2014 [i]The Land of Sweets \u2014 [/i]You gain 3 life.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\n[i]Drosselmeyer's Gift \u2014[/i] Create The Nutcracker. [i](It's a legendary artifact that cracks nuts.)[/i]\n[i]The Nutcracker Comes to Life[/i] \u2014 Target artifact you control becomes a 4/4 artifact creature.\n[i]The Nutcracker Slays the Seven-Headed Rat King??? [/i]\u2014 Target creature you control fights up to one other target creature.\n[i]The Land of Sweets \u2014 [/i]You gain 3 life.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nI \u2014 [i]Drosselmeyer's Gift \u2014[/i] Create The Nutcracker. [i](It's a legendary artifact that cracks nuts.)[/i]\nII \u2014 [i]The Nutcracker Comes to Life[/i] \u2014 Target artifact you control becomes a 4/4 artifact creature.\nIII \u2014 [i]The Nutcracker Slays the Seven-Headed Rat King??? [/i]\u2014 Target creature you control fights up to one other target creature.\nIV \u2014 [i]The Land of Sweets \u2014 [/i]You gain 3 life.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\n[i]Drosselmeyer's Gift \u2014[/i] Create The Nutcracker. [i](It's a legendary artifact that cracks nuts.)[/i]\n[i]The Nutcracker Comes to Life[/i] \u2014 Target artifact you control becomes a 4/4 artifact creature.\n[i]The Nutcracker Slays the Seven-Headed Rat King??? [/i]\u2014 Target creature you control fights up to one other target creature.\n[i]The Land of Sweets \u2014 [/i]You gain 3 life.",
             "shape": "saga",
             "set": "XMAS",
             "loyalty": "",
@@ -541,7 +541,7 @@
         {
             "card_name": "Gift and Run",
             "color": "UR",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 24,
             "color_identity": "UR",
@@ -560,15 +560,15 @@
         {
             "card_name": "Hallmark Christmas Movie",
             "color": "W",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Enchantment \u2014 Saga",
             "number": 1,
             "color_identity": "W",
             "cost": "{1}{W}{W}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Search your library for a woman who is too busy for love [i](A creature card with mana value 2 or less)[/i], reveal it, put it into your hand, then shuffle.\nII \u2014 Search your library for a man from her hometown [i](A creature card with mana value 2 or less)[/i], reveal it, put it into your hand, then shuffle.\nIII \u2014 Two target creatures you control fall in love. [i](They each get +2/+2 until one of them leaves the battlefield.)[/i]",
+            "rules_text": "\nSearch your library for a woman who is too busy for love [i](A creature card with mana value 2 or less)[/i], reveal it, put it into your hand, then shuffle.\nSearch your library for a man from her hometown [i](A creature card with mana value 2 or less)[/i], reveal it, put it into your hand, then shuffle.\nTwo target creatures you control fall in love. [i](They each get +2/+2 until one of them leaves the battlefield.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Search your library for a woman who is too busy for love [i](A creature card with mana value 2 or less)[/i], reveal it, put it into your hand, then shuffle.\nII \u2014 Search your library for a man from her hometown [i](A creature card with mana value 2 or less)[/i], reveal it, put it into your hand, then shuffle.\nIII \u2014 Two target creatures you control fall in love. [i](They each get +2/+2 until one of them leaves the battlefield.)[/i]",
+            "special_text": "\nSearch your library for a woman who is too busy for love [i](A creature card with mana value 2 or less)[/i], reveal it, put it into your hand, then shuffle.\nSearch your library for a man from her hometown [i](A creature card with mana value 2 or less)[/i], reveal it, put it into your hand, then shuffle.\nTwo target creatures you control fall in love. [i](They each get +2/+2 until one of them leaves the battlefield.)[/i]",
             "shape": "saga",
             "set": "XMAS",
             "loyalty": "",
@@ -579,7 +579,7 @@
         {
             "card_name": "Present",
             "color": "",
-            "rarity": "common",
+            "rarity": "cube",
             "type": "Artifact \u2014 Treasure",
             "number": 33,
             "color_identity": "C",
@@ -598,7 +598,7 @@
         {
             "card_name": "Michael Bubl\u00e9",
             "color": "R",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Planeswalker \u2014 Michael",
             "number": 14,
             "color_identity": "R",
@@ -617,15 +617,15 @@
         {
             "card_name": "The Nightmare Before Christmas",
             "color": "BG",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Enchantment \u2014 Musical Saga",
             "number": 30,
             "color_identity": "BG",
             "cost": "{1}{B}{G}",
-            "rules_text": "Sing-along [i](You may sing a few lines from each song ability as it triggers. If you do, copy it.)[/i]\n[i]This is Halloween \u2014 [/i]Mill three cards.\nI \u2014 [i]What's This? \u2014 [/i]You may put a land card from your hand or graveyard onto the battlefield tapped.\nII \u2014 [i]Kidnap The Sandy Claws \u2014 [/i]Choose up to three creatures. Put a +1/+1 counter on each of them.\nIII \u2014 [i]Oogie Boogie's Song \u2014 [/i]Roll two six-sided dice. Each opponent loses life equal to the difference.",
+            "rules_text": "Sing-along [i](You may sing a few lines from each song ability as it triggers. If you do, copy it.)[/i]\n[i]This is Halloween \u2014 [/i]Mill three cards.\n[i]What's This? \u2014 [/i]You may put a land card from your hand or graveyard onto the battlefield tapped.\n[i]Kidnap The Sandy Claws \u2014 [/i]Choose up to three creatures. Put a +1/+1 counter on each of them.\n[i]Oogie Boogie's Song \u2014 [/i]Roll two six-sided dice. Each opponent loses life equal to the difference.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "Sing-along [i](You may sing a few lines from each song ability as it triggers. If you do, copy it.)[/i]\n[i]This is Halloween \u2014 [/i]Mill three cards.\nI \u2014 [i]What's This? \u2014 [/i]You may put a land card from your hand or graveyard onto the battlefield tapped.\nII \u2014 [i]Kidnap The Sandy Claws \u2014 [/i]Choose up to three creatures. Put a +1/+1 counter on each of them.\nIII \u2014 [i]Oogie Boogie's Song \u2014 [/i]Roll two six-sided dice. Each opponent loses life equal to the difference.",
+            "special_text": "Sing-along [i](You may sing a few lines from each song ability as it triggers. If you do, copy it.)[/i]\n[i]This is Halloween \u2014 [/i]Mill three cards.\n[i]What's This? \u2014 [/i]You may put a land card from your hand or graveyard onto the battlefield tapped.\n[i]Kidnap The Sandy Claws \u2014 [/i]Choose up to three creatures. Put a +1/+1 counter on each of them.\n[i]Oogie Boogie's Song \u2014 [/i]Roll two six-sided dice. Each opponent loses life equal to the difference.",
             "shape": "saga",
             "set": "XMAS",
             "loyalty": "",
@@ -636,7 +636,7 @@
         {
             "card_name": "Ebenezer Scrooge",
             "color": "B",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Human Advisor",
             "number": 9,
             "color_identity": "B",
@@ -655,7 +655,7 @@
         {
             "card_name": "Yule Command",
             "color": "R",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Instant",
             "number": 16,
             "color_identity": "R",
@@ -674,7 +674,7 @@
         {
             "card_name": "Seasonal Affective Disorder",
             "color": "WU",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 29,
             "color_identity": "WU",
@@ -693,7 +693,7 @@
         {
             "card_name": "Exchange Gifts",
             "color": "R",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 13,
             "color_identity": "R",
@@ -712,7 +712,7 @@
         {
             "card_name": "Santa's Forge",
             "color": "WR",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Artifact",
             "number": 28,
             "color_identity": "WR",
@@ -731,7 +731,7 @@
         {
             "card_name": "ST. N1CK Mk. 4000",
             "color": "W",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Artifact Creature \u2014 Robot Santa",
             "number": 3,
             "color_identity": "W",
@@ -750,7 +750,7 @@
         {
             "card_name": "Pull Over",
             "color": "W",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Instant",
             "number": 2,
             "color_identity": "W",
@@ -769,7 +769,7 @@
         {
             "card_name": "Decorate the Tree",
             "color": "G",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Sorcery",
             "number": 19,
             "color_identity": "G",
@@ -788,7 +788,7 @@
         {
             "card_name": "Santa's List",
             "color": "",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Artifact",
             "number": 34,
             "color_identity": "C",
@@ -807,7 +807,7 @@
         {
             "card_name": "Beefcake Santa",
             "color": "G",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Creature \u2014 Gymbro Santa",
             "number": 18,
             "color_identity": "G",
@@ -826,7 +826,7 @@
         {
             "card_name": "Santa Claus",
             "color": "WUBRG",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Planeswalker \u2014 Nicholas",
             "number": 27,
             "color_identity": "WUBRG",
@@ -845,7 +845,7 @@
         {
             "card_name": "Galvanic Sleigh Launcher",
             "color": "",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Land",
             "number": 36,
             "color_identity": "C",
@@ -864,7 +864,7 @@
         {
             "card_name": "Biblically Accurate Frosty",
             "color": "U",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Legendary Snow Creature \u2014 Horror",
             "number": 5,
             "color_identity": "U",
@@ -883,7 +883,7 @@
         {
             "card_name": "Tempting Calendar",
             "color": "B",
-            "rarity": "rare",
+            "rarity": "cube",
             "type": "Enchantment",
             "number": 12,
             "color_identity": "B",
@@ -900,5 +900,5 @@
             "notes": ""
         }
     ],
-    "version": 3
+    "version": 4
 }

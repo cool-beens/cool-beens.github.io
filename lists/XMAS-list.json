@@ -254,18 +254,6 @@
     },
     "a->colorless",
     {
-        "card_name": "Santa's List",
-        "number": 34,
-        "shape": "normal",
-        "set": "XMAS"
-    },
-    {
-        "card_name": "Upgraded Sleigh",
-        "number": 35,
-        "shape": "normal",
-        "set": "XMAS"
-    },
-    {
         "card_name": "Coal",
         "number": 32,
         "shape": "normal",
@@ -274,6 +262,18 @@
     {
         "card_name": "Present",
         "number": 33,
+        "shape": "normal",
+        "set": "XMAS"
+    },
+    {
+        "card_name": "Santa's List",
+        "number": 34,
+        "shape": "normal",
+        "set": "XMAS"
+    },
+    {
+        "card_name": "Upgraded Sleigh",
+        "number": 35,
         "shape": "normal",
         "set": "XMAS"
     },
